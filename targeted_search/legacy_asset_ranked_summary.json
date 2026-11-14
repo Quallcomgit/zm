@@ -1,0 +1,18 @@
+{
+  "items_checked": 2782,
+  "composition_names_checked": 2370,
+  "ranked_candidate_rows": 13309,
+  "top_candidates_per_item": 8,
+  "counts": {
+    "items_with_candidates": 2156,
+    "items_without_candidates": 626,
+    "weak_name_similarity_items": 1375,
+    "medium_name_similarity_items": 548,
+    "high_name_similarity_items": 233
+  },
+  "notes": [
+    "Это ранжирование по названиям, а не подтверждение визуального совпадения.",
+    "Низкий балл не означает, что изображения нет: имя ресурса могло быть полностью изменено.",
+    "BIN-файлы здесь не декодируются и не изменяются."
+  ]
+}
