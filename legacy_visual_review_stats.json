@@ -1,0 +1,47 @@
+{
+  "match_csv_rows": 363,
+  "family_csv_rows": 3665,
+  "unique_compositions": 195,
+  "unique_item_ids_in_match_csv": 325,
+  "unique_objAnim_values_in_match_csv": 232,
+  "unique_legacy_item_refs": 363,
+  "match_method_counts_from_csv_rows": {
+    "exact_objAnim_name": 295,
+    "removed_numeric_objAnim_suffix": 66,
+    "removed_base_suffix": 2
+  },
+  "png_frame_references": 535,
+  "distinct_png_files": 510,
+  "missing_png_frames": 0,
+  "found_png_frames": 535,
+  "composition_files_missing_on_disk": 0,
+  "component_kind_rows": {
+    "anim": 535,
+    "anim_obj": 535,
+    "mobj": 519,
+    "spr": 516
+  },
+  "composition_groups_by_item_type": {
+    "ground": 1,
+    "slag": 1,
+    "friendTransformObject": 3,
+    "pickupBox": 5,
+    "chop": 19,
+    "woodTree": 13,
+    "decoration": 101,
+    "stone": 12,
+    "building": 33,
+    "pirateCaptureObject": 2,
+    "messageBoard": 5,
+    "timedObject": 1,
+    "pier": 3,
+    "elephantBase": 1,
+    "halloweenPrize": 1,
+    "halloweenTower": 1,
+    "pathPart": 6,
+    "seed": 26
+  },
+  "assets_directory": "C:\\Users\\Quallcom\\Desktop\\apk\\assets",
+  "output_directory": "C:\\Users\\Quallcom\\Desktop\\apk",
+  "note": "PNG existence checks are relative to --assets-dir. HTML image URLs are calculated relative to the generated HTML file. This summary does not confirm visual identity or decode BIN files."
+}

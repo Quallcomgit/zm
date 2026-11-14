@@ -1,0 +1,8350 @@
+{
+  "source_file": "comp_manifest_pretty.json",
+  "source_size_bytes": 5145800,
+  "root_type": "object",
+  "root_count": 1390,
+  "top_level": [
+    {
+      "key": "comp:d_crystallite_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_crystallite_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_crystallite_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_mere_water_centre",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:b_totem_leader",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3915
+    },
+    {
+      "key": "comp:d_sandtrack_10_p",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 427
+    },
+    {
+      "key": "comp:b_tape_recorder",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1129
+    },
+    {
+      "key": "comp:b_gate_druids_01",
+      "type": "array",
+      "count": 33,
+      "compact_size_bytes": 2865
+    },
+    {
+      "key": "comp:b_greenvalley_ladder",
+      "type": "array",
+      "count": 18,
+      "compact_size_bytes": 1710
+    },
+    {
+      "key": "comp:d_un_ancestors_decor_0",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 473
+    },
+    {
+      "key": "comp:d_rail_1_1_fix",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 734
+    },
+    {
+      "key": "comp:hermit_newcharacter",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 1022
+    },
+    {
+      "key": "comp:d_japan_gong",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_spooky_fang_flower",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 461
+    },
+    {
+      "key": "comp:b_gate_druids_02",
+      "type": "array",
+      "count": 33,
+      "compact_size_bytes": 2865
+    },
+    {
+      "key": "comp:d_fence_wooden_short_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 473
+    },
+    {
+      "key": "comp:d_easter_egg_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_homealone_column",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 828
+    },
+    {
+      "key": "comp:d_easter_egg_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_fence_wooden_short_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 473
+    },
+    {
+      "key": "comp:d_ikka_fence_1",
+      "type": "array",
+      "count": 8,
+      "compact_size_bytes": 718
+    },
+    {
+      "key": "comp:b_quietgrove_greenhouse",
+      "type": "array",
+      "count": 49,
+      "compact_size_bytes": 4403
+    },
+    {
+      "key": "comp:d_ikka_fence_2",
+      "type": "array",
+      "count": 8,
+      "compact_size_bytes": 718
+    },
+    {
+      "key": "comp:b_totem_shaman",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3915
+    },
+    {
+      "key": "comp:b_mailbox",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 395
+    },
+    {
+      "key": "comp:d_scary_dog",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1127
+    },
+    {
+      "key": "comp:d_oaktree_2",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1125
+    },
+    {
+      "key": "comp:d_cyber_fence_dark_07",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 886
+    },
+    {
+      "key": "comp:d_cyber_fence_dark_08",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 886
+    },
+    {
+      "key": "comp:b_shamanstotem",
+      "type": "array",
+      "count": 27,
+      "compact_size_bytes": 2319
+    },
+    {
+      "key": "comp:d_cyber_fence_dark_05",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 856
+    },
+    {
+      "key": "comp:d_cyber_fence_dark_06",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 886
+    },
+    {
+      "key": "comp:dlc_valentine_island",
+      "type": "array",
+      "count": 6,
+      "compact_size_bytes": 496
+    },
+    {
+      "key": "comp:d_cyber_fence_dark_03",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 856
+    },
+    {
+      "key": "comp:d_skeletons",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:d_cyber_fence_dark_04",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 856
+    },
+    {
+      "key": "comp:d_girl_ghost",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 403
+    },
+    {
+      "key": "comp:d_victory_cap_medium",
+      "type": "array",
+      "count": 7,
+      "compact_size_bytes": 671
+    },
+    {
+      "key": "comp:d_cyber_fence_dark_01",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 856
+    },
+    {
+      "key": "comp:d_oaktree_1",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1130
+    },
+    {
+      "key": "comp:d_cyber_fence_dark_02",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 876
+    },
+    {
+      "key": "comp:d_valent_box_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_knight_bridge",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_stack",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 383
+    },
+    {
+      "key": "comp:b_chocotoy_bridge_01",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 835
+    },
+    {
+      "key": "comp:d_cyber_fence_dark_09",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 886
+    },
+    {
+      "key": "comp:d_chem_table",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3560
+    },
+    {
+      "key": "comp:d_star_shine_2_4",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 427
+    },
+    {
+      "key": "comp:b_aura_photobooth",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 802
+    },
+    {
+      "key": "comp:b_paper_elephant",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3938
+    },
+    {
+      "key": "comp:d_star_shine_2_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 427
+    },
+    {
+      "key": "comp:d_star_shine_2_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 427
+    },
+    {
+      "key": "comp:d_star_shine_2_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 427
+    },
+    {
+      "key": "comp:d_empty_9x1",
+      "type": "array",
+      "count": 1,
+      "compact_size_bytes": 78
+    },
+    {
+      "key": "comp:d_water_top",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:d_strong_fabric",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_obsidian",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 401
+    },
+    {
+      "key": "comp:d_cellar_gate_2",
+      "type": "array",
+      "count": 39,
+      "compact_size_bytes": 3389
+    },
+    {
+      "key": "comp:d_strangewood_step_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 461
+    },
+    {
+      "key": "comp:d_strangewood_step_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 461
+    },
+    {
+      "key": "comp:d_strangewood_step_4",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 461
+    },
+    {
+      "key": "comp:d_lava_top_5_fl",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_stone_japan_q",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_rock_track_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 415
+    },
+    {
+      "key": "comp:d_rock_track_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 415
+    },
+    {
+      "key": "comp:d_rock_track_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 415
+    },
+    {
+      "key": "comp:d_rock_track_4",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 415
+    },
+    {
+      "key": "comp:d_homealone_column_01",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 846
+    },
+    {
+      "key": "comp:d_un_afisha",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3553
+    },
+    {
+      "key": "comp:d_fence_stone_04",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 801
+    },
+    {
+      "key": "comp:d_fence_stone_03",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 801
+    },
+    {
+      "key": "comp:dlc_zolian_island",
+      "type": "array",
+      "count": 36,
+      "compact_size_bytes": 3315
+    },
+    {
+      "key": "comp:d_fence_stone_02",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 801
+    },
+    {
+      "key": "comp:b_temple_2",
+      "type": "array",
+      "count": 49,
+      "compact_size_bytes": 4196
+    },
+    {
+      "key": "comp:d_bamboo_panda_sleep_01",
+      "type": "array",
+      "count": 7,
+      "compact_size_bytes": 662
+    },
+    {
+      "key": "comp:b_temple_3",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3872
+    },
+    {
+      "key": "comp:b_lavaboat",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 735
+    },
+    {
+      "key": "comp:b_temple_4",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3872
+    },
+    {
+      "key": "comp:d_lab_fence_gate_01",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1512
+    },
+    {
+      "key": "comp:b_egypt_lava_gate_left",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 897
+    },
+    {
+      "key": "comp:b_afterparty_strobelight",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1273
+    },
+    {
+      "key": "comp:d_mere_water_top",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:b_indiantotem_2",
+      "type": "array",
+      "count": 27,
+      "compact_size_bytes": 2321
+    },
+    {
+      "key": "comp:b_icosahedron_blue",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1177
+    },
+    {
+      "key": "comp:d_space_tree_01_snow",
+      "type": "array",
+      "count": 16,
+      "compact_size_bytes": 1449
+    },
+    {
+      "key": "comp:d_ravel_blue",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 403
+    },
+    {
+      "key": "comp:d_lab_fence_gate_02",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1512
+    },
+    {
+      "key": "comp:b_trtg_tavern",
+      "type": "array",
+      "count": 102,
+      "compact_size_bytes": 9107
+    },
+    {
+      "key": "comp:dlc_far_north_island",
+      "type": "array",
+      "count": 49,
+      "compact_size_bytes": 4206
+    },
+    {
+      "key": "comp:d_broccoville_bamboo",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 461
+    },
+    {
+      "key": "comp:b_afterparty_punch",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 813
+    },
+    {
+      "key": "comp:b_univercity_globe",
+      "type": "array",
+      "count": 44,
+      "compact_size_bytes": 3787
+    },
+    {
+      "key": "comp:d_un_waterfall",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 409
+    },
+    {
+      "key": "comp:d_goldegg_rabbit_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 455
+    },
+    {
+      "key": "comp:d_shop",
+      "type": "array",
+      "count": 42,
+      "compact_size_bytes": 3608
+    },
+    {
+      "key": "comp:d_goldegg_rabbit_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 455
+    },
+    {
+      "key": "comp:b_baskets_easter3_3",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3971
+    },
+    {
+      "key": "comp:b_decorators_color_machine_01",
+      "type": "array",
+      "count": 64,
+      "compact_size_bytes": 6010
+    },
+    {
+      "key": "comp:d_goldegg_rabbit_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 455
+    },
+    {
+      "key": "comp:d_stonehouse_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_auction_card",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_stonehouse_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_stonehouse_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_superhero_statue",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_yummy_blossom_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:dlc_dragons_island",
+      "type": "array",
+      "count": 43,
+      "compact_size_bytes": 3769
+    },
+    {
+      "key": "comp:d_yummy_blossom_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:dlc_yeti_island",
+      "type": "array",
+      "count": 22,
+      "compact_size_bytes": 1896
+    },
+    {
+      "key": "comp:dlc_dead_island",
+      "type": "array",
+      "count": 18,
+      "compact_size_bytes": 1614
+    },
+    {
+      "key": "comp:d_yummy_blossom_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:b_nygate_01",
+      "type": "array",
+      "count": 51,
+      "compact_size_bytes": 4405
+    },
+    {
+      "key": "comp:b_witch_hut",
+      "type": "array",
+      "count": 42,
+      "compact_size_bytes": 3635
+    },
+    {
+      "key": "comp:b_nygate_02",
+      "type": "array",
+      "count": 51,
+      "compact_size_bytes": 4405
+    },
+    {
+      "key": "comp:b_egypt_lever",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 758
+    },
+    {
+      "key": "comp:b_homealone_castle",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 813
+    },
+    {
+      "key": "comp:d_gingerbread_box_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 445
+    },
+    {
+      "key": "comp:d_gingerbread_box_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 445
+    },
+    {
+      "key": "comp:d_gingerbread_box_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 445
+    },
+    {
+      "key": "comp:d_suitcase_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_micro_battery",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_suitcase_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_slippers_fir",
+      "type": "array",
+      "count": 12,
+      "compact_size_bytes": 1058
+    },
+    {
+      "key": "comp:d_professor_message_invis",
+      "type": "array",
+      "count": 1,
+      "compact_size_bytes": 92
+    },
+    {
+      "key": "comp:d_suitcase_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:ch_un_blockage_01",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 859
+    },
+    {
+      "key": "comp:d_space_capsule_crater",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 473
+    },
+    {
+      "key": "comp:b_skull_gate",
+      "type": "array",
+      "count": 64,
+      "compact_size_bytes": 5613
+    },
+    {
+      "key": "comp:d_yummy_blossom_4",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:ch_un_blockage_03",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 859
+    },
+    {
+      "key": "comp:d_rolling_fruit",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 421
+    },
+    {
+      "key": "comp:ch_un_blockage_02",
+      "type": "array",
+      "count": 7,
+      "compact_size_bytes": 655
+    },
+    {
+      "key": "comp:d_mattress",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 401
+    },
+    {
+      "key": "comp:d_cyber_building_03",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3943
+    },
+    {
+      "key": "comp:d_cyber_building_01",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3592
+    },
+    {
+      "key": "comp:b_table_records",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1049
+    },
+    {
+      "key": "comp:d_cyber_building_02",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3592
+    },
+    {
+      "key": "comp:d_cyber_fence_dark_14",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 856
+    },
+    {
+      "key": "comp:d_cyber_fence_dark_12",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 856
+    },
+    {
+      "key": "comp:d_cyber_fence_dark_13",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 856
+    },
+    {
+      "key": "comp:dlc_lost_island",
+      "type": "array",
+      "count": 16,
+      "compact_size_bytes": 1446
+    },
+    {
+      "key": "comp:dlc_laguna_island",
+      "type": "array",
+      "count": 6,
+      "compact_size_bytes": 508
+    },
+    {
+      "key": "comp:d_trade_boxes",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 419
+    },
+    {
+      "key": "comp:d_spices",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 389
+    },
+    {
+      "key": "comp:d_cyber_fence_dark_10",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 886
+    },
+    {
+      "key": "comp:d_cyber_fence_dark_11",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 886
+    },
+    {
+      "key": "comp:d_space_brick_big",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:d_jewel_tree_01",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1174
+    },
+    {
+      "key": "comp:d_trap",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 985
+    },
+    {
+      "key": "comp:d_jewel_tree_02",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1174
+    },
+    {
+      "key": "comp:d_jewel_tree_03",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1174
+    },
+    {
+      "key": "comp:d_bill_ship",
+      "type": "array",
+      "count": 8,
+      "compact_size_bytes": 670
+    },
+    {
+      "key": "comp:b_bonfire_ready_wos",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 901
+    },
+    {
+      "key": "comp:d_ny16_stone_small_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 467
+    },
+    {
+      "key": "comp:d_broccoli_small",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1180
+    },
+    {
+      "key": "comp:d_ny16_stone_small_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 467
+    },
+    {
+      "key": "comp:b_zombie_zlaton",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 854
+    },
+    {
+      "key": "comp:b_egypt_lava_gate_left_flip",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 927
+    },
+    {
+      "key": "comp:d_frozen_hare",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1422
+    },
+    {
+      "key": "comp:d_artifacts_box",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_wood_bucket_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 421
+    },
+    {
+      "key": "comp:d_vinyl_tapes_0",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_wood_bucket_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 421
+    },
+    {
+      "key": "comp:d_cyber_lantern01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:d_vinyl_tapes_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_cyber_lantern02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:b_zombazon_system",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 1003
+    },
+    {
+      "key": "comp:d_vinyl_tapes_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_vinyl_tapes_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:b_horror_gate_02",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1479
+    },
+    {
+      "key": "comp:d_snow_whirlwind",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 427
+    },
+    {
+      "key": "comp:d_quietgrove_acornsign",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 473
+    },
+    {
+      "key": "comp:b_horror_gate_01",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1479
+    },
+    {
+      "key": "comp:b_westhouse",
+      "type": "array",
+      "count": 54,
+      "compact_size_bytes": 4622
+    },
+    {
+      "key": "comp:d_hallsweets_05",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_pirate_gate_1_2_open",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 448
+    },
+    {
+      "key": "comp:d_broccoli_big",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1148
+    },
+    {
+      "key": "comp:d_hallsweets_06",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_glacier_bath_apes_2",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 1019
+    },
+    {
+      "key": "comp:d_glacier_bath_apes_1",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 1019
+    },
+    {
+      "key": "comp:b_valley_scene",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1506
+    },
+    {
+      "key": "comp:d_hallsweets_04",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_lava_top_3_fl",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:b_paper_giraffe",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3926
+    },
+    {
+      "key": "comp:b_icosahedron_green",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1188
+    },
+    {
+      "key": "comp:un_chest_01_0",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 419
+    },
+    {
+      "key": "comp:b_tesla_furnance",
+      "type": "array",
+      "count": 47,
+      "compact_size_bytes": 4136
+    },
+    {
+      "key": "comp:d_wigwam",
+      "type": "array",
+      "count": 42,
+      "compact_size_bytes": 3617
+    },
+    {
+      "key": "comp:b_wildjungle_webgate_1",
+      "type": "array",
+      "count": 33,
+      "compact_size_bytes": 2923
+    },
+    {
+      "key": "comp:b_wildjungle_webgate_2",
+      "type": "array",
+      "count": 33,
+      "compact_size_bytes": 2923
+    },
+    {
+      "key": "comp:b_football_gardenbed",
+      "type": "array",
+      "count": 49,
+      "compact_size_bytes": 4356
+    },
+    {
+      "key": "comp:d_lava_bottom_4",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_lava_bottom_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:lab_psyscope",
+      "type": "array",
+      "count": 42,
+      "compact_size_bytes": 3628
+    },
+    {
+      "key": "comp:d_lava_bottom_5",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:dlc_honeyvalley_island",
+      "type": "array",
+      "count": 27,
+      "compact_size_bytes": 2385
+    },
+    {
+      "key": "comp:b_emerald_crypt",
+      "type": "array",
+      "count": 54,
+      "compact_size_bytes": 4706
+    },
+    {
+      "key": "comp:d_traffic_cone_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_lava_bottom_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_tourist_tent_1",
+      "type": "array",
+      "count": 42,
+      "compact_size_bytes": 3665
+    },
+    {
+      "key": "comp:d_lava_bottom_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_tourist_tent_2",
+      "type": "array",
+      "count": 42,
+      "compact_size_bytes": 3665
+    },
+    {
+      "key": "comp:b_hotdog_cart",
+      "type": "array",
+      "count": 37,
+      "compact_size_bytes": 3171
+    },
+    {
+      "key": "comp:d_decorators_animal_figures",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 503
+    },
+    {
+      "key": "comp:d_sherlock_hat",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_superhero_cake",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_snow_cannon_red_big",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 467
+    },
+    {
+      "key": "comp:d_pine_wood",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:d_bear1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 383
+    },
+    {
+      "key": "comp:d_lava_bottom_5_fl",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:wagon_1",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3529
+    },
+    {
+      "key": "comp:d_ny16_santa",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:b_descent",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 714
+    },
+    {
+      "key": "comp:d_semaphore_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 419
+    },
+    {
+      "key": "comp:d_un_ancestors_altar_0",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 463
+    },
+    {
+      "key": "comp:d_roll_aquamarine",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:b_broccoville_scarecrow",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 868
+    },
+    {
+      "key": "comp:d_mere_water_top_left_pas_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 483
+    },
+    {
+      "key": "comp:b_spooky_blender",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 801
+    },
+    {
+      "key": "comp:b_un_ancestors_bowl_1",
+      "type": "array",
+      "count": 35,
+      "compact_size_bytes": 3096
+    },
+    {
+      "key": "comp:b_townhall",
+      "type": "array",
+      "count": 49,
+      "compact_size_bytes": 4196
+    },
+    {
+      "key": "comp:d_fire_crater",
+      "type": "array",
+      "count": 7,
+      "compact_size_bytes": 608
+    },
+    {
+      "key": "comp:d_glacier_volcano_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 455
+    },
+    {
+      "key": "comp:d_ravel_red",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 397
+    },
+    {
+      "key": "comp:b_emerald_windshield",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1209
+    },
+    {
+      "key": "comp:d_broccoville_bamboo2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 467
+    },
+    {
+      "key": "comp:d_anchor_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 401
+    },
+    {
+      "key": "comp:d_un_ancestors_bowl_1",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1579
+    },
+    {
+      "key": "comp:d_books_cups_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_space_stone_04_snow",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1168
+    },
+    {
+      "key": "comp:dlc_olympic_island",
+      "type": "array",
+      "count": 42,
+      "compact_size_bytes": 4168
+    },
+    {
+      "key": "comp:d_great_waterfall_01",
+      "type": "array",
+      "count": 7,
+      "compact_size_bytes": 670
+    },
+    {
+      "key": "comp:d_un_letter_fence_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 461
+    },
+    {
+      "key": "comp:d_books_cups_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:b_boat",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 985
+    },
+    {
+      "key": "comp:d_water_bottom_right",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 461
+    },
+    {
+      "key": "comp:d_lab_coffee_machine",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3597
+    },
+    {
+      "key": "comp:dlc_league_island",
+      "type": "array",
+      "count": 76,
+      "compact_size_bytes": 7182
+    },
+    {
+      "key": "comp:d_red_clay",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 401
+    },
+    {
+      "key": "comp:d_space_skull",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 419
+    },
+    {
+      "key": "comp:d_ikka_decor_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:b_strangewood_table",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 824
+    },
+    {
+      "key": "comp:d_color_scroll_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:b_snow_generator",
+      "type": "array",
+      "count": 47,
+      "compact_size_bytes": 4136
+    },
+    {
+      "key": "comp:b_honeyvalley_queen_bee_costume",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1385
+    },
+    {
+      "key": "comp:d_water_top_left",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_magicvalley_seaweed",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 467
+    },
+    {
+      "key": "comp:b_quietgrove_trap_1",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 824
+    },
+    {
+      "key": "comp:d_metal_plate",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 419
+    },
+    {
+      "key": "comp:b_davinci_painting_new",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 842
+    },
+    {
+      "key": "comp:b_vinyl_table",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 758
+    },
+    {
+      "key": "comp:d_space_stone_06_snow",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1170
+    },
+    {
+      "key": "comp:b_flamingo_lake",
+      "type": "array",
+      "count": 25,
+      "compact_size_bytes": 2186
+    },
+    {
+      "key": "comp:b_gingerbread_table",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 455
+    },
+    {
+      "key": "comp:d_semaphore",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:d_giant_bush_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:b_pirate_cave",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 758
+    },
+    {
+      "key": "comp:d_giant_bush_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_giant_bush_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_spooky_map",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:b_un_candles",
+      "type": "array",
+      "count": 25,
+      "compact_size_bytes": 2093
+    },
+    {
+      "key": "comp:b_quietgrove_alpacahouse",
+      "type": "array",
+      "count": 49,
+      "compact_size_bytes": 4419
+    },
+    {
+      "key": "comp:d_gingerbread_stove",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3602
+    },
+    {
+      "key": "comp:d_znak_slon1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_jewel_stone_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_jewel_stone_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_closed_chest",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 420
+    },
+    {
+      "key": "comp:d_elf_boy",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 395
+    },
+    {
+      "key": "comp:b_snow_cannon",
+      "type": "array",
+      "count": 53,
+      "compact_size_bytes": 4583
+    },
+    {
+      "key": "comp:d_emerald_wind",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 415
+    },
+    {
+      "key": "comp:b_magicvalley_workshop",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3574
+    },
+    {
+      "key": "comp:b_tech_garden",
+      "type": "array",
+      "count": 51,
+      "compact_size_bytes": 4433
+    },
+    {
+      "key": "comp:b_smith_tools",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1132
+    },
+    {
+      "key": "comp:b_mirror_portal_02",
+      "type": "array",
+      "count": 35,
+      "compact_size_bytes": 3064
+    },
+    {
+      "key": "comp:d_roll_blue",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:b_mirror_portal_01",
+      "type": "array",
+      "count": 35,
+      "compact_size_bytes": 3064
+    },
+    {
+      "key": "comp:d_gate_beast_02",
+      "type": "array",
+      "count": 33,
+      "compact_size_bytes": 2854
+    },
+    {
+      "key": "comp:d_nest_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 395
+    },
+    {
+      "key": "comp:d_pumpkin_big_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:b_bamboo_gate_02",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 791
+    },
+    {
+      "key": "comp:b_bamboo_gate_01",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 791
+    },
+    {
+      "key": "comp:d_un_altar_side_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 465
+    },
+    {
+      "key": "comp:d_un_altar_side_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 465
+    },
+    {
+      "key": "comp:d_giftbag_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_giftbag_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_sand_storm_1_comp",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 434
+    },
+    {
+      "key": "comp:d_remote_control",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 791
+    },
+    {
+      "key": "comp:d_dark_sweetbox",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 809
+    },
+    {
+      "key": "comp:b_winter_palace",
+      "type": "array",
+      "count": 54,
+      "compact_size_bytes": 4706
+    },
+    {
+      "key": "comp:d_tribune_b_blue_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:b_greenvalley_sprinkler",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1269
+    },
+    {
+      "key": "comp:d_gate_beast_01",
+      "type": "array",
+      "count": 33,
+      "compact_size_bytes": 2854
+    },
+    {
+      "key": "comp:d_tribune_b_blue_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_alien_trader_table",
+      "type": "array",
+      "count": 12,
+      "compact_size_bytes": 1147
+    },
+    {
+      "key": "comp:d_elf_girl",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 401
+    },
+    {
+      "key": "comp:b_mist_plate",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3893
+    },
+    {
+      "key": "comp:d_fence_52_s2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 453
+    },
+    {
+      "key": "comp:d_cabin_deco",
+      "type": "array",
+      "count": 42,
+      "compact_size_bytes": 3616
+    },
+    {
+      "key": "comp:d_fence_52_s1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 453
+    },
+    {
+      "key": "comp:b_strangewood_shop_wos",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 453
+    },
+    {
+      "key": "comp:treasurebox_tools_04",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 461
+    },
+    {
+      "key": "comp:dlc_ghostfair_island",
+      "type": "array",
+      "count": 14,
+      "compact_size_bytes": 1237
+    },
+    {
+      "key": "comp:d_jewel_bush_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_gingerbread_blueberry",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 898
+    },
+    {
+      "key": "comp:d_jewel_bush_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:treasurebox_tools_05",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 461
+    },
+    {
+      "key": "comp:d_treasure_lucky_coin_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 485
+    },
+    {
+      "key": "comp:d_treasure_lucky_coin_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 485
+    },
+    {
+      "key": "comp:d_spider_column_1",
+      "type": "array",
+      "count": 18,
+      "compact_size_bytes": 1650
+    },
+    {
+      "key": "comp:d_treasure_lucky_coin_05",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 485
+    },
+    {
+      "key": "comp:dlc_mist_island",
+      "type": "array",
+      "count": 79,
+      "compact_size_bytes": 7685
+    },
+    {
+      "key": "comp:d_treasure_lucky_coin_04",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 485
+    },
+    {
+      "key": "comp:d_quietgrove_bigfootprint_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 503
+    },
+    {
+      "key": "comp:d_volcano_1",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3554
+    },
+    {
+      "key": "comp:d_treasure_lucky_coin_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 485
+    },
+    {
+      "key": "comp:d_quietgrove_bigfootprint_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 503
+    },
+    {
+      "key": "comp:d_quietgrove_bigfootprint_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 503
+    },
+    {
+      "key": "comp:d_space_tree_01_slime",
+      "type": "array",
+      "count": 21,
+      "compact_size_bytes": 1860
+    },
+    {
+      "key": "comp:d_chinabox_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_vinyl_brokentape_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 461
+    },
+    {
+      "key": "comp:d_chinabox_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_vinyl_brokentape_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 461
+    },
+    {
+      "key": "comp:d_chinabox_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_vinyl_brokentape_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 461
+    },
+    {
+      "key": "comp:d_ice_bush_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_egg_rabbit1_2",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3926
+    },
+    {
+      "key": "comp:b_noodles_tiger",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 830
+    },
+    {
+      "key": "comp:b_books_dragon",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1113
+    },
+    {
+      "key": "comp:d_ice_bush_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:b_apiolog",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 936
+    },
+    {
+      "key": "comp:d_button_table",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:b_superhero_cookie_guard",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 900
+    },
+    {
+      "key": "comp:b_classic_car_azure",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1193
+    },
+    {
+      "key": "comp:b_underground_crystal_red",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 491
+    },
+    {
+      "key": "comp:dlc_lab_island",
+      "type": "array",
+      "count": 47,
+      "compact_size_bytes": 4428
+    },
+    {
+      "key": "comp:b_vinyl_gramophone_z",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1706
+    },
+    {
+      "key": "comp:d_rail_1_fix",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_junk_fence_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_junk_fence_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_junk_fence_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:b_olympic_juicer",
+      "type": "array",
+      "count": 51,
+      "compact_size_bytes": 4489
+    },
+    {
+      "key": "comp:d_junk_fence_4",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_bushbig",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 395
+    },
+    {
+      "key": "comp:d_junk_fence_5",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_junk_fence_6",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_trebuchet_ball",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_junk_fence_7",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:b_vinyl_gramophone_p",
+      "type": "array",
+      "count": 29,
+      "compact_size_bytes": 2850
+    },
+    {
+      "key": "comp:d_ghost_red",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:b_stone_garden",
+      "type": "array",
+      "count": 53,
+      "compact_size_bytes": 4604
+    },
+    {
+      "key": "comp:b_van_ice_cream",
+      "type": "array",
+      "count": 50,
+      "compact_size_bytes": 4357
+    },
+    {
+      "key": "comp:b_dam_01",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1117
+    },
+    {
+      "key": "comp:b_dam_02",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1117
+    },
+    {
+      "key": "comp:d_lava_center_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_spider_fence_double_1",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1541
+    },
+    {
+      "key": "comp:d_skull_tile",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 807
+    },
+    {
+      "key": "comp:d_sheep_sleep",
+      "type": "array",
+      "count": 7,
+      "compact_size_bytes": 584
+    },
+    {
+      "key": "comp:b_underground_scroll_red",
+      "type": "array",
+      "count": 27,
+      "compact_size_bytes": 2409
+    },
+    {
+      "key": "comp:d_stone_lion_anim_1",
+      "type": "array",
+      "count": 7,
+      "compact_size_bytes": 641
+    },
+    {
+      "key": "comp:b_monkeys",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 714
+    },
+    {
+      "key": "comp:d_exhibit_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_trtg_decor_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:b_vinyl_gramophone_c",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1706
+    },
+    {
+      "key": "comp:d_exhibit_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:dlc_memories_island",
+      "type": "array",
+      "count": 6,
+      "compact_size_bytes": 495
+    },
+    {
+      "key": "comp:d_exhibit_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_golden_idol_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 421
+    },
+    {
+      "key": "comp:b_time_tower_dark",
+      "type": "array",
+      "count": 66,
+      "compact_size_bytes": 5825
+    },
+    {
+      "key": "comp:b_holiday_platform",
+      "type": "array",
+      "count": 63,
+      "compact_size_bytes": 5626
+    },
+    {
+      "key": "comp:d_honeyvalley_desert_flower_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 521
+    },
+    {
+      "key": "comp:d_honeyvalley_desert_flower_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 521
+    },
+    {
+      "key": "comp:b_olympic_marble_statue",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1257
+    },
+    {
+      "key": "comp:d_fireworks_box_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_exhibit_05",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_exhibit_04",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:b_space_stonebug",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_skull_engine",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_exhibit_06",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_trtg_decor_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:b_cocoa_machine_1",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 802
+    },
+    {
+      "key": "comp:b_antique_gate_1",
+      "type": "array",
+      "count": 33,
+      "compact_size_bytes": 2865
+    },
+    {
+      "key": "comp:b_antique_gate_2",
+      "type": "array",
+      "count": 33,
+      "compact_size_bytes": 2865
+    },
+    {
+      "key": "comp:d_ship_unsinkable",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:d_rail_7",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 389
+    },
+    {
+      "key": "comp:d_pirate_pole_1_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:d_pirate_pole_1_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:d_noodles_box_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_noodles_box_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_noodles_box_4",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_noodles_box_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_fake_castle",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 419
+    },
+    {
+      "key": "comp:b_handmade_house",
+      "type": "array",
+      "count": 50,
+      "compact_size_bytes": 4373
+    },
+    {
+      "key": "comp:d_ruined_castle",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3578
+    },
+    {
+      "key": "comp:b_human_helicopter",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3595
+    },
+    {
+      "key": "comp:dlc_emotions_island",
+      "type": "array",
+      "count": 1,
+      "compact_size_bytes": 86
+    },
+    {
+      "key": "comp:d_skeleton",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 401
+    },
+    {
+      "key": "comp:d_cream_cup_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_farmers_basket",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_cream_cup_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:b_city_hall",
+      "type": "array",
+      "count": 51,
+      "compact_size_bytes": 4389
+    },
+    {
+      "key": "comp:d_gold_mountain",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_spooky_candlestick_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 473
+    },
+    {
+      "key": "comp:b_vinyl_factory",
+      "type": "array",
+      "count": 51,
+      "compact_size_bytes": 4471
+    },
+    {
+      "key": "comp:d_staff_stand_alone",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 455
+    },
+    {
+      "key": "comp:d_brick_doors_02",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 974
+    },
+    {
+      "key": "comp:d_spooky_candlestick_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 473
+    },
+    {
+      "key": "comp:d_cracked_coconut_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 451
+    },
+    {
+      "key": "comp:d_cracked_coconut_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 451
+    },
+    {
+      "key": "comp:d_cracked_coconut_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 451
+    },
+    {
+      "key": "comp:d_sandtrack_05_p",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 427
+    },
+    {
+      "key": "comp:d_space_flower_1_slime",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 945
+    },
+    {
+      "key": "comp:d_egg_rabbit3_2",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3926
+    },
+    {
+      "key": "comp:b_conyon_stone_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:b_conyon_stone_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:b_junk_gate_01",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 769
+    },
+    {
+      "key": "comp:b_junk_gate_02",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 769
+    },
+    {
+      "key": "comp:d_mere_water_bottom",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:b_horror_bonfire",
+      "type": "array",
+      "count": 12,
+      "compact_size_bytes": 1082
+    },
+    {
+      "key": "comp:d_beast_flower_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_brick_doors_01",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 974
+    },
+    {
+      "key": "comp:d_dark_tree03",
+      "type": "array",
+      "count": 12,
+      "compact_size_bytes": 1075
+    },
+    {
+      "key": "comp:d_space_tree_03_1_snow",
+      "type": "array",
+      "count": 16,
+      "compact_size_bytes": 1453
+    },
+    {
+      "key": "comp:d_dark_tree01",
+      "type": "array",
+      "count": 12,
+      "compact_size_bytes": 1075
+    },
+    {
+      "key": "comp:d_xmasvillage_candy_jar",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 479
+    },
+    {
+      "key": "comp:d_fake_valentine",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3583
+    },
+    {
+      "key": "comp:d_crashed_boat",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_wood_table_1",
+      "type": "array",
+      "count": 29,
+      "compact_size_bytes": 2489
+    },
+    {
+      "key": "comp:b_noodles_temple_1",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3556
+    },
+    {
+      "key": "comp:d_old_pipe_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_old_pipe_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_cat_mattress_pets",
+      "type": "array",
+      "count": 7,
+      "compact_size_bytes": 647
+    },
+    {
+      "key": "comp:b_memories_torch_2",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 1011
+    },
+    {
+      "key": "comp:d_wrecked_ship",
+      "type": "array",
+      "count": 42,
+      "compact_size_bytes": 3638
+    },
+    {
+      "key": "comp:b_memories_torch_1",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 1011
+    },
+    {
+      "key": "comp:d_cheshire_box_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:b_paper_zebra",
+      "type": "array",
+      "count": 33,
+      "compact_size_bytes": 2832
+    },
+    {
+      "key": "comp:d_cyber_fence_01",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 821
+    },
+    {
+      "key": "comp:d_cyber_fence_04",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 811
+    },
+    {
+      "key": "comp:d_cyber_fence_05",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 801
+    },
+    {
+      "key": "comp:d_cyber_fence_02",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 821
+    },
+    {
+      "key": "comp:d_cyber_fence_03",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 821
+    },
+    {
+      "key": "comp:d_cyber_fence_08",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 831
+    },
+    {
+      "key": "comp:d_cyber_fence_09",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 801
+    },
+    {
+      "key": "comp:dlc_spooky_island",
+      "type": "array",
+      "count": 51,
+      "compact_size_bytes": 4594
+    },
+    {
+      "key": "comp:d_cyber_fence_06",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 831
+    },
+    {
+      "key": "comp:d_cyber_fence_07",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 831
+    },
+    {
+      "key": "comp:d_glacier_crater_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:b_factory_eggs",
+      "type": "array",
+      "count": 53,
+      "compact_size_bytes": 4656
+    },
+    {
+      "key": "comp:d_quietgrove_wool",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:d_glacier_crater_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_zombiecon_costume_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 467
+    },
+    {
+      "key": "comp:b_exhibit_01",
+      "type": "array",
+      "count": 53,
+      "compact_size_bytes": 4522
+    },
+    {
+      "key": "comp:d_old_pipe_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_zombiecon_costume_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 467
+    },
+    {
+      "key": "comp:b_3dprinter",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3882
+    },
+    {
+      "key": "comp:d_zombiecon_costume_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 467
+    },
+    {
+      "key": "comp:d_lab_place_bucket",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 780
+    },
+    {
+      "key": "comp:d_bulletin_board_2",
+      "type": "array",
+      "count": 7,
+      "compact_size_bytes": 659
+    },
+    {
+      "key": "comp:d_space_tree_03_snow",
+      "type": "array",
+      "count": 16,
+      "compact_size_bytes": 1449
+    },
+    {
+      "key": "comp:d_bulletin_board_1",
+      "type": "array",
+      "count": 7,
+      "compact_size_bytes": 659
+    },
+    {
+      "key": "comp:b_lake",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 771
+    },
+    {
+      "key": "comp:d_janitor_hut",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 429
+    },
+    {
+      "key": "comp:d_cyber_fence_11",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 801
+    },
+    {
+      "key": "comp:d_cyber_fence_12",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 831
+    },
+    {
+      "key": "comp:d_cyber_fence_10",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 801
+    },
+    {
+      "key": "comp:d_new_cactus2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 419
+    },
+    {
+      "key": "comp:d_space_stone_03_snow",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1168
+    },
+    {
+      "key": "comp:d_cyber_fence_13",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 831
+    },
+    {
+      "key": "comp:b_nescafe_cauldron_01",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1205
+    },
+    {
+      "key": "comp:d_cyber_fence_14",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 831
+    },
+    {
+      "key": "comp:b_sand_zombie",
+      "type": "array",
+      "count": 54,
+      "compact_size_bytes": 4664
+    },
+    {
+      "key": "comp:d_honeyvalley_bee_hive3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 479
+    },
+    {
+      "key": "comp:b_dark_cashbox",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1113
+    },
+    {
+      "key": "comp:d_table_plaid",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 409
+    },
+    {
+      "key": "comp:d_university_laboratory_bench",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 515
+    },
+    {
+      "key": "comp:dlc_janitor_island",
+      "type": "array",
+      "count": 23,
+      "compact_size_bytes": 2064
+    },
+    {
+      "key": "comp:b_mansion",
+      "type": "array",
+      "count": 53,
+      "compact_size_bytes": 4499
+    },
+    {
+      "key": "comp:dlc_homealone_island",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3793
+    },
+    {
+      "key": "comp:d_magnetic_tape",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:b_greenvalley_trade_02",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 857
+    },
+    {
+      "key": "comp:b_underground_portal_1_1",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3631
+    },
+    {
+      "key": "comp:b_raft",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 681
+    },
+    {
+      "key": "comp:b_greenvalley_trade_03",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 857
+    },
+    {
+      "key": "comp:b_frozen_lake",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3905
+    },
+    {
+      "key": "comp:b_greenvalley_trade_01",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 857
+    },
+    {
+      "key": "comp:d_pillowbox_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_pillowbox_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_newfire_crater_0",
+      "type": "array",
+      "count": 25,
+      "compact_size_bytes": 2124
+    },
+    {
+      "key": "comp:d_pillowbox_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:b_greenvalley_trade_04",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 857
+    },
+    {
+      "key": "comp:d_pillowbox_04",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:b_decorators_form_machine",
+      "type": "array",
+      "count": 87,
+      "compact_size_bytes": 8798
+    },
+    {
+      "key": "comp:d_greenvalley_clover_cart",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 491
+    },
+    {
+      "key": "comp:d_lava_top_5",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_lava_top_4",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_lava_top_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:b_monster_trap_01",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 802
+    },
+    {
+      "key": "comp:d_magicvalley_hypnowatch",
+      "type": "array",
+      "count": 44,
+      "compact_size_bytes": 3938
+    },
+    {
+      "key": "comp:b_yarn",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 985
+    },
+    {
+      "key": "comp:d_stone_wall_1",
+      "type": "array",
+      "count": 29,
+      "compact_size_bytes": 2499
+    },
+    {
+      "key": "comp:d_stone_wall_2",
+      "type": "array",
+      "count": 29,
+      "compact_size_bytes": 2499
+    },
+    {
+      "key": "comp:d_rage_mushroom_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_stone_wall_3",
+      "type": "array",
+      "count": 21,
+      "compact_size_bytes": 1771
+    },
+    {
+      "key": "comp:b_seasons_wheel_1",
+      "type": "array",
+      "count": 46,
+      "compact_size_bytes": 4036
+    },
+    {
+      "key": "comp:d_rage_mushroom_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_stone_wall_4",
+      "type": "array",
+      "count": 21,
+      "compact_size_bytes": 1771
+    },
+    {
+      "key": "comp:b_honeyvalley_bee_hive2",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 868
+    },
+    {
+      "key": "comp:d_barrel_rum",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_lava_top_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:dlc_japan_island",
+      "type": "array",
+      "count": 46,
+      "compact_size_bytes": 4303
+    },
+    {
+      "key": "comp:ch_car_bus",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 401
+    },
+    {
+      "key": "comp:d_water_bottom_left",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 455
+    },
+    {
+      "key": "comp:b_honeyvalley_bee_hive1",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 868
+    },
+    {
+      "key": "comp:d_homealone_wall_04",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 839
+    },
+    {
+      "key": "comp:d_tile_old_1_6",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:b_china_gate_02",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1468
+    },
+    {
+      "key": "comp:d_tile_old_1_5",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:b_china_gate_01",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1468
+    },
+    {
+      "key": "comp:d_pirate_fence_2_6",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_tile_old_1_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_pirate_fence_2_5",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_tile_old_1_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_tile_old_1_4",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_tile_old_1_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:b_noodles_pot",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 419
+    },
+    {
+      "key": "comp:b_metal_rat",
+      "type": "array",
+      "count": 48,
+      "compact_size_bytes": 4147
+    },
+    {
+      "key": "comp:b_spooky_swamp",
+      "type": "array",
+      "count": 15,
+      "compact_size_bytes": 1311
+    },
+    {
+      "key": "comp:dlc_skull_island",
+      "type": "array",
+      "count": 46,
+      "compact_size_bytes": 4446
+    },
+    {
+      "key": "comp:d_tortuga_invis_ship",
+      "type": "array",
+      "count": 1,
+      "compact_size_bytes": 87
+    },
+    {
+      "key": "comp:d_lost_lanter",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 809
+    },
+    {
+      "key": "comp:d_homealone_wall_01",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 839
+    },
+    {
+      "key": "comp:d_homealone_wall_02",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 839
+    },
+    {
+      "key": "comp:b_strangewood_pinata_1",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1241
+    },
+    {
+      "key": "comp:d_glacier_bath_zombie",
+      "type": "array",
+      "count": 22,
+      "compact_size_bytes": 1958
+    },
+    {
+      "key": "comp:d_homealone_wall_03",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 839
+    },
+    {
+      "key": "comp:d_lab_punch_table",
+      "type": "array",
+      "count": 49,
+      "compact_size_bytes": 4290
+    },
+    {
+      "key": "comp:b_cyber_switch",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 729
+    },
+    {
+      "key": "comp:d_tea_bush",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 401
+    },
+    {
+      "key": "comp:d_lab_fence_01",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 779
+    },
+    {
+      "key": "comp:d_lab_fence_04",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 779
+    },
+    {
+      "key": "comp:d_lab_fence_05",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 779
+    },
+    {
+      "key": "comp:d_lab_fence_02",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 779
+    },
+    {
+      "key": "comp:b_un_westgate_2",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1468
+    },
+    {
+      "key": "comp:d_lab_fence_03",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 779
+    },
+    {
+      "key": "comp:d_track_emerald_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_lab_fence_06",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 779
+    },
+    {
+      "key": "comp:d_lab_fence_07",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 779
+    },
+    {
+      "key": "comp:b_giant_portal_02",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 1000
+    },
+    {
+      "key": "comp:b_giant_portal_01",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 1000
+    },
+    {
+      "key": "comp:b_memories_gate_1",
+      "type": "array",
+      "count": 64,
+      "compact_size_bytes": 5646
+    },
+    {
+      "key": "comp:b_memories_tree",
+      "type": "array",
+      "count": 25,
+      "compact_size_bytes": 2126
+    },
+    {
+      "key": "comp:d_tin_soldier_4",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_fountain_davinci",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1097
+    },
+    {
+      "key": "comp:d_tin_soldier_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_un_ancestors_statue_01",
+      "type": "array",
+      "count": 8,
+      "compact_size_bytes": 738
+    },
+    {
+      "key": "comp:d_tin_soldier_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_un_ancestors_statue_02",
+      "type": "array",
+      "count": 8,
+      "compact_size_bytes": 734
+    },
+    {
+      "key": "comp:d_tin_soldier_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_animal_tires_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:dlc_nyspace_island",
+      "type": "array",
+      "count": 86,
+      "compact_size_bytes": 8465
+    },
+    {
+      "key": "comp:d_animal_tires_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_space_flower_3_snow",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 791
+    },
+    {
+      "key": "comp:d_animal_tires_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_animal_tires_4",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_afterparty_note",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:b_clock_spruce2",
+      "type": "array",
+      "count": 58,
+      "compact_size_bytes": 5196
+    },
+    {
+      "key": "comp:b_spider_gate_02",
+      "type": "array",
+      "count": 33,
+      "compact_size_bytes": 2865
+    },
+    {
+      "key": "comp:b_sklad",
+      "type": "array",
+      "count": 56,
+      "compact_size_bytes": 4704
+    },
+    {
+      "key": "comp:d_carrot_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:b_honeyvalley_huge_flower",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 890
+    },
+    {
+      "key": "comp:d_carrot_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:b_whitegate_s_1",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1448
+    },
+    {
+      "key": "comp:d_sandtrack_01_p",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 427
+    },
+    {
+      "key": "comp:b_prof_stage_2",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 1007
+    },
+    {
+      "key": "comp:b_whitegate_s_2",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1448
+    },
+    {
+      "key": "comp:d_mist_lockstone",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 791
+    },
+    {
+      "key": "comp:d_daruma_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:d_daruma_04",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:d_asphalt_strip_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_asphalt_strip_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_daruma_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:d_daruma_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:d_witch_hat_tp",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_decorators_cloud_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 467
+    },
+    {
+      "key": "comp:d_un_cactus_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_decorators_cloud_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 467
+    },
+    {
+      "key": "comp:d_mist_bigstone",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_un_cactus_04",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_honeyvalley_glade_flowers",
+      "type": "array",
+      "count": 21,
+      "compact_size_bytes": 2195
+    },
+    {
+      "key": "comp:d_dynamite_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_dynamite_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_un_cactus_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_un_cactus_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_space_tree_01_1_snow",
+      "type": "array",
+      "count": 16,
+      "compact_size_bytes": 1453
+    },
+    {
+      "key": "comp:b_invis_char",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 418
+    },
+    {
+      "key": "comp:d_superhero_chocolate_tree",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 931
+    },
+    {
+      "key": "comp:d_mirror_ghost_04",
+      "type": "array",
+      "count": 33,
+      "compact_size_bytes": 2866
+    },
+    {
+      "key": "comp:d_mirror_ghost_03",
+      "type": "array",
+      "count": 33,
+      "compact_size_bytes": 2866
+    },
+    {
+      "key": "comp:d_mirror_ghost_02",
+      "type": "array",
+      "count": 31,
+      "compact_size_bytes": 2699
+    },
+    {
+      "key": "comp:d_mirror_ghost_01",
+      "type": "array",
+      "count": 31,
+      "compact_size_bytes": 2699
+    },
+    {
+      "key": "comp:b_stone_seahorse",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3952
+    },
+    {
+      "key": "comp:d_rail_2_fix",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_frozen_bison",
+      "type": "array",
+      "count": 19,
+      "compact_size_bytes": 1626
+    },
+    {
+      "key": "comp:b_pets_dog",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 753
+    },
+    {
+      "key": "comp:b_totem_healer",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3915
+    },
+    {
+      "key": "comp:d_magic_dust",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_skeleton_hands",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:b_smith",
+      "type": "array",
+      "count": 50,
+      "compact_size_bytes": 4229
+    },
+    {
+      "key": "comp:d_fan_hat_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_cook_brainer_red",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 4370
+    },
+    {
+      "key": "comp:d_fan_hat_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:b_toys_pile",
+      "type": "array",
+      "count": 61,
+      "compact_size_bytes": 5199
+    },
+    {
+      "key": "comp:b_prof_idle",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 1004
+    },
+    {
+      "key": "comp:b_farnorth_gate_02",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 813
+    },
+    {
+      "key": "comp:b_farnorth_gate_01",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 813
+    },
+    {
+      "key": "comp:dlc_xmasvillage_island",
+      "type": "array",
+      "count": 36,
+      "compact_size_bytes": 3189
+    },
+    {
+      "key": "comp:dlc_broccoville_island",
+      "type": "array",
+      "count": 12,
+      "compact_size_bytes": 1153
+    },
+    {
+      "key": "comp:b_quietgrove_squirrel_acorn",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1271
+    },
+    {
+      "key": "comp:d_lab_track_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 415
+    },
+    {
+      "key": "comp:d_superhero_marshmellow_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 491
+    },
+    {
+      "key": "comp:d_lab_track_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 415
+    },
+    {
+      "key": "comp:d_superhero_marshmellow_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 491
+    },
+    {
+      "key": "comp:d_superhero_marshmellow_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 491
+    },
+    {
+      "key": "comp:d_scastle_arc_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:b_zombie_zomer",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 1043
+    },
+    {
+      "key": "comp:d_scastle_arc_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_ravel_green",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 419
+    },
+    {
+      "key": "comp:d_scastle_arc_04",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_hammer_thor",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 419
+    },
+    {
+      "key": "comp:d_gold_egg",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 401
+    },
+    {
+      "key": "comp:d_scastle_arc_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_blue_marble_2",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 790
+    },
+    {
+      "key": "comp:d_spooky_fang_flower_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 473
+    },
+    {
+      "key": "comp:d_blue_marble_1",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 790
+    },
+    {
+      "key": "comp:d_town_clock",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:b_ice_tower",
+      "type": "array",
+      "count": 46,
+      "compact_size_bytes": 3964
+    },
+    {
+      "key": "comp:d_honeyvalley_tree",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_spider_tablet",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_tavern_barrel_decor",
+      "type": "array",
+      "count": 46,
+      "compact_size_bytes": 4061
+    },
+    {
+      "key": "comp:d_cubeRubika_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_cubeRubika_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_tavern_viking",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3577
+    },
+    {
+      "key": "comp:d_hand_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 395
+    },
+    {
+      "key": "comp:d_skeleton_bones",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_twin_password_box",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 460
+    },
+    {
+      "key": "comp:b_egypt_scarab",
+      "type": "array",
+      "count": 25,
+      "compact_size_bytes": 2125
+    },
+    {
+      "key": "comp:d_fence_gate_01",
+      "type": "array",
+      "count": 21,
+      "compact_size_bytes": 1817
+    },
+    {
+      "key": "comp:d_fence_gate_02",
+      "type": "array",
+      "count": 21,
+      "compact_size_bytes": 1817
+    },
+    {
+      "key": "comp:b_un_exit_2",
+      "type": "array",
+      "count": 46,
+      "compact_size_bytes": 3964
+    },
+    {
+      "key": "comp:b_vinyl_ballista",
+      "type": "array",
+      "count": 49,
+      "compact_size_bytes": 4292
+    },
+    {
+      "key": "comp:b_underground_scroll_green",
+      "type": "array",
+      "count": 27,
+      "compact_size_bytes": 2415
+    },
+    {
+      "key": "comp:d_lab_track_12",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3561
+    },
+    {
+      "key": "comp:dlc_cyber_island",
+      "type": "array",
+      "count": 74,
+      "compact_size_bytes": 6997
+    },
+    {
+      "key": "comp:d_lab_track_11",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 415
+    },
+    {
+      "key": "comp:b_football_scoreboard_01",
+      "type": "array",
+      "count": 27,
+      "compact_size_bytes": 2615
+    },
+    {
+      "key": "comp:b_hut_dark",
+      "type": "array",
+      "count": 50,
+      "compact_size_bytes": 4277
+    },
+    {
+      "key": "comp:b_car_twin",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 675
+    },
+    {
+      "key": "comp:dlc_east_valley",
+      "type": "array",
+      "count": 70,
+      "compact_size_bytes": 6355
+    },
+    {
+      "key": "comp:d_fridge",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 703
+    },
+    {
+      "key": "comp:d_golden_gate_2",
+      "type": "array",
+      "count": 33,
+      "compact_size_bytes": 2864
+    },
+    {
+      "key": "comp:d_golden_gate_1",
+      "type": "array",
+      "count": 33,
+      "compact_size_bytes": 2864
+    },
+    {
+      "key": "comp:b_afterparty_table_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 397
+    },
+    {
+      "key": "comp:d_dino_bones01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_dino_bones02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_toy_hippo1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_reservoir_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_dino_bones03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_toy_hippo2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:b_rabbit_pool",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1436
+    },
+    {
+      "key": "comp:d_sandtrack_03_p",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 427
+    },
+    {
+      "key": "comp:d_reservoir_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_honeyvalley_rake_autumn",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 454
+    },
+    {
+      "key": "comp:d_treasurebox_ring_altar",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 485
+    },
+    {
+      "key": "comp:dlc_zombiecon_island",
+      "type": "array",
+      "count": 167,
+      "compact_size_bytes": 16085
+    },
+    {
+      "key": "comp:b_university_greenhouse",
+      "type": "array",
+      "count": 49,
+      "compact_size_bytes": 4404
+    },
+    {
+      "key": "comp:d_crumb_track_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_afterparty_blackberry",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 479
+    },
+    {
+      "key": "comp:b_factory_toys",
+      "type": "array",
+      "count": 53,
+      "compact_size_bytes": 4656
+    },
+    {
+      "key": "comp:d_space_spin_start",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_superhero_camomile_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 473
+    },
+    {
+      "key": "comp:b_space_column",
+      "type": "array",
+      "count": 57,
+      "compact_size_bytes": 4948
+    },
+    {
+      "key": "comp:dlc_fortune_island",
+      "type": "array",
+      "count": 146,
+      "compact_size_bytes": 14250
+    },
+    {
+      "key": "comp:d_superhero_camomile_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 473
+    },
+    {
+      "key": "comp:b_goldegg_slide",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1129
+    },
+    {
+      "key": "comp:d_superhero_camomile_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 473
+    },
+    {
+      "key": "comp:d_snow_cannon_blue_big",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 473
+    },
+    {
+      "key": "comp:b_egypt_goldgate_02",
+      "type": "array",
+      "count": 33,
+      "compact_size_bytes": 2898
+    },
+    {
+      "key": "comp:d_mermaid",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 395
+    },
+    {
+      "key": "comp:d_university_book_cupboard_2",
+      "type": "array",
+      "count": 29,
+      "compact_size_bytes": 2538
+    },
+    {
+      "key": "comp:b_afterparty_tent",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1520
+    },
+    {
+      "key": "comp:b_grandma_house",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3927
+    },
+    {
+      "key": "comp:d_banana_palm_02",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1170
+    },
+    {
+      "key": "comp:d_banana_palm_01",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1170
+    },
+    {
+      "key": "comp:d_boat_wood_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:b_afterparty_matchbox",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 846
+    },
+    {
+      "key": "comp:b_indian_gate_treasures",
+      "type": "array",
+      "count": 61,
+      "compact_size_bytes": 5402
+    },
+    {
+      "key": "comp:b_color_bridge",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1113
+    },
+    {
+      "key": "comp:b_toils",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1335
+    },
+    {
+      "key": "comp:b_blacksmith_right",
+      "type": "array",
+      "count": 49,
+      "compact_size_bytes": 4347
+    },
+    {
+      "key": "comp:d_little_sakura",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:b_icosahedron_red",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1166
+    },
+    {
+      "key": "comp:b_westmine",
+      "type": "array",
+      "count": 46,
+      "compact_size_bytes": 3953
+    },
+    {
+      "key": "comp:b_truck_pool",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1081
+    },
+    {
+      "key": "comp:b_quarry",
+      "type": "array",
+      "count": 46,
+      "compact_size_bytes": 3931
+    },
+    {
+      "key": "comp:dlc_zeaster_island",
+      "type": "array",
+      "count": 42,
+      "compact_size_bytes": 3924
+    },
+    {
+      "key": "comp:b_slime_trap",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1106
+    },
+    {
+      "key": "comp:d_mist_altar_01",
+      "type": "array",
+      "count": 49,
+      "compact_size_bytes": 4276
+    },
+    {
+      "key": "comp:d_autumntrack_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_city_track_06",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:b_rescue_capsule",
+      "type": "array",
+      "count": 48,
+      "compact_size_bytes": 4204
+    },
+    {
+      "key": "comp:d_autumntrack_06",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:b_train_1",
+      "type": "array",
+      "count": 49,
+      "compact_size_bytes": 4179
+    },
+    {
+      "key": "comp:d_autumntrack_05",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:b_farmers_sprinkler_beet",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 848
+    },
+    {
+      "key": "comp:d_autumntrack_04",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 432
+    },
+    {
+      "key": "comp:b_laguna_cart",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1097
+    },
+    {
+      "key": "comp:b_ufo",
+      "type": "array",
+      "count": 51,
+      "compact_size_bytes": 4299
+    },
+    {
+      "key": "comp:b_foliage_pile",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 769
+    },
+    {
+      "key": "comp:d_barrel_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 401
+    },
+    {
+      "key": "comp:d_sphere_bush_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:b_magic_carpet",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1515
+    },
+    {
+      "key": "comp:d_sphere_bush_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_sphere_bush_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:b_gingerbread_glazemaker",
+      "type": "array",
+      "count": 55,
+      "compact_size_bytes": 5047
+    },
+    {
+      "key": "comp:d_magicvalley_magic_shop",
+      "type": "array",
+      "count": 42,
+      "compact_size_bytes": 3716
+    },
+    {
+      "key": "comp:d_wheatgrass",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:b_egypt_lava_gate_right",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 908
+    },
+    {
+      "key": "comp:d_zombiecon_spacebox_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 473
+    },
+    {
+      "key": "comp:d_zombiecon_spacebox_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 473
+    },
+    {
+      "key": "comp:d_cabbage_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 397
+    },
+    {
+      "key": "comp:d_victory_cap_small",
+      "type": "array",
+      "count": 7,
+      "compact_size_bytes": 662
+    },
+    {
+      "key": "comp:d_zombiecon_spacebox_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 473
+    },
+    {
+      "key": "comp:b_multicolored_broccoli",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 813
+    },
+    {
+      "key": "comp:d_horror_brushwood",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_cabbage_little",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 427
+    },
+    {
+      "key": "comp:b_beast_ruins",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1596
+    },
+    {
+      "key": "comp:d_roll_red",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 401
+    },
+    {
+      "key": "comp:b_diner",
+      "type": "array",
+      "count": 54,
+      "compact_size_bytes": 4538
+    },
+    {
+      "key": "comp:d_slug_crater",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 758
+    },
+    {
+      "key": "comp:b_cotton_wool_snowman_1",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 868
+    },
+    {
+      "key": "comp:d_barrel_5",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 401
+    },
+    {
+      "key": "comp:d_barrel_6",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 401
+    },
+    {
+      "key": "comp:d_space_stone_01_snow",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1168
+    },
+    {
+      "key": "comp:d_barrel_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 401
+    },
+    {
+      "key": "comp:d_barrel_4",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 401
+    },
+    {
+      "key": "comp:d_stump",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 383
+    },
+    {
+      "key": "comp:d_barrel_8",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 401
+    },
+    {
+      "key": "comp:b_olympic_lyre",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1527
+    },
+    {
+      "key": "comp:d_joystick",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 401
+    },
+    {
+      "key": "comp:b_shamaspeak_1",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3915
+    },
+    {
+      "key": "comp:b_aes_green",
+      "type": "array",
+      "count": 53,
+      "compact_size_bytes": 4541
+    },
+    {
+      "key": "comp:d_pirate_hang",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 419
+    },
+    {
+      "key": "comp:d_can_stretch",
+      "type": "array",
+      "count": 19,
+      "compact_size_bytes": 1635
+    },
+    {
+      "key": "comp:d_fortune_tools",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:b_farmers_table",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 780
+    },
+    {
+      "key": "comp:b_empty_chest",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3904
+    },
+    {
+      "key": "comp:d_basket_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 401
+    },
+    {
+      "key": "comp:d_basket_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 401
+    },
+    {
+      "key": "comp:b_homealone_hut",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3578
+    },
+    {
+      "key": "comp:d_baloon_helium1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:b_skull_dummy",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1097
+    },
+    {
+      "key": "comp:b_cauldron",
+      "type": "array",
+      "count": 49,
+      "compact_size_bytes": 4195
+    },
+    {
+      "key": "comp:d_mere_water_right",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:d_space_flower_1_snow",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 789
+    },
+    {
+      "key": "comp:d_broccoli_medium",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1196
+    },
+    {
+      "key": "comp:d_hugbush_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_barrel_axe",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_hugbush_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_hugbush_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_olympic_amphora_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 461
+    },
+    {
+      "key": "comp:d_noir_car_dec",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_olympic_amphora_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 461
+    },
+    {
+      "key": "comp:d_steel_pipe_finish",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 455
+    },
+    {
+      "key": "comp:d_olympic_amphora_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 461
+    },
+    {
+      "key": "comp:b_guillotine",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1081
+    },
+    {
+      "key": "comp:d_frozen_owl",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 932
+    },
+    {
+      "key": "comp:d_zarvard",
+      "type": "array",
+      "count": 43,
+      "compact_size_bytes": 3719
+    },
+    {
+      "key": "comp:b_fortune_clover",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1145
+    },
+    {
+      "key": "comp:b_laguna_plaid",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 769
+    },
+    {
+      "key": "comp:d_strangewood_sign_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 457
+    },
+    {
+      "key": "comp:b_clock_house2",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3572
+    },
+    {
+      "key": "comp:o_zabor02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 395
+    },
+    {
+      "key": "comp:d_mere_water_left",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:b_gingerbread_computer",
+      "type": "array",
+      "count": 51,
+      "compact_size_bytes": 4604
+    },
+    {
+      "key": "comp:d_strangewood_sign_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 457
+    },
+    {
+      "key": "comp:o_zabor01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 395
+    },
+    {
+      "key": "comp:b_ice_mamoth",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 747
+    },
+    {
+      "key": "comp:b_sunny_pass_fan",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 989
+    },
+    {
+      "key": "comp:d_ikka_bowl",
+      "type": "array",
+      "count": 8,
+      "compact_size_bytes": 660
+    },
+    {
+      "key": "comp:d_sandtrack_11_p",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 427
+    },
+    {
+      "key": "comp:b_ancestors_bowl_1",
+      "type": "array",
+      "count": 35,
+      "compact_size_bytes": 3035
+    },
+    {
+      "key": "comp:d_mere_water_bottom_right_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 503
+    },
+    {
+      "key": "comp:d_decorative_stripes_02",
+      "type": "array",
+      "count": 7,
+      "compact_size_bytes": 671
+    },
+    {
+      "key": "comp:d_mere_water_bottom_right_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 503
+    },
+    {
+      "key": "comp:d_megatrack",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 751
+    },
+    {
+      "key": "comp:b_wardrobe_anim",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 745
+    },
+    {
+      "key": "comp:b_baskets_easter2_2",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3971
+    },
+    {
+      "key": "comp:b_homealone_don",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1129
+    },
+    {
+      "key": "comp:b_bike",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 985
+    },
+    {
+      "key": "comp:d_crater_3",
+      "type": "array",
+      "count": 7,
+      "compact_size_bytes": 581
+    },
+    {
+      "key": "comp:d_crater_2",
+      "type": "array",
+      "count": 7,
+      "compact_size_bytes": 581
+    },
+    {
+      "key": "comp:b_gas_station",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3566
+    },
+    {
+      "key": "comp:d_crater_1",
+      "type": "array",
+      "count": 7,
+      "compact_size_bytes": 581
+    },
+    {
+      "key": "comp:b_secret_wall_fake",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 953
+    },
+    {
+      "key": "comp:b_records_flowerbed",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1562
+    },
+    {
+      "key": "comp:d_water_centr",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 419
+    },
+    {
+      "key": "comp:b_zombiecon_washer",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 1002
+    },
+    {
+      "key": "comp:d_indian_head_04",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_indian_head_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_indian_head_06",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_boat_pirate",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3590
+    },
+    {
+      "key": "comp:b_king",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 985
+    },
+    {
+      "key": "comp:d_indian_head_05",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_strawhouse_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_strawhouse_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_indian_head_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_strawhouse_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_indian_head_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_yellow_tree_01",
+      "type": "array",
+      "count": 12,
+      "compact_size_bytes": 1102
+    },
+    {
+      "key": "comp:b_registration_book_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 473
+    },
+    {
+      "key": "comp:d_yellow_tree_03",
+      "type": "array",
+      "count": 12,
+      "compact_size_bytes": 1102
+    },
+    {
+      "key": "comp:b_registration_book_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 473
+    },
+    {
+      "key": "comp:d_yellow_tree_02",
+      "type": "array",
+      "count": 12,
+      "compact_size_bytes": 1102
+    },
+    {
+      "key": "comp:b_space_well",
+      "type": "array",
+      "count": 49,
+      "compact_size_bytes": 4228
+    },
+    {
+      "key": "comp:d_mist_statue",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 758
+    },
+    {
+      "key": "comp:b_stuff_drums",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1097
+    },
+    {
+      "key": "comp:d_idol2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 383
+    },
+    {
+      "key": "comp:dlc_origin_island",
+      "type": "array",
+      "count": 16,
+      "compact_size_bytes": 1409
+    },
+    {
+      "key": "comp:b_skull_barricade",
+      "type": "array",
+      "count": 32,
+      "compact_size_bytes": 2755
+    },
+    {
+      "key": "comp:b_pasta_tree_02",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 780
+    },
+    {
+      "key": "comp:b_pasta_tree_01",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 780
+    },
+    {
+      "key": "comp:b_gingerbread_picture",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 467
+    },
+    {
+      "key": "comp:b_university_statue",
+      "type": "array",
+      "count": 49,
+      "compact_size_bytes": 4340
+    },
+    {
+      "key": "comp:b_statue_valkyria",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 1015
+    },
+    {
+      "key": "comp:d_ikka_tree",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:d_farnorth_track_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 439
+    },
+    {
+      "key": "comp:d_crumb_track_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_farnorth_track_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 439
+    },
+    {
+      "key": "comp:d_sweetbox_w",
+      "type": "array",
+      "count": 49,
+      "compact_size_bytes": 4261
+    },
+    {
+      "key": "comp:dlc_quietgrove_island",
+      "type": "array",
+      "count": 8,
+      "compact_size_bytes": 680
+    },
+    {
+      "key": "comp:b_quietgrove_trampoline",
+      "type": "array",
+      "count": 50,
+      "compact_size_bytes": 4487
+    },
+    {
+      "key": "comp:b_zombie_girl_idle",
+      "type": "array",
+      "count": 7,
+      "compact_size_bytes": 586
+    },
+    {
+      "key": "comp:b_mindgames_pool",
+      "type": "array",
+      "count": 52,
+      "compact_size_bytes": 4571
+    },
+    {
+      "key": "comp:d_road_sign_5",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 419
+    },
+    {
+      "key": "comp:d_road_sign_6",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 419
+    },
+    {
+      "key": "comp:b_afterparty_table",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1177
+    },
+    {
+      "key": "comp:d_road_sign_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 419
+    },
+    {
+      "key": "comp:d_road_sign_4",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 419
+    },
+    {
+      "key": "comp:d_gold_boot",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:d_road_sign_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 419
+    },
+    {
+      "key": "comp:b_spooky_abandoned_mansion",
+      "type": "array",
+      "count": 42,
+      "compact_size_bytes": 3727
+    },
+    {
+      "key": "comp:d_magicvalley_track_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 467
+    },
+    {
+      "key": "comp:d_magicvalley_track_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 467
+    },
+    {
+      "key": "comp:d_books_pen",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:b_davinci_painting_empty",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 455
+    },
+    {
+      "key": "comp:b_shamanstotem_water",
+      "type": "array",
+      "count": 27,
+      "compact_size_bytes": 2379
+    },
+    {
+      "key": "comp:b_poster",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3850
+    },
+    {
+      "key": "comp:b_pirate_gate_1_1",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 802
+    },
+    {
+      "key": "comp:d_quietgrove_house",
+      "type": "array",
+      "count": 43,
+      "compact_size_bytes": 3761
+    },
+    {
+      "key": "comp:d_auction_stand",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:b_winter_tower",
+      "type": "array",
+      "count": 57,
+      "compact_size_bytes": 4962
+    },
+    {
+      "key": "comp:d_tunnel",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 703
+    },
+    {
+      "key": "comp:b_skull_boat",
+      "type": "array",
+      "count": 18,
+      "compact_size_bytes": 1501
+    },
+    {
+      "key": "comp:d_caterpillar",
+      "type": "array",
+      "count": 37,
+      "compact_size_bytes": 3221
+    },
+    {
+      "key": "comp:d_chinawall_10",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 769
+    },
+    {
+      "key": "comp:b_metal_gate_2",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 769
+    },
+    {
+      "key": "comp:d_cyber_track01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:b_oldwindmill",
+      "type": "array",
+      "count": 52,
+      "compact_size_bytes": 4514
+    },
+    {
+      "key": "comp:d_space_table",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3565
+    },
+    {
+      "key": "comp:d_cyber_track02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:b_bulb4x1",
+      "type": "array",
+      "count": 15,
+      "compact_size_bytes": 1210
+    },
+    {
+      "key": "comp:b_rainbow_bridge",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 791
+    },
+    {
+      "key": "comp:b_emerald_hippogryph",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1215
+    },
+    {
+      "key": "comp:d_emerald_inscription_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 485
+    },
+    {
+      "key": "comp:d_emerald_inscription_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 485
+    },
+    {
+      "key": "comp:d_treasure_case_closed",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 473
+    },
+    {
+      "key": "comp:d_mere_water_left_pas",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 441
+    },
+    {
+      "key": "comp:b_smith_tools_1",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1134
+    },
+    {
+      "key": "comp:b_fake_davinci_easel",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 835
+    },
+    {
+      "key": "comp:d_honeyvalley_abandoned_hive_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 521
+    },
+    {
+      "key": "comp:b_typing_machine",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3937
+    },
+    {
+      "key": "comp:b_sleigh_sanki",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1467
+    },
+    {
+      "key": "comp:d_marshmallows_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:d_marshmallows_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:d_snowdrift",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 397
+    },
+    {
+      "key": "comp:b_mindgames_spider",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3959
+    },
+    {
+      "key": "comp:b_homealone_theatre",
+      "type": "array",
+      "count": 15,
+      "compact_size_bytes": 1400
+    },
+    {
+      "key": "comp:d_chinawall_02",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 769
+    },
+    {
+      "key": "comp:b_easter_egg_06",
+      "type": "array",
+      "count": 25,
+      "compact_size_bytes": 2126
+    },
+    {
+      "key": "comp:d_chinawall_03",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 769
+    },
+    {
+      "key": "comp:b_easter_egg_05",
+      "type": "array",
+      "count": 25,
+      "compact_size_bytes": 2126
+    },
+    {
+      "key": "comp:d_chinawall_01",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 769
+    },
+    {
+      "key": "comp:d_tortuga_area_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_tortuga_area_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:b_homealone_closet",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 783
+    },
+    {
+      "key": "comp:b_laguna_panel",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 961
+    },
+    {
+      "key": "comp:b_easter_egg_04",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3927
+    },
+    {
+      "key": "comp:d_decorators_spray_paint",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 485
+    },
+    {
+      "key": "comp:d_table_lamp",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 403
+    },
+    {
+      "key": "comp:d_frozen_tree_7",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_frozen_tree_6",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_chinawall_08",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 769
+    },
+    {
+      "key": "comp:d_chinawall_09",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 769
+    },
+    {
+      "key": "comp:d_superhero_track_1_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 467
+    },
+    {
+      "key": "comp:d_chinawall_06",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 769
+    },
+    {
+      "key": "comp:d_chinawall_07",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 769
+    },
+    {
+      "key": "comp:d_chinawall_04",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 769
+    },
+    {
+      "key": "comp:d_chinawall_05",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 769
+    },
+    {
+      "key": "comp:b_superhero_sweet_mountain",
+      "type": "array",
+      "count": 42,
+      "compact_size_bytes": 3727
+    },
+    {
+      "key": "comp:d_druids_house",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3592
+    },
+    {
+      "key": "comp:b_globe",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3850
+    },
+    {
+      "key": "comp:d_fortune_signal",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 427
+    },
+    {
+      "key": "comp:d_track_snow_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_lost_pond",
+      "type": "array",
+      "count": 7,
+      "compact_size_bytes": 551
+    },
+    {
+      "key": "comp:d_track_snow_04",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_chinese_lanterns_orange",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 491
+    },
+    {
+      "key": "comp:b_homealone_fakeskull",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1225
+    },
+    {
+      "key": "comp:d_blender",
+      "type": "array",
+      "count": 43,
+      "compact_size_bytes": 3718
+    },
+    {
+      "key": "comp:d_emerald_rock_left",
+      "type": "array",
+      "count": 7,
+      "compact_size_bytes": 637
+    },
+    {
+      "key": "comp:d_track_snow_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:b_noodles_pot_craft_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 427
+    },
+    {
+      "key": "comp:d_wood_table",
+      "type": "array",
+      "count": 29,
+      "compact_size_bytes": 2477
+    },
+    {
+      "key": "comp:d_homealone_spotlight",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 467
+    },
+    {
+      "key": "comp:d_quietgrove_alpaca",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 470
+    },
+    {
+      "key": "comp:d_spruce_balls_box",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_farnorth_pole_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 439
+    },
+    {
+      "key": "comp:d_lava_top_2_fl",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_farnorth_pole_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 439
+    },
+    {
+      "key": "comp:d_fortune_bench",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3578
+    },
+    {
+      "key": "comp:d_superhero_track_1_4",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 467
+    },
+    {
+      "key": "comp:d_superhero_track_1_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 467
+    },
+    {
+      "key": "comp:d_sandtrack_09_p",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 427
+    },
+    {
+      "key": "comp:d_superhero_track_1_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 467
+    },
+    {
+      "key": "comp:d_pirate_gate_1_2_closed",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 450
+    },
+    {
+      "key": "comp:d_broccoville_saddle",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 461
+    },
+    {
+      "key": "comp:b_homealone_trap",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1145
+    },
+    {
+      "key": "comp:d_jasmine",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 395
+    },
+    {
+      "key": "comp:d_spider_fence_2",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1180
+    },
+    {
+      "key": "comp:d_cyber_dark_gate_1",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1512
+    },
+    {
+      "key": "comp:b_magicvalley_card_tree",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1260
+    },
+    {
+      "key": "comp:d_afterparty_trash_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 467
+    },
+    {
+      "key": "comp:d_afterparty_trash_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 467
+    },
+    {
+      "key": "comp:d_mist_column_wo_stump",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 767
+    },
+    {
+      "key": "comp:d_water_top_right",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:d_afterparty_trash_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 467
+    },
+    {
+      "key": "comp:d_key",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 371
+    },
+    {
+      "key": "comp:dlc_emerald_island",
+      "type": "array",
+      "count": 70,
+      "compact_size_bytes": 6968
+    },
+    {
+      "key": "comp:d_tourist_lamp",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 769
+    },
+    {
+      "key": "comp:b_noodles_waterfall",
+      "type": "array",
+      "count": 7,
+      "compact_size_bytes": 670
+    },
+    {
+      "key": "comp:b_indian_temple_01",
+      "type": "array",
+      "count": 53,
+      "compact_size_bytes": 4688
+    },
+    {
+      "key": "comp:d_bamboo_east_3",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 810
+    },
+    {
+      "key": "comp:b_slug_3",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 728
+    },
+    {
+      "key": "comp:d_mere_water_top_pas",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 435
+    },
+    {
+      "key": "comp:d_glacier_bath_tourist_2",
+      "type": "array",
+      "count": 16,
+      "compact_size_bytes": 1462
+    },
+    {
+      "key": "comp:b_slug_1",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 728
+    },
+    {
+      "key": "comp:d_glacier_bath_tourist_1",
+      "type": "array",
+      "count": 20,
+      "compact_size_bytes": 1875
+    },
+    {
+      "key": "comp:d_spider_fence_1",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1180
+    },
+    {
+      "key": "comp:dlc_greenvalley_island",
+      "type": "array",
+      "count": 55,
+      "compact_size_bytes": 5227
+    },
+    {
+      "key": "comp:b_candy_machine",
+      "type": "array",
+      "count": 19,
+      "compact_size_bytes": 1800
+    },
+    {
+      "key": "comp:d_brick_column_01",
+      "type": "array",
+      "count": 15,
+      "compact_size_bytes": 1363
+    },
+    {
+      "key": "comp:d_enterpot",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3548
+    },
+    {
+      "key": "comp:d_tree_obstacle_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 439
+    },
+    {
+      "key": "comp:d_lava_top_4_fl",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_sand_cave_exit",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_tree_obstacle_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 439
+    },
+    {
+      "key": "comp:d_antique_wall_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:b_cherrycake_01",
+      "type": "array",
+      "count": 53,
+      "compact_size_bytes": 4624
+    },
+    {
+      "key": "comp:d_antique_wall_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_horror_fence_07",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 832
+    },
+    {
+      "key": "comp:d_antique_wall_4",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_horror_fence_06",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 832
+    },
+    {
+      "key": "comp:d_antique_wall_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_horror_fence_05",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 832
+    },
+    {
+      "key": "comp:b_pastamaker",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 933
+    },
+    {
+      "key": "comp:d_horror_fence_04",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 832
+    },
+    {
+      "key": "comp:d_horror_fence_03",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 832
+    },
+    {
+      "key": "comp:d_ancestors_hut_no_stump",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 440
+    },
+    {
+      "key": "comp:d_antique_wall_5",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_clown",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 383
+    },
+    {
+      "key": "comp:d_goldegg_stones_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 455
+    },
+    {
+      "key": "comp:d_goldegg_stones_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 455
+    },
+    {
+      "key": "comp:b_afterparty_switch",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 734
+    },
+    {
+      "key": "comp:d_face_tree",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:b_space_hourglass",
+      "type": "array",
+      "count": 47,
+      "compact_size_bytes": 4150
+    },
+    {
+      "key": "comp:b_ornithopter",
+      "type": "array",
+      "count": 49,
+      "compact_size_bytes": 4244
+    },
+    {
+      "key": "comp:d_mist_maliva",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 758
+    },
+    {
+      "key": "comp:d_ancestors_hut",
+      "type": "array",
+      "count": 42,
+      "compact_size_bytes": 3659
+    },
+    {
+      "key": "comp:d_toy_elep1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:d_toy_elep2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:b_superhero_bridge",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 4196
+    },
+    {
+      "key": "comp:d_ball_grass",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:b_farmers_sprinkler",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 1031
+    },
+    {
+      "key": "comp:d_pirate_cage",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 419
+    },
+    {
+      "key": "comp:b_zombie_girl_manager",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1226
+    },
+    {
+      "key": "comp:d_polygraph",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:d_horror_fence_02",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 832
+    },
+    {
+      "key": "comp:d_horror_fence_01",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 832
+    },
+    {
+      "key": "comp:d_house_svalkers",
+      "type": "array",
+      "count": 42,
+      "compact_size_bytes": 3620
+    },
+    {
+      "key": "comp:d_table_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 401
+    },
+    {
+      "key": "comp:d_quietgrove_squirrel_compass",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 505
+    },
+    {
+      "key": "comp:d_zombie_hope_idle",
+      "type": "array",
+      "count": 7,
+      "compact_size_bytes": 586
+    },
+    {
+      "key": "comp:b_stained_glass_01",
+      "type": "array",
+      "count": 49,
+      "compact_size_bytes": 4323
+    },
+    {
+      "key": "comp:b_goldegg_rabbit_hole_01",
+      "type": "array",
+      "count": 7,
+      "compact_size_bytes": 698
+    },
+    {
+      "key": "comp:dlc_auction_island",
+      "type": "array",
+      "count": 18,
+      "compact_size_bytes": 1650
+    },
+    {
+      "key": "comp:d_quietgrove_acorn",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_beet_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 395
+    },
+    {
+      "key": "comp:b_strangewood_evidence_3",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 879
+    },
+    {
+      "key": "comp:d_statue_vishnu",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:b_strangewood_evidence_2",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 879
+    },
+    {
+      "key": "comp:b_skull_arrow",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1132
+    },
+    {
+      "key": "comp:b_onion",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 383
+    },
+    {
+      "key": "comp:d_lava_bottom_4_fl",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:b_wagon",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3530
+    },
+    {
+      "key": "comp:c_quagmire",
+      "type": "array",
+      "count": 15,
+      "compact_size_bytes": 1349
+    },
+    {
+      "key": "comp:b_druids_library",
+      "type": "array",
+      "count": 49,
+      "compact_size_bytes": 4292
+    },
+    {
+      "key": "comp:d_hugtree_01",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1126
+    },
+    {
+      "key": "comp:d_fly_red_balloon",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 433
+    },
+    {
+      "key": "comp:d_hugtree_02",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1126
+    },
+    {
+      "key": "comp:dlc_regatta_island",
+      "type": "array",
+      "count": 8,
+      "compact_size_bytes": 708
+    },
+    {
+      "key": "comp:b_strangewood_evidence_1",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 879
+    },
+    {
+      "key": "comp:b_bungalow_house",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3938
+    },
+    {
+      "key": "comp:b_university_thermal_imager",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 4058
+    },
+    {
+      "key": "comp:b_quietgrove_compass",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 835
+    },
+    {
+      "key": "comp:d_city_lantern_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:b_letter_gate_01",
+      "type": "array",
+      "count": 33,
+      "compact_size_bytes": 2865
+    },
+    {
+      "key": "comp:d_city_lantern_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:b_letter_gate_02",
+      "type": "array",
+      "count": 33,
+      "compact_size_bytes": 2865
+    },
+    {
+      "key": "comp:d_patrick_fence_08",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_city_lantern_04",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:d_patrick_fence_07",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_city_lantern_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:dlc_twin_island",
+      "type": "array",
+      "count": 47,
+      "compact_size_bytes": 4341
+    },
+    {
+      "key": "comp:d_patrick_fence_06",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_patrick_fence_05",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:b_dark_ferriswheel",
+      "type": "array",
+      "count": 61,
+      "compact_size_bytes": 5416
+    },
+    {
+      "key": "comp:b_indiantotem",
+      "type": "array",
+      "count": 27,
+      "compact_size_bytes": 2299
+    },
+    {
+      "key": "comp:d_patrick_fence_04",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_patrick_fence_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_patrick_fence_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_patrick_fence_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_workbench",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:ch_car_timemachine_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 461
+    },
+    {
+      "key": "comp:d_snow_fence_a",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:ch_car_timemachine_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 461
+    },
+    {
+      "key": "comp:d_knightni_stand",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_snow_fence_b",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_lava_bottom_3_fl",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:b_alchemy_lab",
+      "type": "array",
+      "count": 60,
+      "compact_size_bytes": 5285
+    },
+    {
+      "key": "comp:d_chinese_lanterns_blue",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 479
+    },
+    {
+      "key": "comp:d_druids_track_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:d_emerald_rock_right",
+      "type": "array",
+      "count": 7,
+      "compact_size_bytes": 640
+    },
+    {
+      "key": "comp:d_druids_track_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:d_bonfire",
+      "type": "array",
+      "count": 7,
+      "compact_size_bytes": 572
+    },
+    {
+      "key": "comp:d_druids_track_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:b_flower_shop",
+      "type": "array",
+      "count": 42,
+      "compact_size_bytes": 3647
+    },
+    {
+      "key": "comp:d_gate_stone_01",
+      "type": "array",
+      "count": 33,
+      "compact_size_bytes": 2854
+    },
+    {
+      "key": "comp:d_gate_stone_02",
+      "type": "array",
+      "count": 33,
+      "compact_size_bytes": 2854
+    },
+    {
+      "key": "comp:b_olympiad_yeti",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1558
+    },
+    {
+      "key": "comp:b_metal_gate_2a",
+      "type": "array",
+      "count": 7,
+      "compact_size_bytes": 605
+    },
+    {
+      "key": "comp:d_lost_lantern_02",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 833
+    },
+    {
+      "key": "comp:d_treasurebox_bottle_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 473
+    },
+    {
+      "key": "comp:b_hydro_powerplant",
+      "type": "array",
+      "count": 21,
+      "compact_size_bytes": 1861
+    },
+    {
+      "key": "comp:d_treasurebox_bottle_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 473
+    },
+    {
+      "key": "comp:d_piranha_02",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 811
+    },
+    {
+      "key": "comp:d_piranha_03",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 766
+    },
+    {
+      "key": "comp:d_piranha_04",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 766
+    },
+    {
+      "key": "comp:b_university_experiment_table_1",
+      "type": "array",
+      "count": 46,
+      "compact_size_bytes": 4184
+    },
+    {
+      "key": "comp:b_scene_chinese_bench_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 479
+    },
+    {
+      "key": "comp:b_honeyvalley_amplifier",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1312
+    },
+    {
+      "key": "comp:d_honeyvalley_glade_flowers_02",
+      "type": "array",
+      "count": 21,
+      "compact_size_bytes": 2246
+    },
+    {
+      "key": "comp:b_books_owls",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3894
+    },
+    {
+      "key": "comp:d_chest_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 401
+    },
+    {
+      "key": "comp:d_snow_cannon_yellow_big",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 485
+    },
+    {
+      "key": "comp:d_chest_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 401
+    },
+    {
+      "key": "comp:d_piranha_01",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 811
+    },
+    {
+      "key": "comp:d_perfume_shop",
+      "type": "array",
+      "count": 42,
+      "compact_size_bytes": 3653
+    },
+    {
+      "key": "comp:d_pirate_gate_1_1_closed",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 450
+    },
+    {
+      "key": "comp:b_pinguins",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 905
+    },
+    {
+      "key": "comp:d_grass_4_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:d_grass_4_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:b_donut_flower",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 755
+    },
+    {
+      "key": "comp:d_honeyvalley_abandoned_hive",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 509
+    },
+    {
+      "key": "comp:d_psyscope_details",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 439
+    },
+    {
+      "key": "comp:b_books_typography",
+      "type": "array",
+      "count": 55,
+      "compact_size_bytes": 4945
+    },
+    {
+      "key": "comp:d_grass_4_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:b_xmasvillage_letter_gate_02",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1515
+    },
+    {
+      "key": "comp:b_xmasvillage_letter_gate_01",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1515
+    },
+    {
+      "key": "comp:b_fireworks_rocket_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 467
+    },
+    {
+      "key": "comp:d_tulipbasket",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 962
+    },
+    {
+      "key": "comp:d_cofebot",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 901
+    },
+    {
+      "key": "comp:d_pointer_space_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:d_superhero_sphere_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 467
+    },
+    {
+      "key": "comp:d_pointer_space_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:b_skull_drezina",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1129
+    },
+    {
+      "key": "comp:d_sea_color_stones",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 439
+    },
+    {
+      "key": "comp:b_memories_crack",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1165
+    },
+    {
+      "key": "comp:b_westgate_2",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1435
+    },
+    {
+      "key": "comp:b_westgate_1",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1435
+    },
+    {
+      "key": "comp:ch_car_pirate",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 419
+    },
+    {
+      "key": "comp:b_decorators_cloud_generator",
+      "type": "array",
+      "count": 46,
+      "compact_size_bytes": 4151
+    },
+    {
+      "key": "comp:d_ancestors_column_6",
+      "type": "array",
+      "count": 22,
+      "compact_size_bytes": 1951
+    },
+    {
+      "key": "comp:d_ancestors_column_5",
+      "type": "array",
+      "count": 22,
+      "compact_size_bytes": 1947
+    },
+    {
+      "key": "comp:d_ancestors_column_4",
+      "type": "array",
+      "count": 19,
+      "compact_size_bytes": 1688
+    },
+    {
+      "key": "comp:d_tomato_blue_3",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 735
+    },
+    {
+      "key": "comp:d_brick_wall_4",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 799
+    },
+    {
+      "key": "comp:d_victorian_mansion",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 455
+    },
+    {
+      "key": "comp:d_brick_wall_5",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 799
+    },
+    {
+      "key": "comp:d_tomato_blue_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:ch_helicopter",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 419
+    },
+    {
+      "key": "comp:d_waterz_ice",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_scapsule_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:b_decorators_animal_cloud_03",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 808
+    },
+    {
+      "key": "comp:d_asphalt_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_scapsule_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:b_decorators_animal_cloud_02",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 808
+    },
+    {
+      "key": "comp:d_druids_track_04",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:d_furrow_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:d_ancient_wall_6",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 801
+    },
+    {
+      "key": "comp:d_watertrack_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_druids_track_05",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:d_furrow_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:b_police_station",
+      "type": "array",
+      "count": 54,
+      "compact_size_bytes": 4727
+    },
+    {
+      "key": "comp:ch_sundew_monster",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:d_ancient_wall_5",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 801
+    },
+    {
+      "key": "comp:d_furrow_04",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:d_ancient_wall_4",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 801
+    },
+    {
+      "key": "comp:d_patrick_chest",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_furrow_05",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:b_decorators_animal_cloud_01",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 808
+    },
+    {
+      "key": "comp:d_fireworks_01",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1101
+    },
+    {
+      "key": "comp:d_fireworks_02",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1101
+    },
+    {
+      "key": "comp:d_furrow_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:d_cook_brainer_blue",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 4385
+    },
+    {
+      "key": "comp:b_patrick_gate_01",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 802
+    },
+    {
+      "key": "comp:d_furrow_06",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:b_patrick_gate_02",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 802
+    },
+    {
+      "key": "comp:d_furrow_07",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:d_footprint_yeti_l4",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 455
+    },
+    {
+      "key": "comp:d_watertrack_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_furrow_08",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:d_watertrack_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:b_zombiecon_foodcart",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 461
+    },
+    {
+      "key": "comp:d_footprint_yeti_l2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 455
+    },
+    {
+      "key": "comp:d_footprint_yeti_l3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 455
+    },
+    {
+      "key": "comp:d_mole_box_finish",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 423
+    },
+    {
+      "key": "comp:d_footprint_yeti_l1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 455
+    },
+    {
+      "key": "comp:d_snow_tree_1",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 778
+    },
+    {
+      "key": "comp:d_snow_tree_4",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 778
+    },
+    {
+      "key": "comp:d_snow_tree_3",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 778
+    },
+    {
+      "key": "comp:d_snow_tree_6",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 778
+    },
+    {
+      "key": "comp:d_snow_tree_5",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 778
+    },
+    {
+      "key": "comp:d_green_tree_03",
+      "type": "array",
+      "count": 12,
+      "compact_size_bytes": 1105
+    },
+    {
+      "key": "comp:d_fence_beast_02",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 811
+    },
+    {
+      "key": "comp:d_fence_beast_01",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 811
+    },
+    {
+      "key": "comp:d_hallowhut_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_gingerbread_fridge",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3607
+    },
+    {
+      "key": "comp:d_hallowhut_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:b_druids_treehouse",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3960
+    },
+    {
+      "key": "comp:b_tavern_skull",
+      "type": "array",
+      "count": 49,
+      "compact_size_bytes": 4260
+    },
+    {
+      "key": "comp:d_lotos",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 383
+    },
+    {
+      "key": "comp:b_fairy_hut",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3553
+    },
+    {
+      "key": "comp:b_hut_dark_decor",
+      "type": "array",
+      "count": 42,
+      "compact_size_bytes": 3635
+    },
+    {
+      "key": "comp:b_old_pipe_1",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3560
+    },
+    {
+      "key": "comp:d_zombiecon_ufo",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 381
+    },
+    {
+      "key": "comp:b_glacier_house_01",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3960
+    },
+    {
+      "key": "comp:b_tree_swing",
+      "type": "array",
+      "count": 25,
+      "compact_size_bytes": 2096
+    },
+    {
+      "key": "comp:b_glacier_house_02",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3960
+    },
+    {
+      "key": "comp:d_space_brick_4",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:dlc_akademy_island",
+      "type": "array",
+      "count": 62,
+      "compact_size_bytes": 5716
+    },
+    {
+      "key": "comp:d_space_brick_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_space_brick_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_space_brick_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_space_barrel",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_space_flower_2_snow",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 791
+    },
+    {
+      "key": "comp:b_santa_sleigh",
+      "type": "array",
+      "count": 15,
+      "compact_size_bytes": 1363
+    },
+    {
+      "key": "comp:d_bushsmall",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:d_elka_small_01",
+      "type": "array",
+      "count": 25,
+      "compact_size_bytes": 2141
+    },
+    {
+      "key": "comp:b_books_table",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 758
+    },
+    {
+      "key": "comp:d_sandtrack_08_p",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 427
+    },
+    {
+      "key": "comp:d_space_stone_02_snow",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1170
+    },
+    {
+      "key": "comp:d_egg_rabbit2_2",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3926
+    },
+    {
+      "key": "comp:b_totem_warrior",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3926
+    },
+    {
+      "key": "comp:d_lava_bottom_1_fl",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:dlc_cloud_island",
+      "type": "array",
+      "count": 50,
+      "compact_size_bytes": 4853
+    },
+    {
+      "key": "comp:d_industrial_dryer",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_strangewood_lantern_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 485
+    },
+    {
+      "key": "comp:d_strangewood_lantern_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 485
+    },
+    {
+      "key": "comp:b_trebuchet",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1065
+    },
+    {
+      "key": "comp:b_fruit_dryer_01",
+      "type": "array",
+      "count": 46,
+      "compact_size_bytes": 4019
+    },
+    {
+      "key": "comp:d_fortune_box_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_osier_01",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1099
+    },
+    {
+      "key": "comp:d_fortune_box_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_tribune_b_red_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:d_fortune_box_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_tribune_b_red_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:dlc_records_island",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 1025
+    },
+    {
+      "key": "comp:b_scene",
+      "type": "array",
+      "count": 89,
+      "compact_size_bytes": 7354
+    },
+    {
+      "key": "comp:b_quietgrove_analizator",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 868
+    },
+    {
+      "key": "comp:d_ice_farnorth_01",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 814
+    },
+    {
+      "key": "comp:dlc_goldegg_island",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1434
+    },
+    {
+      "key": "comp:b_flowerbed_classic",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 824
+    },
+    {
+      "key": "comp:d_decorators_nut",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:b_packing_machine",
+      "type": "array",
+      "count": 65,
+      "compact_size_bytes": 5964
+    },
+    {
+      "key": "comp:d_santa_house",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3905
+    },
+    {
+      "key": "comp:d_broccoville_island_box_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 497
+    },
+    {
+      "key": "comp:d_broccoville_island_box_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 497
+    },
+    {
+      "key": "comp:d_broccoville_island_box_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 497
+    },
+    {
+      "key": "comp:b_magicvalley_stage",
+      "type": "array",
+      "count": 51,
+      "compact_size_bytes": 4505
+    },
+    {
+      "key": "comp:dlc_tortuga_island",
+      "type": "array",
+      "count": 12,
+      "compact_size_bytes": 1051
+    },
+    {
+      "key": "comp:b_spray",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1052
+    },
+    {
+      "key": "comp:b_lake_shaman01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:b_afterparty_photozone",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 857
+    },
+    {
+      "key": "comp:d_pointer_grass_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:dlc_hug_island",
+      "type": "array",
+      "count": 6,
+      "compact_size_bytes": 490
+    },
+    {
+      "key": "comp:d_bones_track",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 419
+    },
+    {
+      "key": "comp:b_greenvalley_beanstalk_01",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 901
+    },
+    {
+      "key": "comp:b_wbridge_right_5",
+      "type": "array",
+      "count": 15,
+      "compact_size_bytes": 1350
+    },
+    {
+      "key": "comp:b_prisoncell",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1081
+    },
+    {
+      "key": "comp:d_column_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 401
+    },
+    {
+      "key": "comp:d_column_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 401
+    },
+    {
+      "key": "comp:d_japan_arbor",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3566
+    },
+    {
+      "key": "comp:d_column_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 401
+    },
+    {
+      "key": "comp:d_chinese_lanterns_pink",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 479
+    },
+    {
+      "key": "comp:gypsum_gun",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3537
+    },
+    {
+      "key": "comp:d_cyber_gate_1",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1457
+    },
+    {
+      "key": "comp:d_cyber_gate_2",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1457
+    },
+    {
+      "key": "comp:d_ag_frozen_tree_3",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 789
+    },
+    {
+      "key": "comp:d_water_bottom",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_broccoville_locust",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 850
+    },
+    {
+      "key": "comp:d_space_tree_02_snow",
+      "type": "array",
+      "count": 16,
+      "compact_size_bytes": 1451
+    },
+    {
+      "key": "comp:d_bush_fly_bug_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_bonfire_viking",
+      "type": "array",
+      "count": 7,
+      "compact_size_bytes": 579
+    },
+    {
+      "key": "comp:d_fence_asgard_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:d_fence_asgard_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:d_bat_shadow",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:b_baskets_easter1_1",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3971
+    },
+    {
+      "key": "comp:d_summer_house",
+      "type": "array",
+      "count": 43,
+      "compact_size_bytes": 3737
+    },
+    {
+      "key": "comp:d_books_bookshelf_1",
+      "type": "array",
+      "count": 33,
+      "compact_size_bytes": 2898
+    },
+    {
+      "key": "comp:d_pinapple",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 391
+    },
+    {
+      "key": "comp:d_books_bookshelf_2",
+      "type": "array",
+      "count": 33,
+      "compact_size_bytes": 2898
+    },
+    {
+      "key": "comp:d_gargoyle_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 419
+    },
+    {
+      "key": "comp:d_mere_water_top_right_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 476
+    },
+    {
+      "key": "comp:d_gargoyle_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 419
+    },
+    {
+      "key": "comp:d_alchemy_table",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_sandtrack_02_p",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 427
+    },
+    {
+      "key": "comp:d_shipwheel",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:b_underground_scroll",
+      "type": "array",
+      "count": 27,
+      "compact_size_bytes": 2397
+    },
+    {
+      "key": "comp:treasurebox_pink",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:dlc_museum_island",
+      "type": "array",
+      "count": 16,
+      "compact_size_bytes": 1337
+    },
+    {
+      "key": "comp:d_ancestors_statue_02",
+      "type": "array",
+      "count": 8,
+      "compact_size_bytes": 712
+    },
+    {
+      "key": "comp:d_elka_large_01",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3942
+    },
+    {
+      "key": "comp:d_water_left",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 413
+    },
+    {
+      "key": "comp:d_ancestors_statue_01",
+      "type": "array",
+      "count": 8,
+      "compact_size_bytes": 716
+    },
+    {
+      "key": "comp:b_space_volcano_1",
+      "type": "array",
+      "count": 49,
+      "compact_size_bytes": 4329
+    },
+    {
+      "key": "comp:b_space_volcano_2",
+      "type": "array",
+      "count": 49,
+      "compact_size_bytes": 4329
+    },
+    {
+      "key": "comp:b_space_volcano_3",
+      "type": "array",
+      "count": 48,
+      "compact_size_bytes": 4248
+    },
+    {
+      "key": "comp:d_snow_chest_dark",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:d_sand_storm_comp_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 434
+    },
+    {
+      "key": "comp:olympic_farmer_plow",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 1041
+    },
+    {
+      "key": "comp:d_ancestors_bowl_1",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1524
+    },
+    {
+      "key": "comp:c_greenvalley_lemonade_barrel",
+      "type": "array",
+      "count": 47,
+      "compact_size_bytes": 4246
+    },
+    {
+      "key": "comp:dlc_genie_island",
+      "type": "array",
+      "count": 16,
+      "compact_size_bytes": 1470
+    },
+    {
+      "key": "comp:d_rock_hut_dec",
+      "type": "array",
+      "count": 42,
+      "compact_size_bytes": 3633
+    },
+    {
+      "key": "comp:d_tile_old_2_4",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_tile_old_2_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_pirate_fence_1_6",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_tile_old_2_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_pirate_fence_1_5",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_tile_old_2_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_pirate_fence_1_4",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_treasure_egg_flower_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 479
+    },
+    {
+      "key": "comp:b_cup_tower",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1065
+    },
+    {
+      "key": "comp:d_pirate_fence_1_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:b_superhero_museum",
+      "type": "array",
+      "count": 46,
+      "compact_size_bytes": 4043
+    },
+    {
+      "key": "comp:d_treasure_egg_flower_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 479
+    },
+    {
+      "key": "comp:d_pirate_fence_1_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_letter_fence_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:d_witch_hat",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:d_pirate_fence_1_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:b_pets_dog_console",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 439
+    },
+    {
+      "key": "comp:d_letter_fence_04",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:d_treasure_egg_flower_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 479
+    },
+    {
+      "key": "comp:b_fortune_pot",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 404
+    },
+    {
+      "key": "comp:d_noodles_herbs",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_letter_fence_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:d_letter_fence_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:d_treasure_egg_flower_4",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 479
+    },
+    {
+      "key": "comp:d_scrap",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 383
+    },
+    {
+      "key": "comp:d_treasure_egg_flower_5",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 479
+    },
+    {
+      "key": "comp:part_channel_w_1_6",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_lab_bottle_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 421
+    },
+    {
+      "key": "comp:b_sofa_1",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 703
+    },
+    {
+      "key": "comp:b_mist_cup",
+      "type": "array",
+      "count": 23,
+      "compact_size_bytes": 1877
+    },
+    {
+      "key": "comp:part_channel_w_1_5",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:part_channel_w_1_4",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:dlc_wildjungle_island",
+      "type": "array",
+      "count": 18,
+      "compact_size_bytes": 1537
+    },
+    {
+      "key": "comp:part_channel_w_1_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:b_frozen_gate_dark_1",
+      "type": "array",
+      "count": 33,
+      "compact_size_bytes": 2909
+    },
+    {
+      "key": "comp:b_frozen_gate_dark_2",
+      "type": "array",
+      "count": 33,
+      "compact_size_bytes": 2909
+    },
+    {
+      "key": "comp:b_noodles_mortar",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1145
+    },
+    {
+      "key": "comp:d_lab_bottle_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 421
+    },
+    {
+      "key": "comp:b_tavern",
+      "type": "array",
+      "count": 50,
+      "compact_size_bytes": 4245
+    },
+    {
+      "key": "comp:b_icerink",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1033
+    },
+    {
+      "key": "comp:d_pump_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 395
+    },
+    {
+      "key": "comp:b_pets_sprinkler",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 1028
+    },
+    {
+      "key": "comp:d_tribune_red_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_tribune_red_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_bench_tracks_01",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1091
+    },
+    {
+      "key": "comp:d_space_stone_05_snow",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1170
+    },
+    {
+      "key": "comp:b_records_book",
+      "type": "array",
+      "count": 65,
+      "compact_size_bytes": 5780
+    },
+    {
+      "key": "comp:d_farnorth_fence_02d",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 840
+    },
+    {
+      "key": "comp:b_olympic_barrel_old_ziogen",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1615
+    },
+    {
+      "key": "comp:d_mere_water_top_left_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 479
+    },
+    {
+      "key": "comp:d_mere_water_top_left_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 479
+    },
+    {
+      "key": "comp:b_inverted_house",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 791
+    },
+    {
+      "key": "comp:b_restaurant",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3894
+    },
+    {
+      "key": "comp:dlc_decorators_island",
+      "type": "array",
+      "count": 8,
+      "compact_size_bytes": 746
+    },
+    {
+      "key": "comp:d_farnorth_fence_02b",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 840
+    },
+    {
+      "key": "comp:d_farnorth_fence_02a",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 840
+    },
+    {
+      "key": "comp:d_fence_pirate_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_zombie_dandelion_idle",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 1031
+    },
+    {
+      "key": "comp:d_trash_can",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:b_superhero_portal_01",
+      "type": "array",
+      "count": 7,
+      "compact_size_bytes": 670
+    },
+    {
+      "key": "comp:b_fortune_boots",
+      "type": "array",
+      "count": 58,
+      "compact_size_bytes": 5055
+    },
+    {
+      "key": "comp:d_skeleton_legs",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:b_superhero_portal_03",
+      "type": "array",
+      "count": 7,
+      "compact_size_bytes": 670
+    },
+    {
+      "key": "comp:b_anomaly",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 398
+    },
+    {
+      "key": "comp:d_cyber_bench02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:b_egypt_lava_gate_right_flip",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 938
+    },
+    {
+      "key": "comp:d_space_tree_02_1_snow",
+      "type": "array",
+      "count": 16,
+      "compact_size_bytes": 1453
+    },
+    {
+      "key": "comp:d_cyber_bench01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_candy",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 383
+    },
+    {
+      "key": "comp:b_turbo_mixer",
+      "type": "array",
+      "count": 54,
+      "compact_size_bytes": 4709
+    },
+    {
+      "key": "comp:b_ornithopter_auction",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 3913
+    },
+    {
+      "key": "comp:d_farnorth_fence_01b",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 840
+    },
+    {
+      "key": "comp:d_farnorth_fence_01d",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 840
+    },
+    {
+      "key": "comp:d_dog_footprints",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:d_farnorth_fence_01a",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 840
+    },
+    {
+      "key": "comp:d_mere_water_bottom_left",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 479
+    },
+    {
+      "key": "comp:b_arc_ship_01",
+      "type": "array",
+      "count": 54,
+      "compact_size_bytes": 4664
+    },
+    {
+      "key": "comp:d_blackhole",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 397
+    },
+    {
+      "key": "comp:d_hall_barrel",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 419
+    },
+    {
+      "key": "comp:d_fence_pirate_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 437
+    },
+    {
+      "key": "comp:b_dog_console",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1097
+    },
+    {
+      "key": "comp:d_sandtrack_04_p",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 427
+    },
+    {
+      "key": "comp:d_university_book_cupboard",
+      "type": "array",
+      "count": 29,
+      "compact_size_bytes": 2536
+    },
+    {
+      "key": "comp:b_cyber_conveyor",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3584
+    },
+    {
+      "key": "comp:b_olympic_board",
+      "type": "array",
+      "count": 17,
+      "compact_size_bytes": 1478
+    },
+    {
+      "key": "comp:b_underground_portal_2_1",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3631
+    },
+    {
+      "key": "comp:b_spooky_garden_bed_2",
+      "type": "array",
+      "count": 29,
+      "compact_size_bytes": 2537
+    },
+    {
+      "key": "comp:un_treasurebox_tools_03_0",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 491
+    },
+    {
+      "key": "comp:d_decorators_table",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 449
+    },
+    {
+      "key": "comp:d_footprint_yeti_r4",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 455
+    },
+    {
+      "key": "comp:d_trade_fence_03",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 821
+    },
+    {
+      "key": "comp:d_trade_fence_04",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 821
+    },
+    {
+      "key": "comp:d_ice_cubes_03",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:b_bath",
+      "type": "array",
+      "count": 11,
+      "compact_size_bytes": 849
+    },
+    {
+      "key": "comp:d_quest_egg",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:d_ice_cubes_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_trade_fence_01",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 821
+    },
+    {
+      "key": "comp:d_footprint_yeti_r3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 455
+    },
+    {
+      "key": "comp:d_ice_cubes_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 425
+    },
+    {
+      "key": "comp:d_trade_fence_02",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 821
+    },
+    {
+      "key": "comp:d_candy_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 401
+    },
+    {
+      "key": "comp:b_spooky_garden_bed",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 824
+    },
+    {
+      "key": "comp:d_hallowcastle",
+      "type": "array",
+      "count": 41,
+      "compact_size_bytes": 3572
+    },
+    {
+      "key": "comp:b_superhero_donut_pyramid",
+      "type": "array",
+      "count": 50,
+      "compact_size_bytes": 4517
+    },
+    {
+      "key": "comp:d_magic_dust_track_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 467
+    },
+    {
+      "key": "comp:d_magic_dust_track_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 467
+    },
+    {
+      "key": "comp:b_emotions_cocoa_machine_empty_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 493
+    },
+    {
+      "key": "comp:b_football_shop_souvenir",
+      "type": "array",
+      "count": 45,
+      "compact_size_bytes": 4026
+    },
+    {
+      "key": "comp:d_blue_lily",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 407
+    },
+    {
+      "key": "comp:b_emotions_tree_1",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:b_registration_book_auction",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 478
+    },
+    {
+      "key": "comp:d_tent_ready",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 383
+    },
+    {
+      "key": "comp:b_tavern_barrel",
+      "type": "array",
+      "count": 54,
+      "compact_size_bytes": 4753
+    },
+    {
+      "key": "comp:d_space_mushroom_01",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 844
+    },
+    {
+      "key": "comp:d_space_mushroom_03",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 844
+    },
+    {
+      "key": "comp:d_pumpkin_small",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_space_mushroom_02",
+      "type": "array",
+      "count": 9,
+      "compact_size_bytes": 844
+    },
+    {
+      "key": "comp:d_chest_rich_01",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:d_chest_rich_02",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 431
+    },
+    {
+      "key": "comp:b_water_filter",
+      "type": "array",
+      "count": 15,
+      "compact_size_bytes": 1305
+    },
+    {
+      "key": "comp:d_water_right",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 419
+    },
+    {
+      "key": "comp:dlc_beast_island",
+      "type": "array",
+      "count": 14,
+      "compact_size_bytes": 1233
+    },
+    {
+      "key": "comp:d_pirate_lantern_01_3",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 467
+    },
+    {
+      "key": "comp:d_pirate_lantern_01_4",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 467
+    },
+    {
+      "key": "comp:dlc_knight_island",
+      "type": "array",
+      "count": 66,
+      "compact_size_bytes": 6212
+    },
+    {
+      "key": "comp:b_emotions_tree_2",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 443
+    },
+    {
+      "key": "comp:b_broccoville_spotlight",
+      "type": "array",
+      "count": 13,
+      "compact_size_bytes": 1257
+    },
+    {
+      "key": "comp:d_skull",
+      "type": "array",
+      "count": 5,
+      "compact_size_bytes": 383
+    }
+  ],
+  "fragment_count": 4,
+  "fragment_max_bytes": 700000
+}

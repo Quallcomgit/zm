@@ -1,0 +1,50 @@
+{
+  "input_matches_csv_rows": 363,
+  "input_families_csv_rows": 3665,
+  "unique_binary_resources_probed": 1690,
+  "missing_binary_resources": 0,
+  "standard_decompression_successes": 270,
+  "decoded_files_written": 270,
+  "protobuf_wire_heuristic_candidates": 0,
+  "component_kind_resource_counts": {
+    "anim_obj": 510,
+    "spr": 491,
+    "mobj": 494,
+    "comp": 195
+  },
+  "magic_counts": {
+    "unknown": 1690
+  },
+  "size_by_component_kind": {
+    "anim_obj": {
+      "count": 510,
+      "min": 71,
+      "median": 86.0,
+      "max": 1197
+    },
+    "comp": {
+      "count": 195,
+      "min": 56,
+      "median": 76,
+      "max": 8072
+    },
+    "mobj": {
+      "count": 494,
+      "min": 48,
+      "median": 58.0,
+      "max": 104
+    },
+    "spr": {
+      "count": 491,
+      "min": 50,
+      "median": 60,
+      "max": 179
+    }
+  },
+  "caution": "A successful decompression identifies a standard wrapper only. A valid protobuf-wire parse is a heuristic and does not prove the resource schema. Unknown files may use a custom format or encryption.",
+  "outputs": [
+    "binary_probe\\binary_resource_probe.csv",
+    "binary_probe\\protobuf_wire_candidates.csv",
+    "binary_probe\\binary_probe_summary.json"
+  ]
+}

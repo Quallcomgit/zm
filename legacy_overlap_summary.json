@@ -1,0 +1,23 @@
+{
+  "items_file": "C:\\Users\\Quallcom\\Desktop\\apk\\items.json",
+  "items_raw_rows": 6264,
+  "items_after_exact_dedup": 5118,
+  "unique_objAnim_values": 2239,
+  "inventory_file": "C:\\Users\\Quallcom\\Desktop\\apk\\inventory.csv",
+  "inventory_rows": 29221,
+  "assets_desc_file": "C:\\Users\\Quallcom\\Desktop\\apk\\assets\\desc.txt",
+  "assets_desc_rows": 29268,
+  "composition_keys_in_assets_desc": 2370,
+  "assets_desc_rows_without_inventory_match": 0,
+  "small_desc_rows": 324,
+  "matched_item_ids": 325,
+  "matched_objAnim_values": 232,
+  "item_to_composition_rows": 363,
+  "item_to_component_rows": 3665,
+  "match_methods": {
+    "exact_objAnim_name": 295,
+    "removed_numeric_objAnim_suffix": 66,
+    "removed_base_suffix": 2
+  },
+  "warning": "Name-based matches are candidates only. They do not prove Castaways artwork is identical to social Zombie Farm artwork; compare visual appearance, dimensions, animation and composition."
+}
