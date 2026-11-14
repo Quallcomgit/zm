@@ -1,0 +1,19 @@
+{
+  "desc_records": 29268,
+  "map_configs_in_desc": 46,
+  "default_states_in_desc": 217,
+  "map_atlas_refs_in_desc": 67,
+  "selected_map_configs": 10,
+  "selected_default_states": 8,
+  "selected_atlas_refs": 67,
+  "unique_files_extracted": 26,
+  "missing_files": [],
+  "mp3_files_in_inventory": 22,
+  "selected_mode": "focused_islands",
+  "important_notes": [
+    "Map config BIN, default state BIN and atlas PNG are separate resource classes.",
+    "default_state is a Castaways map state, not proof of original social-game object placement.",
+    "Atlas textures provide tile artwork; the BIN format still needs decoding before map reconstruction.",
+    "MP3 inventory lists hashed audio payloads but does not identify what each sound plays."
+  ]
+}
