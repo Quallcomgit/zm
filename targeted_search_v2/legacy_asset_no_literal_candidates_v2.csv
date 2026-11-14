@@ -1,0 +1,1154 @@
+﻿item_id,item_type,item_title,legacy_objAnim,legacy_shopImage
+CR_19A,storageMaterial,Чёртовы брёвна,r_wood_a,
+CR_18,storageMaterial,Мрамор,r_green_barble,
+CR_39,storageMaterial,Белый мрамор,r_white_marble,
+CR_42A,storageMaterial,Чёртова секвойя,r_sequoia_a,
+SC_BASE,composition,База,b_staric,buildings/m_staric.png
+SC_GUARD_GRAVE_WITH_BRAINS,guardGrave,Сторож с мозгами,g_off_exhibit,zombies/m_off_guard.png
+SC_WOOD_GRAVE2_WITH_BRAINS,woodGraveDouble,Пара Дровосеков с мозгами,g_off_doublewood,zombies/m_off_doublewood.png
+SC_STONE_GRAVE2_WITH_BRAINS,stoneGraveDouble,Пара Камнетёсов с мозгами,g_off_doublestone,zombies/m_off_doublestone.png
+SC_FISHER_GRAVE_BRAINER,diggerGraveWithBrains,Рыбак с мозгами,g_fisher_brainer,zombies/m_fisher_brainer.png
+SC_TEAM_GRAVE_WITH_BRAINS,teamGraveWithBrains,Бригада Элвиса,g_team_off,zombies/m_brigada_off.png
+SC_TEAM_GRAVE_WITH_BRAINS_UN,teamGraveWithBrains,Бригада Элвиса,g_team_off_un,zombies/m_brigada_off.png
+SC_WOOD_GRAVE_WITH_BRAINS,woodGrave,Дровосек с мозгами,g_wood_brainer,zombies/m_woodcutter_brainer.png
+VALENT_GIFT_BOX6,pickupBox,Зомбилетто,d_candy01,decorations/m_candy01.png
+VALENT_GIFT_BOX7,pickupBox,Трюфель,d_candy04,decorations/m_candy04.png
+VALENT_GIFT_BOX8,pickupBox,Сладкий подарок,d_candypack01,decorations/m_candypack01.png
+MARCH_GIFT_BOX1,pickupBox,Корзина мимоз,d_mimosa,decorations/m_mimosa.png
+TIC_TAC_GIFT_BOX,pickupBox,Подарок от Кругосве Тика,d_tic_tac_gift,buildings/m_gift_1.png
+SYMBOL_D_BOX,pickupBox,Празничная Д,ds_symbol_d,decorations/ms_symbol_d.png
+SC_PICKUP_BOX_CAR,pickupBox,Чемодан,pickup_bagbox,
+CANDY1_SNOW01_BOX,pickupBox,Леденец,b_candy1_snow01,buildings/m_candy1_snow01.png
+CANDY1_SNOW02_BOX,pickupBox,Леденец,b_candy1_snow02,buildings/m_candy1_snow02.png
+CANDY1_SNOW03_BOX,pickupBox,Леденец,b_candy1_snow03,buildings/m_candy1_snow03.png
+CANDY2_SNOW01_BOX,pickupBox,Большой леденец,b_candy2_snow01,buildings/m_candy2_snow01.png
+CANDY2_SNOW02_BOX,pickupBox,Большой леденец,b_candy2_snow02,buildings/m_candy2_snow02.png
+CANDY2_SNOW03_BOX,pickupBox,Большой леденец,b_candy2_snow03,buildings/m_candy2_snow03.png
+SCYTHE1_SNOW01_BOX,pickupBox,Коса Смерти,b_scythe1_snow01,buildings/m_scythe1_snow01.png
+SCYTHE1_SNOW02_BOX,pickupBox,Коса Смерти,b_scythe1_snow02,buildings/m_scythe1_snow02.png
+SCYTHE1_SNOW03_BOX,pickupBox,Коса Смерти,b_scythe1_snow03,buildings/m_scythe1_snow03.png
+SCYTHE2_SNOW01_BOX,pickupBox,Коса,b_scythe2_snow01,buildings/m_scythe2_snow01.png
+SCYTHE2_SNOW02_BOX,pickupBox,Коса,b_scythe2_snow02,buildings/m_scythe2_snow02.png
+SCYTHE2_SNOW03_BOX,pickupBox,Коса,b_scythe2_snow03,buildings/m_scythe2_snow03.png
+RAVEL_RED_SNOW01_BOX,pickupBox,Красный клубок,b_ravel_red_snow01,buildings/m_ravel_red_snow01.png
+RAVEL_RED_SNOW02_BOX,pickupBox,Красный клубок,b_ravel_red_snow02,buildings/m_ravel_red_snow02.png
+RAVEL_BLUE_SNOW01_BOX,pickupBox,Синий клубок,b_ravel_blue_snow01,buildings/m_ravel_blue_snow01.png
+RAVEL_BLUE_SNOW02_BOX,pickupBox,Синий клубок,b_ravel_blue_snow02,buildings/m_ravel_blue_snow02.png
+WEALTH_VALBEAR,pickupBox,Тедди-лав,d_valbear,decorations/m_valbear.png
+SPACE_BOX1,pickupBox,Сокровища,d_scapsule_01,decorations/m_scapsule_01.png
+SPACE_BOX1A,pickupBox,Сокровища,d_scapsule_01,decorations/m_scapsule_01.png
+GIFT_BAG1,pickupBox,Мешок Санты,d_giftbag_01,decorations/m_giftbag_01.png
+GIFT_BAG2,pickupBox,Мешок Санты,d_giftbag_02,decorations/m_giftbag_02.png
+GIFT_BAG3,pickupBox,Мешок Санты,d_giftbag_03,decorations/m_giftbag_03.png
+SNOW_BAG1,pickupBox,Мешок с подарками,d_giftbag_01,decorations/m_giftbag_01.png
+SNOW_BAG2,pickupBox,Мешок с подарками,d_giftbag_02,decorations/m_giftbag_02.png
+SNOW_BAG3,pickupBox,Мешок с подарками,d_giftbag_03,decorations/m_giftbag_03.png
+ICECHEST,pickupBox,Сундук Снежища,d_icechest,decorations/m_icechest.png
+WEALTH_SCAPSULE1,pickupBox,Космическая капсула,d_scapsule_01,decorations/m_scapsule_01.png
+SC_SPRUCE2_A,woodTree,Заколдовано,d_bush3,decorations/m_spruce2.png
+SC_SPRUCE3_A,woodTree,Заколдовано,d_bush3,decorations/m_spruce3.png
+T_TREES_FOAM_BLUE,woodTree,Игрушечное дерево,t_trees_foam_blue,decorations/m_trees_foam_blue.png
+T_TREES_FOAM_GREEN,woodTree,Игрушечное дерево,t_trees_foam_green,decorations/m_trees_foam_green.png
+T_TREES_FOAM_LIME,woodTree,Игрушечное дерево,t_trees_foam_lime,decorations/m_trees_foam_lime.png
+T_TREES_FOAM_PINK,woodTree,Игрушечное дерево,t_trees_foam_pink,decorations/m_trees_foam_pink.png
+T_TREES_FOAM_YELLOW,woodTree,Игрушечное дерево,t_trees_foam_yellow,decorations/m_trees_foam_yellow.png
+G_GRASS_FOAM_BLUE,woodTree,Игрушечная трава,g_grass_foam_blue,decorations/m_grass_foam_blue.png
+G_GRASS_FOAM_GREEN,woodTree,Игрушечная трава,g_grass_foam_green,decorations/m_grass_foam_green.png
+G_GRASS_FOAM_LIME,woodTree,Игрушечная трава,g_grass_foam_lime,decorations/m_grass_foam_lime.png
+G_GRASS_FOAM_PINK,woodTree,Игрушечная трава,g_grass_foam_pink,decorations/m_grass_foam_pink.png
+G_GRASS_FOAM_YELLOW,woodTree,Игрушечная трава,g_grass_foam_yellow,decorations/m_grass_foam_yellow.png
+SC_PAPER_PINE1,stone,Бумажная шишка,paper_pine_cone_1,decorations/m_paper_pine_cone_1.png
+SC_STONEX1,stone,Мега Х,d_megax,decorations/m_stone22.png
+SC_OAK_PINK2,woodTree,Дубок розовый,t_oak_pink2,decorations/m_oak_pink2.png
+SC_OAK_PINK3,woodTree,Дубок розовый 2,t_oak_pink3,decorations/m_oak_pink3.png
+T_DARK_TREE1,woodTree,Старое дерево,t_dark_tree1,decorations/m_dark_tree1.png
+T_DARK_TREE2,woodTree,Старое дерево,t_dark_tree2,decorations/m_dark_tree2.png
+CH_TALLTREE_01,chop,Гигантское дерево,t_tree_cloud1,decorations/m_tree_cloud1.png
+CH_TALLTREE_02,chop,Гигантское дерево,t_tree_cloud2,decorations/m_tree_cloud2.png
+CH_TALLTREE_DARK_01,chop,Гигантское дерево,t_tree_cloud3,decorations/m_tree_cloud3.png
+CH_TALLTREE_DARK_02,chop,Гигантское дерево,t_tree_cloud4,decorations/m_tree_cloud4.png
+CH_FLOWERS_03,chop,Цветы,d_flower2_skyblue,decorations/m_flower2_skyblue.png
+CH_COTTONFLOWER,chop,Цветок Хлопка,d_cottonflower,decorations/m_cottonflower.png
+CH_BOTTLE_02,chop,Бутылка,d_bottle02,decorations/m_bottle02.png
+CH_ROPE,chop,Катушка,d_rope,decorations/m_rope.png
+CH_STONEDUNG1,chop,Подземный камень,d_stonedung1,decorations/m_stonedung1.png
+CH_STONEDUNG2,chop,Подземный камень,d_stonedung2,decorations/m_stonedung2.png
+CH_DINAMIC_LIGHT3,chop,Подземный камень,d_dinamic_light3,decorations/m_dinamic_light3.png
+CH_DINAMIC_LIGHT4,chop,Подземный камень,d_dinamic_light4,decorations/m_dinamic_light4.png
+CH_STALAGMIT_1,chop,Сталагмит,d_stalagmit_1,decorations/m_stalagmit_1.png
+CH_STALAGMIT_2,chop,Сталагмит,d_stalagmit_2,decorations/m_stalagmit_2.png
+CH_STALAGMIT_3,chop,Сталагмит,d_stalagmit_3,decorations/m_stalagmit_3.png
+CH_STALAGMIT_4,chop,Сталагмит,d_stalagmit_4,decorations/m_stalagmit_4.png
+CH_TENTAC_1,chop,Щупальца,d_tentac_1,decorations/m_tentac_1.png
+CH_TENTAC_2,chop,Щупальца,d_tentac_2,decorations/m_tentac_2.png
+CH_TENTAC_3,chop,Щупальца,d_tentac_3,decorations/m_tentac_3.png
+CH_TENTAC_4,chop,Щупальца,d_tentac_4,decorations/m_tentac_4.png
+CH_TENTAC_5,chop,Щупальца,d_tentac_5,decorations/m_tentac_5.png
+CH_TENTAC_6,chop,Щупальца,d_tentac_6,decorations/m_tentac_6.png
+CH_TENTAC_7,chop,Щупальца,d_tentac_7,decorations/m_tentac_7.png
+CH_TENTAC_8,chop,Щупальца,d_tentac_8,decorations/m_tentac_8.png
+CH_KAKTUS_1,chop,Бамбук,d_kaktusdvoinoy,decorations/m_kaktusdvoinoy.png
+CH_KAKTUS_2,chop,Бамбук,d_kaktuscenter,decorations/m_kaktuscenter.png
+CH_KAKTUS_3,chop,Бамбук,d_kaktusright,decorations/m_kaktusright.png
+CH_KAKTUS_4,chop,Бамбук,d_kaktusleft,decorations/m_kaktusleft.png
+CH_KAKTUS_5,chop,Бамбук,d_kaktussmall,decorations/m_kaktussmall.png
+CH_TROPICTREE1_ICE,chop,Северная пальма,t_tropictree_1_ice,decorations/m_tropictree01_ice.png
+CH_TROPICTREE2_ICE,chop,Северная пальма,t_tropictree_2_ice,decorations/m_tropictree02_ice.png
+CH_TROPICTREE3_ICE,chop,Северная пальма,t_tropictree_3_ice,decorations/m_tropictree03_ice.png
+CH_KRATER_1,chop,Кратер,d_krater_1,decorations/m_krater_1.png
+CH_KRATER_2,chop,Кратер,d_krater_2,decorations/m_krater_2.png
+CH_BOLETUS_1,chop,Гриб,d_boletus1,decorations/m_boletus1.png
+CH_BOLETUS_2,chop,Гриб,d_boletus2,decorations/m_boletus2.png
+CH_BOLETUS_3,chop,Гриб,d_boletus3,decorations/m_boletus3.png
+CH_LILAC_1,chop,Сирень,d_lilac1,decorations/m_lilac1.png
+CH_LILAC_2,chop,Сирень,d_lilac2,decorations/m_lilac2.png
+CH_LILAC_3,chop,Сирень,d_lilac3,decorations/m_lilac3.png
+CH_MAPLE_1,chop,Клен,d_maple1,decorations/m_maple1.png
+CH_MAPLE_2,chop,Клен,d_maple2,decorations/m_maple2.png
+CH_SLIME_ALGAE1,chop,Щупальца,d_slime_algae_1,decorations/m_slime_algae_1.png
+CH_SLIME_ALGAE2,chop,Щупальца,d_slime_algae_2,decorations/m_slime_algae_2.png
+CH_HEADSTONE1,chop,Надгробие,d_headstone_01,decorations/m_headstone01.png
+CH_HEADSTONE2,chop,Надгробие,d_headstone_02,decorations/m_headstone02.png
+CH_HEADSTONE3,chop,Надгробие,d_headstone_03,decorations/m_headstone03.png
+D_BUBBLESDARK_ANIM,decoration,Пузырьки,bubbles_d_anim,decorations/m_bubbles_d_anim.png
+D_BUBBLESDARK_ANIM2,decoration,Пузырьки,bubbles_d_anim2,decorations/m_bubbles_d_anim.png
+D_BUBBLESDARK_ANIM3,decoration,Пузырьки,bubbles_d_anim3,decorations/m_bubbles_d_anim.png
+D_BUBBLE_FAKE_1,decoration,Пузыри,bubbles_d_anim,decorations/m_bubbles_d_anim.png
+D_BUBBLE_FAKE_2,decoration,Пузыри,bubbles_d_anim2,decorations/m_bubbles_d_anim.png
+D_BUBBLE_FAKE_3,decoration,Пузыри,bubbles_d_anim3,decorations/m_bubbles_d_anim.png
+D_BUBBLE_FAKE_4,decoration,Пузыри,bubbles_d_anim3,decorations/m_bubbles_d_anim.png
+CH_SEAPLANTS_1,chop,Водоросли,d_seaplants01,decorations/m_seaplants1.png
+CH_SEAPLANTS_2,chop,Водоросли,d_seaplants02,decorations/m_seaplants2.png
+CH_SEAPLANTS_3,chop,Водоросли,d_seaplants03,decorations/m_seaplants3.png
+CH_SEAPLANTS_4,chop,Водоросли,d_seaplants04,decorations/m_seaplants4.png
+CH_SEAPLANTS_5,chop,Водоросли,d_seaplants05,decorations/m_seaplants5.png
+CH_SEAPLANTS_6,chop,Водоросли,d_seaplants06,decorations/m_seaplants6.png
+CH_SEAPLANTS_7,chop,Водоросли,d_seaplants07,decorations/m_seaplants7.png
+CH_SEAPLANTS_8,chop,Водоросли,d_seaplants08,decorations/m_seaplants8.png
+CH_SEAPLANTS_9,chop,Водоросли,d_seaplants09,decorations/m_seaplants9.png
+CH_SEAPLANTS_10,chop,Водоросли,d_seaplants10,decorations/m_seaplants10.png
+CH_SEAPLANTS_11,chop,Водоросли,d_seaplants11,decorations/m_seaplants11.png
+CH_SEAPLANTS_12,chop,Водоросли,d_seaplants12,decorations/m_seaplants12.png
+CH_SEAPLANTS_13,chop,Водоросли,d_seaplants13,decorations/m_seaplants13.png
+CH_SEAPLANTS_14,chop,Водоросли,d_seaplants14,decorations/m_seaplants14.png
+CH_SEAPLANTS_15,chop,Водоросли,d_seaplants03,decorations/m_seaplants3.png
+CH_SEAPLANTS_16,chop,Водоросли,d_seaplants16,decorations/m_seaplants16.png
+CH_SEAPLANTS_17,chop,Водоросли,d_seaplants15,decorations/m_seaplants15.png
+CH_SEAROCK_1,chop,Риф,d_searock01,decorations/m_searock1.png
+CH_SEAROCK_2,chop,Риф,d_searock02,decorations/m_searock2.png
+CH_SEAROCK_3,chop,Риф,d_searock03,decorations/m_searock3.png
+CH_SEAROCK_4,chop,Риф,d_searock04,decorations/m_searock4.png
+CH_SEAROCK_5,chop,Риф,d_searock05,decorations/m_searock5.png
+CH_SEAROCK_6,chop,Риф,d_searock06,decorations/m_searock6.png
+CH_SEAROCK_7,chop,Риф,d_searock07,decorations/m_searock7.png
+CH_SEASTONE_1,chop,Камень,d_seastone01,decorations/m_seastone1.png
+CH_SEASTONE_2,chop,Камень,d_seastone02,decorations/m_seastone2.png
+CH_SEASTONE_3,chop,Камень,d_seastone03,decorations/m_seastone3.png
+CH_LAVASTONE_1,chop,Риф,d_lavastone_1,decorations/m_lavastone_1.png
+CH_LAVASTONE_2,chop,Риф,d_lavastone_2,decorations/m_lavastone_2.png
+CH_LAVASTONE_3,chop,Риф,d_lavastone_3,decorations/m_lavastone_3.png
+CH_SEAPLANTS_18,chop,Водоросли,d_seaplants16,decorations/m_seaplants16.png
+CH_SEAPLANTS_19,chop,Водоросли,d_seaplants17,decorations/m_seaplants17.png
+CH_SEAPLANTS_20,chop,Водоросли,d_seaplants18,decorations/m_seaplants18.png
+CH_SEAPLANTS_21,chop,Водоросли,d_seaplants19,decorations/m_seaplants19.png
+CH_SEAPLANTS_22,chop,Водоросли,d_seaplants20,decorations/m_seaplants20.png
+CH_SEAPLANTS_23,chop,Водоросли,d_seaplants21,decorations/m_seaplants21.png
+CH_PAPER_PINE1,chop,Бумажная шишка,paper_pine_cone_1,decorations/m_paper_pine_cone_1.png
+D_METEOR,decoration,Метеорит,d_meteor,decorations/m_gate.png
+CH_METEORIT,chop,Метеорит,d_meteor_01,decorations/m_cubestone03.png
+D_BUBBLES_ANIM,decoration,Пузырьки,bubbles_anim,decorations/m_bubbles_anim.png
+D_BUBBLES_ANIM2,decoration,Пузырьки,bubbles_anim2,decorations/m_bubbles_anim.png
+D_BUBBLES_ANIM3,decoration,Пузырьки,bubbles_anim3,decorations/m_bubbles_anim.png
+D_PATH_PUZZLE_START2,decoration,Четыре Стихии,d_path_puzzle_start_2,decorations/m_path_puzzle_start_2.png
+D_BUOY_BIGSHIP,decoration,Домой с награбленным,b_pirate_bigship_sea,buildings/m_pirate_bigship.png
+D_BUOY_BOAT,decoration,Домой с награбленным,b_pirate_boat_sea,buildings/m_pirate_boat.png
+D_ONLINE_SANI,decoration,Домой с награбленным,b_sani_02,buildings/m_sani.png
+D_HELICOPTER,decoration,Домой с награбленным,b_helicopter02,buildings/m_helicopter.png
+D_SKI_JUMP,decoration,Домой с награбленным,b_ski_jump_02,buildings/m_ski_jump.png
+D_BOAT,decoration,Домой с награбленным,b_boat02,buildings/m_boat.png
+D_TAVERN,decoration,Домой с награбленным,b_tavern_02,buildings/m_ship_hold.png
+D_SFENCE_F_A,decoration,Звёздный забор,d_sfence_small_02_a,decorations/m_sfence_small_02_a.png
+D_SFENCE_SMALL_1_A,decoration,Звёздный забор,d_sfence_small_01_a,decorations/m_sfence_small_01_a.png
+D_SFENCE_SMALL_1_B,decoration,Звёздный забор,d_sfence_small_01_a,decorations/m_sfence_small_01_b.png
+D_SFENCE_SMALL_2_A,decoration,Звёздный забор,d_sfence_small_02_a,decorations/m_sfence_small_02_a.png
+D_SFENCE_SMALL_2_B,decoration,Звёздный забор,d_sfence_small_02_a,decorations/m_sfence_small_02_b.png
+D_SFENCE_SMALL_3_A,decoration,Звёздный забор,d_sfence_small_03_a,decorations/m_sfence_small_03_a.png
+D_SFENCE_SMALL_3_B,decoration,Звёздный забор,d_sfence_small_03_a,decorations/m_sfence_small_03_b.png
+D_SFENCE_SMALL_4_A,decoration,Звёздный забор,d_sfence_small_04_a,decorations/m_sfence_small_04_a.png
+D_SFENCE_SMALL_4_B,decoration,Звёздный забор,d_sfence_small_04_a,decorations/m_sfence_small_04_b.png
+D_SFENCE_1_A,decoration,Звёздный забор,d_sfence_01_b,decorations/m_sfence_01_a.png
+D_SFENCE_1_B,decoration,Звёздный забор,d_sfence_01_b,decorations/m_sfence_01_b.png
+D_SFENCE_2_A,decoration,Звёздный забор,d_sfence_02_b,decorations/m_sfence_02_a.png
+D_SFENCE_2_B,decoration,Звёздный забор,d_sfence_02_b,decorations/m_sfence_02_b.png
+D_SFENCE_3_A,decoration,Звёздный забор,d_sfence_03_b,decorations/m_sfence_03_a.png
+D_SFENCE_3_B,decoration,Звёздный забор,d_sfence_03_b,decorations/m_sfence_03_b.png
+D_SFENCE_4_A,decoration,Звёздный забор,d_sfence_04_b,decorations/m_sfence_04_a.png
+D_SFENCE_4_B,decoration,Звёздный забор,d_sfence_04_b,decorations/m_sfence_04_b.png
+D_PIRATE_CAPTURE_SLOT,decoration,Пиратская рулетка,d_slot_dublon,buildings/m_slot_b.png
+D_SKELETONS,decoration,Картёжники,d_skeletons,decorations/m_skeletons.png
+D_L_LANTERN2,loopDecoration,Фонарь,d_lantern2,decorations/m_lantern2.png
+D_L_LANTERN2_A,loopDecoration,Фонарь,d_lantern2,decorations/m_lantern2_a.png
+D_L_LANTERN3,loopDecoration,Простой фонарь,d_lantern3,decorations/m_lantern3.png
+D_L_LANTERN3_A,loopDecoration,Простой фонарь,d_lantern3,decorations/m_lantern3_a.png
+D_BEAR1,decoration,Медвезомби,d_bear1,decorations/m_bear1.png
+D_CLOCKTOWER,decoration,Часовня,d_clocktower,decorations/m_clocktower.png
+D_CLOWN,decoration,Клоун,d_clown,decorations/m_clown.png
+D_GARGOY,decoration,Горгулья раз,d_gargoy,decorations/m_gargoy.png
+D_GARGOYA,decoration,Горгулья два,d_gargoya,decorations/m_gargoya.png
+D_HAND1,decoration,Рука терминатора,d_hand1,decorations/m_hand1.png
+D_HAND2,decoration,Рука зомби,d_hand2,decorations/m_hand2.png
+D_HAND3,decoration,Зомби-рок,d_hand3,decorations/m_hand3.png
+D_SCOREBOARD,decoration,Табло,d_scoreboard01,decorations/m_scoreboard03.png
+D_SCOREBOARD,decoration,Табло,d_scoreboard02,decorations/m_scoreboard03.png
+D_NESCAFEBOARD,decoration,Бигборд,d_nescafeboard,decorations/m_scoreboard03.png
+D_VALENTBEAR_B,decoration,Миша,d_valentbear_b,decorations/m_valentbear_b.png
+D_CACTUS,decoration,Зомби-кактус,b_cactus01,buildings/m_cactus.png
+D_CATERPILLAR,decoration,Мозгожорка,d_caterpillar,decorations/m_caterpillar.png
+D_IDOL2,decoration,Идол каменный,d_idol2,decorations/m_idol2.png
+D_IDOL3,decoration,Идол раз,d_idol3a,decorations/m_idol3.png
+D_IDOL3A,decoration,Идол два,d_idol3a,decorations/m_idol3a.png
+D_LION1,decoration,Лев раз,d_lion1,decorations/m_lion1.png
+D_LION2,decoration,Лев два,d_lion2,decorations/m_lion2.png
+D_BUSH1_DARKGREEN,decoration,Куст тёмно-зелёный,d_bush1_darkgreen,decorations/m_bush1_darkgreen.png
+D_BUSH2_DARKGREEN,decoration,Ограда тёмно-зелёная,d_bush2_darkgreen,decorations/m_bush2_darkgreen.png
+D_CRYPTA,decoration,Склеп два,d_crypta,decorations/m_crypta.png
+D_FLOWER2_SKYBLUE,decoration,Лилии голубые,d_flower2_skyblue,decorations/m_flower2_skyblue.png
+D_FLOWER3_SKYBLUE,decoration,Тюльпаны голубые,d_flower3_skyblue,decorations/m_flower3_skyblue.png
+D_FLOWER4_SKYBLUE,decoration,Фиалки голубые,d_flower4_skyblue,decorations/m_flower4_skyblue.png
+DS_SYMBOL_A,decoration,Буква А,ds_symbol_a,decorations/ms_symbol_a.png
+DS_SYMBOL_B,decoration,Буква Б,ds_symbol_b,decorations/ms_symbol_b.png
+DS_SYMBOL_C,decoration,Буква Ц,ds_symbol_c,decorations/ms_symbol_c.png
+DS_SYMBOL_CH,decoration,Буква Ч,ds_symbol_ch,decorations/ms_symbol_ch.png
+DS_SYMBOL_D,decoration,Буква Д,ds_symbol_d,decorations/ms_symbol_d.png
+DS_SYMBOL_E,decoration,Буква Е,ds_symbol_e,decorations/ms_symbol_e.png
+DS_SYMBOL_E_1,decoration,Буква Э,ds_symbol_e_1,decorations/ms_symbol_e_1.png
+DS_SYMBOL_E_2,decoration,Буква Э укр,ds_symbol_e_2,decorations/ms_symbol_e_2.png
+DS_SYMBOL_F,decoration,Буква Ф,ds_symbol_f,decorations/ms_symbol_f.png
+DS_SYMBOL_G_1,decoration,Буква Г,ds_symbol_g_1,decorations/ms_symbol_g_1.png
+DS_SYMBOL_G_2,decoration,Буква Г укр,ds_symbol_g_2,decorations/ms_symbol_g_2.png
+DS_SYMBOL_H,decoration,Буква Х,ds_symbol_h,decorations/ms_symbol_h.png
+DS_SYMBOL_I,decoration,Буква И,ds_symbol_i,decorations/ms_symbol_i.png
+DS_SYMBOL_I_BEL,decoration,Буква И бел,ds_symbol_i_bel,decorations/ms_symbol_i_bel.png
+DS_SYMBOL_I_UKR,decoration,Буква И укр,ds_symbol_i_ukr,decorations/ms_symbol_i_ukr.png
+DS_SYMBOL_J,decoration,Буква Й,ds_symbol_j,decorations/ms_symbol_j.png
+DS_SYMBOL_JA,decoration,Буква Я,ds_symbol_ja,decorations/ms_symbol_ja.png
+DS_SYMBOL_JO,decoration,Буква Ё,ds_symbol_jo,decorations/ms_symbol_jo.png
+DS_SYMBOL_JU,decoration,Буква Ю,ds_symbol_ju,decorations/ms_symbol_ju.png
+DS_SYMBOL_K,decoration,Буква К,ds_symbol_k,decorations/ms_symbol_k.png
+DS_SYMBOL_L,decoration,Буква Л,ds_symbol_l,decorations/ms_symbol_l.png
+DS_SYMBOL_M,decoration,Буква М,ds_symbol_m,decorations/ms_symbol_m.png
+DS_SYMBOL_M_ZNAK,decoration,Буква Ь,ds_symbol_m_znak,decorations/ms_symbol_m_znak.png
+DS_SYMBOL_N,decoration,Буква Н,ds_symbol_n,decorations/ms_symbol_n.png
+DS_SYMBOL_O,decoration,Буква О,ds_symbol_o,decorations/ms_symbol_o.png
+DS_SYMBOL_P,decoration,Буква П,ds_symbol_p,decorations/ms_symbol_p.png
+DS_SYMBOL_R,decoration,Буква Р,ds_symbol_r,decorations/ms_symbol_r.png
+DS_SYMBOL_S,decoration,Буква С,ds_symbol_s,decorations/ms_symbol_s.png
+DS_SYMBOL_SCH,decoration,Буква Щ,ds_symbol_sch,decorations/ms_symbol_sch.png
+DS_SYMBOL_SH,decoration,Буква Ш,ds_symbol_sh,decorations/ms_symbol_sh.png
+DS_SYMBOL_T,decoration,Буква Т,ds_symbol_t,decorations/ms_symbol_t.png
+DS_SYMBOL_TV_ZNAK,decoration,Буква Ъ,ds_symbol_tv_znak,decorations/ms_symbol_tv_znak.png
+DS_SYMBOL_U,decoration,Буква У,ds_symbol_u,decorations/ms_symbol_u.png
+DS_SYMBOL_U_NESKL,decoration,Буква У бел,ds_symbol_u_neskl,decorations/ms_symbol_u_neskl.png
+DS_SYMBOL_V,decoration,Буква В,ds_symbol_v,decorations/ms_symbol_v.png
+DS_SYMBOL_Y,decoration,Буква Ы,ds_symbol_y,decorations/ms_symbol_y.png
+DS_SYMBOL_Z,decoration,Буква З,ds_symbol_z,decorations/ms_symbol_z.png
+DS_SYMBOL_ZH,decoration,Буква Ж,ds_symbol_zh,decorations/ms_symbol_zh.png
+D_SYMBOL_B,decoration,Буква Б,d_symbol_b,decorations/m_symbol_b.png
+D_SYMBOL_C,decoration,Буква Ц,d_symbol_c,decorations/m_symbol_c.png
+D_SYMBOL_CH,decoration,Буква Ч,d_symbol_ch,decorations/m_symbol_ch.png
+D_SYMBOL_D,decoration,Буква Д,d_symbol_d,decorations/m_symbol_d.png
+D_SYMBOL_I_BEL,decoration,Буква И бел,d_symbol_i_bel,decorations/m_symbol_i_bel.png
+D_SYMBOL_I_UKR,decoration,Буква И укр,d_symbol_i_ukr,decorations/m_symbol_i_ukr.png
+D_SYMBOL_JA,decoration,Буква Я,d_symbol_ja,decorations/m_symbol_ja.png
+D_SYMBOL_JO,decoration,Буква Ё,d_symbol_jo,decorations/m_symbol_jo.png
+D_SYMBOL_JU,decoration,Буква Ю,d_symbol_ju,decorations/m_symbol_ju.png
+D_SYMBOL_M,decoration,Буква М,d_symbol_m,decorations/m_symbol_m.png
+D_SYMBOL_M_ZNAK,decoration,Буква Ь,d_symbol_m_znak,decorations/m_symbol_m_znak.png
+D_SYMBOL_SCH,decoration,Буква Щ,d_symbol_sch,decorations/m_symbol_sch.png
+D_SYMBOL_SH,decoration,Буква Ш,d_symbol_sh,decorations/m_symbol_sh.png
+D_SYMBOL_TV_ZNAK,decoration,Буква Ъ,d_symbol_tv_znak,decorations/m_symbol_tv_znak.png
+D_SYMBOL_U_NESKL,decoration,Буква У бел,d_symbol_u_neskl,decorations/m_symbol_u_neskl.png
+D_SYMBOL_ZH,decoration,Буква Ж,d_symbol_zh,decorations/m_symbol_zh.png
+D_FENCE4,decoration,Забор,d_fence4,decorations/m_fence4.png
+D_FENCE4,decoration,Забор,d_fence4a,decorations/m_fence4.png
+D_FENCE4A,decoration,Забор,d_fence4a,decorations/m_fence4a.png
+D_FENCE4A,decoration,Забор,d_fence4,decorations/m_fence4a.png
+D_FENCE5,decoration,Забор,d_fence5,decorations/m_fence5.png
+D_FENCE5,decoration,Забор,d_fence5a,decorations/m_fence5.png
+D_FENCE5A,decoration,Забор,d_fence5a,decorations/m_fence5a.png
+D_FENCE5A,decoration,Забор,d_fence5,decorations/m_fence5a.png
+D_COLUMN1,decoration,Столб Золотой,d_column1,decorations/m_column1.png
+D_COLUMN2,decoration,Столб-Символ,d_column2,decorations/m_column2.png
+D_BESEDKA,decoration,Беседка,d_besedka,decorations/m_besedka.png
+D_STONEHEART1,decoration,Бетонное сердце,d_stoneheart1,decorations/m_stoneheart1.png
+D_STONEHEART2,decoration,Бетонное сердце,d_stoneheart2,decorations/m_stoneheart2.png
+D_PINKHEART1,decoration,Плюшевое сердце,d_pinkheart1,decorations/m_pinkheart1.png
+D_PINKHEART2,decoration,Плюшевое сердце,d_pinkheart2,decorations/m_pinkheart2.png
+D_MEGAX,decoration,Мега Х,d_megax,decorations/m_pinkheart2.png
+D_ROCK1,decoration,Скала 1,d_rock1,decorations/m_rock1.png
+D_ROCK2,decoration,Скала 1,d_rock2,decorations/m_rock2.png
+ST_EN_A,decoration,Буква A,st_en_a,decorations/m_st_en_a.png
+ST_EN_B,decoration,Буква B,st_en_b,decorations/m_st_en_b.png
+ST_EN_C,decoration,Буква C,st_en_c,decorations/m_st_en_c.png
+ST_EN_D,decoration,Буква D,st_en_d,decorations/m_st_en_d.png
+ST_EN_E,decoration,Буква E,st_en_e,decorations/m_st_en_e.png
+ST_EN_F,decoration,Буква F,st_en_f,decorations/m_st_en_f.png
+ST_EN_G,decoration,Буква G,st_en_g,decorations/m_st_en_g.png
+ST_EN_H,decoration,Буква H,st_en_h,decorations/m_st_en_h.png
+ST_EN_I,decoration,Буква I,st_en_i,decorations/m_st_en_i.png
+ST_EN_J,decoration,Буква J,st_en_j,decorations/m_st_en_j.png
+ST_EN_K,decoration,Буква K,st_en_k,decorations/m_st_en_k.png
+ST_EN_L,decoration,Буква L,st_en_l,decorations/m_st_en_l.png
+ST_EN_M,decoration,Буква M,st_en_m,decorations/m_st_en_m.png
+ST_EN_N,decoration,Буква N,st_en_n,decorations/m_st_en_n.png
+ST_EN_O,decoration,Буква O,st_en_o,decorations/m_st_en_o.png
+ST_EN_P,decoration,Буква P,st_en_p,decorations/m_st_en_p.png
+ST_EN_Q,decoration,Буква Q,st_en_q,decorations/m_st_en_q.png
+ST_EN_R,decoration,Буква R,st_en_r,decorations/m_st_en_r.png
+ST_EN_S,decoration,Буква S,st_en_s,decorations/m_st_en_s.png
+ST_EN_T,decoration,Буква T,st_en_t,decorations/m_st_en_t.png
+ST_EN_U,decoration,Буква U,st_en_u,decorations/m_st_en_u.png
+ST_EN_V,decoration,Буква V,st_en_v,decorations/m_st_en_v.png
+ST_EN_X,decoration,Буква X,st_en_x,decorations/m_st_en_x.png
+ST_EN_Y,decoration,Буква Y,st_en_y,decorations/m_st_en_y.png
+ST_EN_Z,decoration,Буква Z,st_en_z,decorations/m_st_en_z.png
+ST_EN_0,decoration,Цифра 0,st_en_0,decorations/m_symbol_0.png
+ST_EN_4,decoration,Цифра 4,st_en_4,decorations/m_symbol_4.png
+PN_EN_A,decoration,Буква A,pn_en_a,decorations/m_pl_en_a.png
+PN_EN_B,decoration,Буква B,pn_en_b,decorations/m_pl_en_b.png
+PN_EN_C,decoration,Буква C,pn_en_c,decorations/m_pl_en_c.png
+PN_EN_D,decoration,Буква D,pn_en_d,decorations/m_pl_en_d.png
+PN_EN_E,decoration,Буква E,pn_en_e,decorations/m_pl_en_e.png
+PN_EN_F,decoration,Буква F,pn_en_f,decorations/m_pl_en_f.png
+PN_EN_G,decoration,Буква G,pn_en_g,decorations/m_pl_en_g.png
+PN_EN_H,decoration,Буква H,pn_en_h,decorations/m_pl_en_h.png
+PN_EN_I,decoration,Буква I,pn_en_i,decorations/m_pl_en_i.png
+PN_EN_J,decoration,Буква J,pn_en_j,decorations/m_pl_en_j.png
+PN_EN_K,decoration,Буква K,pn_en_k,decorations/m_pl_en_k.png
+PN_EN_L,decoration,Буква L,pn_en_l,decorations/m_pl_en_l.png
+PN_EN_M,decoration,Буква M,pn_en_m,decorations/m_pl_en_m.png
+PN_EN_N,decoration,Буква N,pn_en_n,decorations/m_pl_en_n.png
+PN_EN_O,decoration,Буква O,pn_en_o,decorations/m_pl_en_o.png
+PN_EN_P,decoration,Буква P,pn_en_p,decorations/m_pl_en_p.png
+PN_EN_Q,decoration,Буква Q,pn_en_q,decorations/m_pl_en_q.png
+PN_EN_R,decoration,Буква R,pn_en_r,decorations/m_pl_en_r.png
+PN_EN_S,decoration,Буква S,pn_en_s,decorations/m_pl_en_s.png
+PN_EN_T,decoration,Буква T,pn_en_t,decorations/m_pl_en_t.png
+PN_EN_U,decoration,Буква U,pn_en_u,decorations/m_pl_en_u.png
+PN_EN_V,decoration,Буква V,pn_en_v,decorations/m_pl_en_v.png
+PN_EN_W,decoration,Буква W,pn_en_w,decorations/m_pl_en_w.png
+PN_EN_X,decoration,Буква X,pn_en_x,decorations/m_pl_en_x.png
+PN_EN_Y,decoration,Буква Y,pn_en_y,decorations/m_pl_en_y.png
+PN_EN_Z,decoration,Буква Z,pn_en_z,decorations/m_pl_en_z.png
+D_OLYMP_SIGN_START,decoration,Старт,d_olymp_sign_start,decorations/m_olympiad_sign_start.png
+D_OLYMP_SIGN_FINISH,decoration,Финиш,d_olymp_sign_finish,decorations/m_olympiad_sign_finish.png
+D_SPRING_VASE_1,decoration,Весенняя ваза,d_lejka01,decorations/m_lejka01.png
+D_SPRING_VASE_2,decoration,Весенняя ваза,d_lejka02,decorations/m_lejka02.png
+D_SPRING_VASE_3,decoration,Весенняя ваза,d_lejka03,decorations/m_lejka03.png
+D_PUMPKIN1,decoration,Тыква маленькая,d_pumpkin1,decorations/m_pumpkin1.png
+D_PUMPKIN2,decoration,Тыква большая,d_pumpkin2,decorations/m_pumpkin2.png
+D_CLOVER_BUSH1_1_TR,decoration,Цепкий куст,d_bush5_blue_tr,decorations/m_bush5_blue.png
+D_CLOVER_BUSH1_3_TR,decoration,Цепкий куст,d_bush5_red_tr,decorations/m_bush5_red.png
+D_CLOVER_BUSH1_5_TR,decoration,Цепкий куст,d_bush5_violet_tr,decorations/m_bush5_violet.png
+D_CLOVER_BUSH1_4_TR,decoration,Цепкий куст,d_bush5_white_tr,decorations/m_bush5_white.png
+D_CLOVER_BUSH1_2_TR,decoration,Цепкий куст,d_bush5_yellow_tr,decorations/m_bush5_yellow.png
+D_CLOVER_BUSH2_1_TR,decoration,Цепкий куст,d_bush5_blue_tr,decorations/m_bush5_blue.png
+D_CLOVER_BUSH2_3_TR,decoration,Цепкий куст,d_bush5_red_tr,decorations/m_bush5_red.png
+D_CLOVER_BUSH2_5_TR,decoration,Цепкий куст,d_bush5_violet_tr,decorations/m_bush5_violet.png
+D_CLOVER_BUSH2_4_TR,decoration,Цепкий куст,d_bush5_white_tr,decorations/m_bush5_white.png
+D_CLOVER_BUSH2_2_TR,decoration,Цепкий куст,d_bush5_yellow_tr,decorations/m_bush5_yellow.png
+SC_THUJA1_TR,decoration,Тыква большая,d_pumpkin2_transform,decorations/m_bush5_white.png
+SC_THUJA2_TR,decoration,Тыква маленькая,d_pumpkin1_transform,decorations/m_bush5_yellow.png
+SC_THUJA3_TR,decoration,Тыква маленькая,d_pumpkin1_transform,decorations/m_bush5_yellow.png
+SC_OAK_PINK2_TR,decoration,Тыква маленькая,d_pumpkin1_transform,decorations/m_bush5_yellow.png
+SC_OAK_PINK3_TR,decoration,Тыква маленькая,d_pumpkin1_transform,decorations/m_bush5_yellow.png
+SC_IVA_TR,decoration,Тыква маленькая,d_pumpkin1_transform,decorations/m_bush5_yellow.png
+D_CLOUDS_TR,decoration,Куст хваткий,d_bush3_tr,decorations/m_bush5_yellow.png
+D_CLOUDS1_TR,decoration,Куст хваткий,d_bush3_tr,decorations/m_bush5_yellow.png
+D_CLOUDS2_TR,decoration,Куст хваткий,d_bush3_tr,decorations/m_bush5_yellow.png
+D_POPPIES_BUSH_TR,decoration,Маковый куст,d_bush3_tr,decorations/m_poppies_bush.png
+D_POPPIES_BUSH2_TR,decoration,Мак,d_bush3_tr,decorations/m_poppies_bush2.png
+D_KOTEL,decoration,Котёл,d_kotel,decorations/m_kotel.png
+D_CHEREP1,decoration,Камни,d_cherep1,decorations/m_cherep1.png
+D_CHEREP2,decoration,Камни,d_cherep2,decorations/m_cherep2.png
+D_BUSH3,decoration,Куст хваткий,d_bush3,decorations/m_bush3.png
+D_DEADTREE2,decoration,Страшное дерево,d_deadtree2,decorations/m_deadtree2.png
+HALLOW11,messageBoard,Хэллоуин 11,hallow11,decorations/m_hallow11.png
+D_SNOWTRAIN,decoration,Снежный паровоз,d_snowtrain,decorations/m_snowtrain.png
+D_SNOWTREE,decoration,Снежное дерево,d_snowtree,decorations/m_snowtree.png
+D_SNOWWALL_A,decoration,Ледяной забор,d_snowwall_b,decorations/m_snowwall_a.png
+D_SNOWWALL_B,decoration,Ледяной забор,d_snowwall_b,decorations/m_snowwall_b.png
+D_SNOWBUSH1,decoration,Снежный куст,d_snowbush1,decorations/m_snowbush1.png
+D_SNOWBUSH2,decoration,Зимний папоротник,d_snowbush2,decorations/m_snowbush2.png
+D_IGLOO,decoration,Хижина,d_igloo,decorations/m_igloo.png
+D_KRATER_1,decoration,Кратер 1,d_krater_1,decorations/m_krater_1.png
+D_KRATER_2,decoration,Кратер 2,d_krater_2,decorations/m_krater_2.png
+D_TOOTH_1,decoration,Зуб дракона 1,d_tooth_1,decorations/m_tooth_1.png
+D_TOOTH_1B,decoration,Зуб дракона 1,d_tooth_1,decorations/m_tooth_1b.png
+D_TOOTH_2,decoration,Зуб дракона 2,d_tooth_2,decorations/m_tooth_2.png
+D_TOOTH_2B,decoration,Зуб дракона 2,d_tooth_2,decorations/m_tooth_2b.png
+D_TOOTH_3,decoration,Зуб дракона 3,d_tooth_3,decorations/m_tooth_3.png
+D_TOOTH_3,decoration,Зуб дракона 3,d_tooth_3b,decorations/m_tooth_3.png
+D_TOOTH_3B,decoration,Зуб дракона 3,d_tooth_3b,decorations/m_tooth_3b.png
+D_TOOTH_3B,decoration,Зуб дракона 3,d_tooth_3,decorations/m_tooth_3b.png
+D_SNOWHEAD2,decoration,Снежная Свобода,d_snowhead2,decorations/m_snowhead2.png
+D_SNOWHEAD,decoration,Твоя Свобода,d_snowhead,decorations/m_snowhead.png
+D_ICEMAN,decoration,Йети-зомби,d_iceman,decorations/m_iceman.png
+D_TANK,decoration,Танк,d_tank,decorations/m_tank.png
+D_SNOWZOMB,decoration,Дружба,d_snowzomb,decorations/m_snowzomb.png
+D_SNOWFLAKE,decoration,Снежинка,d_snowflake,decorations/m_snowflake.png
+D_SNOWFLAKE,decoration,Снежинка,d_snowflake2,decorations/m_snowflake.png
+D_SNOWFLAKE2,decoration,Снежинка,d_snowflake2,decorations/m_snowflake2.png
+D_SNOWFLAKE2,decoration,Снежинка,d_snowflake,decorations/m_snowflake2.png
+D_ANTIZOMBIE_01,decoration,Маленький протест,antizombie_01,decorations/m_antizombie_01.png
+D_ANTIZOMBIE_02,messageBoard,Большой протест,antizombie_02,decorations/m_antizombie_02.png
+D_WINNER_MM,decoration,Флаг Зомби Фермы,winner_mm,buildings/m_winner_mm.png
+D_WINNER_OK,decoration,Флаг Зомби Мании,winner_ok,buildings/m_winner_ok.png
+D_WINNER_VK,decoration,Флаг Зомби Фермы,winner_vk,buildings/m_winner_vk.png
+D_VALBEAR,decoration,Тедди-лав,d_valbear,decorations/m_valbear.png
+D_VALLEFT,decoration,Левая половина,d_valleft,decorations/m_valleft.png
+D_VALRIGHT,decoration,Правая половина,d_valright,decorations/m_valright.png
+D_DETIDAY,decoration,Медвежонок,d_detiday,decorations/m_detibear.png
+D_CLOUDS1,decoration,Облако 2,d_clouds1,decorations/m_clouds1.png
+D_CLOUDS2,decoration,Облако 3,d_clouds2,decorations/m_clouds2.png
+D_UMBRELLA1_1,decoration,Зонтик,d_umbrella1_1,decorations/m_umbrella1_1.png
+D_UMBRELLA1_1,decoration,Зонтик,d_umbrella1_2,decorations/m_umbrella1_1.png
+D_UMBRELLA1_2,decoration,Зонтик,d_umbrella1_2,decorations/m_umbrella1_2.png
+D_UMBRELLA1_2,decoration,Зонтик,d_umbrella1_1,decorations/m_umbrella1_2.png
+D_UMBRELLA2_1,decoration,Осенний зонт,d_umbrella2_1,decorations/m_umbrella2_1.png
+D_UMBRELLA2_1,decoration,Осенний зонт,d_umbrella2_2,decorations/m_umbrella2_1.png
+D_UMBRELLA2_2,decoration,Осенний зонт,d_umbrella2_2,decorations/m_umbrella2_2.png
+D_UMBRELLA2_2,decoration,Осенний зонт,d_umbrella2_1,decorations/m_umbrella2_2.png
+EN_SNOW_E,decoration,E,en_snow_e,decorations/en_snow_e.png
+EN_SNOW_F,decoration,F,en_snow_f,decorations/en_snow_f.png
+EN_SNOW_G,decoration,G,en_snow_g,decorations/en_snow_g.png
+EN_SNOW_H,decoration,H,en_snow_h,decorations/en_snow_h.png
+EN_SNOW_I,decoration,I,en_snow_i,decorations/en_snow_i.png
+EN_SNOW_J,decoration,J,en_snow_j,decorations/en_snow_j.png
+EN_SNOW_K,decoration,K,en_snow_k,decorations/en_snow_k.png
+EN_SNOW_N,decoration,N,en_snow_n,decorations/en_snow_n.png
+EN_SNOW_O,decoration,O,en_snow_o,decorations/en_snow_o.png
+EN_SNOW_P,decoration,P,en_snow_p,decorations/en_snow_p.png
+EN_SNOW_Q,decoration,Q,en_snow_q,decorations/en_snow_q.png
+EN_SNOW_R,decoration,R,en_snow_r,decorations/en_snow_r.png
+EN_SNOW_S,decoration,S,en_snow_s,decorations/en_snow_s.png
+EN_SNOW_T,decoration,T,en_snow_t,decorations/en_snow_t.png
+EN_SNOW_U,decoration,U,en_snow_u,decorations/en_snow_u.png
+EN_SNOW_V,decoration,V,en_snow_v,decorations/en_snow_v.png
+EN_SNOW_W,decoration,W,en_snow_w,decorations/en_snow_w.png
+EN_SNOW_X,decoration,X,en_snow_x,decorations/en_snow_x.png
+EN_SNOW_Y,decoration,Y,en_snow_y,decorations/en_snow_y.png
+EN_SNOW_Z,decoration,Z,en_snow_z,decorations/en_snow_z.png
+EN_SNOW_DOLLAR,decoration,Снежный доллар,en_snow_dollar,decorations/en_snow_dollar.png
+EN_SNOW_SMILE,decoration,Снежный смайлик,en_snow_smile,decorations/en_snow_smile.png
+EN_SNOW_STARBIG,decoration,Большая снежная звезда,en_snow_starbig,decorations/en_snow_starbig.png
+EN_SNOW_STARSMALL,decoration,Маленькая снежная звезда,en_snow_starsmall,decorations/en_snow_starsmall.png
+EN_SNOW_VOPROS,decoration,Снежный знак вопроса,en_snow_vopros,decorations/en_snow_vopros.png
+EN_SNOW_VOSKLICATELNYZNAK,decoration,Снежный восклицательный знак,en_snow_vosklicatelnyznak,decorations/en_snow_vosklicatelnyznak.png
+EN_SNOW_ZVEZDOCHKA,decoration,Снежная звёздочка,en_snow_zvezdochka,decorations/en_snow_zvezdochka.png
+RUS_SNOW_CH,decoration,Буква Ч,rus_snow_ch,decorations/rus_snow_ch.png
+RUS_SNOW_E,decoration,Буква Е,rus_snow_e,decorations/rus_snow_e.png
+RUS_SNOW_F,decoration,Буква Ф,rus_snow_f,decorations/rus_snow_f.png
+RUS_SNOW_G,decoration,Буква Г,rus_snow_g,decorations/rus_snow_g.png
+RUS_SNOW_H,decoration,Буква Х,rus_snow_h,decorations/rus_snow_h.png
+RUS_SNOW_I,decoration,Буква И,rus_snow_i,decorations/rus_snow_i.png
+RUS_SNOW_K,decoration,Буква К,rus_snow_k,decorations/rus_snow_k.png
+RUS_SNOW_MZN,decoration,Буква Ь,rus_snow_mzn,decorations/rus_snow_mzn.png
+RUS_SNOW_N,decoration,Буква Н,rus_snow_n,decorations/rus_snow_n.png
+RUS_SNOW_O,decoration,Буква О,rus_snow_o,decorations/rus_snow_o.png
+RUS_SNOW_P,decoration,Буква П,rus_snow_p,decorations/rus_snow_p.png
+RUS_SNOW_R,decoration,Буква Р,rus_snow_r,decorations/rus_snow_r.png
+RUS_SNOW_S,decoration,Буква С,rus_snow_s,decorations/rus_snow_s.png
+RUS_SNOW_SCH,decoration,Буква Щ,rus_snow_sch,decorations/rus_snow_sch.png
+RUS_SNOW_SH,decoration,Буква Ш,rus_snow_sh,decorations/rus_snow_sh.png
+RUS_SNOW_T,decoration,Буква Т,rus_snow_t,decorations/rus_snow_t.png
+RUS_SNOW_TVZN,decoration,Буква Ъ,rus_snow_tvzn,decorations/rus_snow_tvzn.png
+RUS_SNOW_U,decoration,Буква У,rus_snow_u,decorations/rus_snow_u.png
+RUS_SNOW_V,decoration,Буква В,rus_snow_v,decorations/rus_snow_v.png
+RUS_SNOW_Y,decoration,Буква Й,rus_snow_y,decorations/rus_snow_y.png
+RUS_SNOW_YA,decoration,Буква Я,rus_snow_ya,decorations/rus_snow_ya.png
+RUS_SNOW_YE,decoration,Буква Э,rus_snow_ye,decorations/rus_snow_ye.png
+RUS_SNOW_YO,decoration,Буква Ё,rus_snow_yo,decorations/rus_snow_yo.png
+RUS_SNOW_YU,decoration,Буква Ю,rus_snow_yu,decorations/rus_snow_yu.png
+RUS_SNOW_Z,decoration,Буква З,rus_snow_z,decorations/rus_snow_z.png
+RUS_SNOW_ZH,decoration,Буква Ж,rus_snow_zh,decorations/rus_snow_zh.png
+RUS_SNOW_YI,decoration,Буква Ы,rus_snow_yi,decorations/rus_snow_yi.png
+D_BUSHSMALL,decoration,Кустарник малый,d_bushsmall,decorations/m_bushsmall.png
+D_BUSHBIG,decoration,Кустарник большой,d_bushbig,decorations/m_bushbig.png
+D_STONEBIG,decoration,Замшелый камень,d_stonebig,decorations/m_stonebig.png
+D_STONESMALL,decoration,Замшелый камешек,d_stonesmall,decorations/m_stonesmall.png
+D_POPPIES_BUSH2_CLOSED,decoration,Мак,d_poppies_bush2_closed,decorations/m_poppies_bush2_closed.png
+D_GNOM_HOUSE_R,decoration,Терем 2,d_gnom_house_r,decorations/m_gnom_house_r.png
+D_SNOWMAN1,decoration,Снеговик в шляпе,d_snowman1,decorations/m_snowman1.png
+D_SNOWMAN2,decoration,Снеговик в кепке,d_snowman2,decorations/m_snowman2.png
+D_ARC_ROSE1,decoration,Весенняя арка,d_arc_rose1,decorations/m_arch_rose1.png
+D_ARC_ROSE1,decoration,Весенняя арка,d_arc_rose2,decorations/m_arch_rose1.png
+D_ARC_ROSE2,decoration,Весенняя арка,d_arc_rose2,decorations/m_arch_rose2.png
+D_ARC_ROSE2,decoration,Весенняя арка,d_arc_rose1,decorations/m_arch_rose2.png
+D_ARC_ROSE3,decoration,Весенняя арка,d_arc_rose3,decorations/m_arch_rose3.png
+D_ARC_ROSE3,decoration,Весенняя арка,d_arc_rose4,decorations/m_arch_rose3.png
+D_ARC_ROSE4,decoration,Весенняя арка,d_arc_rose4,decorations/m_arch_rose4.png
+D_ARC_ROSE4,decoration,Весенняя арка,d_arc_rose3,decorations/m_arch_rose4.png
+D_PRISONELL,decoration,Зомби в клетке,d_prisonell,decorations/m_prisoncell.png
+D_ZNAK_SLON1,messageBoard,Осторожно слон,d_znak_slon1,decorations/m_znak_slon1.png
+D_ZNAK_SLON2,messageBoard,Осторожно слон,d_znak_slon2,decorations/m_znak_slon2.png
+D_SAMOVAR,messageBoard,Самовар,d_samovar,decorations/m_samovar.png
+D_SYRENS,messageBoard,Сирены,d_syrens,decorations/m_syrens.png
+D_ADVBOARD,messageBoard,Неоновый щит,d_advboard,decorations/m_advboard.png
+D_DOVE,messageBoard,Влюблённые,d_dove,decorations/m_dove.png
+D_TSARBELL,messageBoard,Зомби-колокол,d_tsarbell,decorations/m_tsarbell.png
+D_MONEYBOX_PIG,messageBoard,Хрюшка,d_moneybox_pig_1,decorations/m_moneybox_pig_1.png
+D_LEVEL_1000,messageBoard,Мудрый зомби,d_level_1000,decorations/m_level_1000.png
+D_TIN_SOLDIER1,decoration,Солдатик,d_tin_soldier1_1,decorations/m_tin_soldier1.png
+D_TIN_SOLDIER1,decoration,Солдатик,d_tin_soldier1,decorations/m_tin_soldier1.png
+D_TIN_SOLDIER2,decoration,Солдатик,d_tin_soldier2_2,decorations/m_tin_soldier2.png
+D_TIN_SOLDIER2,decoration,Солдатик,d_tin_soldier2,decorations/m_tin_soldier2.png
+D_SEMAPHORE,decoration,Семафор,d_semaphore,decorations/m_semaphore.png
+D_SEMAPHORE,decoration,Семафор,d_semaphore_2,decorations/m_semaphore.png
+D_SEMAPHORE_2,decoration,Семафор,d_semaphore_2,decorations/m_semaphore_2.png
+D_SEMAPHORE_2,decoration,Семафор,d_semaphore,decorations/m_semaphore_2.png
+D_GLOBE_1,messageBoard,Большой глобус,d_globe_1,decorations/m_globe_1.png
+D_GLOBE_2,messageBoard,Средний глобус,d_globe_2,decorations/m_globe_2.png
+D_GLOBE_3,messageBoard,Малый глобус,d_globe_3,decorations/m_globe_3.png
+D_STARTLINE,decoration,Старт,d_startline,decorations/m_startline.png
+D_FLAG_BLUE_DARK,decoration,Флаг,d_flag_blue_dark,decorations/m_flag_blue_dark.png
+D_FLAG_RED_DARK,decoration,Флаг,d_flag_red_dark,decorations/m_flag_red_dark.png
+D_LILAC1,decoration,Сирень,d_lilac1,decorations/m_lilac1.png
+D_LILAC2,decoration,Сирень,d_lilac2,decorations/m_lilac2.png
+D_LILAC3,decoration,Сирень,d_lilac3,decorations/m_lilac3.png
+D_PILLAR,decoration,Вывеска,d_pillar,decorations/m_pillar.png
+D_SHIPWHELL,decoration,Штурвал,d_shipwhell,decorations/m_shipwhell.png
+D_BOTTLE01,decoration,Бутыль,d_bottle01,decorations/m_bottle01.png
+D_BOTTLE02,decoration,Бутыль,d_bottle02,decorations/m_bottle02.png
+D_VASE01,decoration,Ваза,d_vase01,decorations/m_vase01.png
+D_VASE02,decoration,Ваза,d_vase02,decorations/m_vase02.png
+D_PUCK_1,decoration,Шайба 2014,d_puck_1,decorations/m_puck_1.png
+SCASTLE_STRAW1,decoration,Стена,scastle_straw1_2,decorations/scastle_straw1.png
+SCASTLE_STRAW2,decoration,Окно,scastle_straw2_2,decorations/scastle_straw2.png
+SCASTLE_STRAW2,decoration,Окно,scastle_straw3_2,decorations/scastle_straw2.png
+SCASTLE_STRAW4,decoration,Дверь,scastle_straw4_2,decorations/scastle_straw4.png
+SCASTLE_STRAW4,decoration,Дверь,scastle_straw5_2,decorations/scastle_straw4.png
+SCASTLE_STRAW6,decoration,Дверь и окно,scastle_straw6_2,decorations/scastle_straw6.png
+SCASTLE_STRAW6,decoration,Дверь и окно,scastle_straw7_2,decorations/scastle_straw6.png
+SCASTLE_STRAW_R,decoration,Крыша,scastle_straw_r1_2,decorations/scastle_straw_r.png
+SCASTLE_STRAW_R,decoration,Крыша,scastle_straw_r2_2,decorations/scastle_straw_r.png
+SCASTLE_STRAW_R,decoration,Крыша,scastle_straw_r3_2,decorations/scastle_straw_r.png
+SCASTLE_STRAW_R,decoration,Крыша,scastle_straw_r4_2,decorations/scastle_straw_r.png
+SCASTLE_STRAW_F1,decoration,Окно с крышей,scastle_straw_f1_1,decorations/scastle_straw_f1.png
+SCASTLE_STRAW_F1,decoration,Окно с крышей,scastle_straw_f1_2,decorations/scastle_straw_f1.png
+SCASTLE_STRAW_F2,decoration,Дверь с крышей,scastle_straw_f2_1,decorations/scastle_straw_f2.png
+SCASTLE_STRAW_F2,decoration,Дверь с крышей,scastle_straw_f2_2,decorations/scastle_straw_f2.png
+SCASTLE_STRAW_F3,decoration,Первый этаж,scastle_straw_f3_1,decorations/scastle_straw_f3.png
+SCASTLE_STRAW_F3,decoration,Первый этаж,scastle_straw_f3_2,decorations/scastle_straw_f3.png
+SCASTLE_STRAW_F4,decoration,Второй этаж,scastle_straw_f4_1,decorations/scastle_straw_f4.png
+SCASTLE_STRAW_F4,decoration,Второй этаж,scastle_straw_f4_2,decorations/scastle_straw_f4.png
+SCASTLE_STRAW_F5,decoration,Третий этаж,scastle_straw_f5_1,decorations/scastle_straw_f5.png
+SCASTLE_STRAW_F5,decoration,Третий этаж,scastle_straw_f5_2,decorations/scastle_straw_f5.png
+SCASTLE_STRAW_F6,decoration,Четвёртый этаж,scastle_straw_f6_1,decorations/scastle_straw_f6.png
+SCASTLE_STRAW_F6,decoration,Четвёртый этаж,scastle_straw_f6_2,decorations/scastle_straw_f6.png
+SCASTLE_STRAW_F7,decoration,Пятый этаж,scastle_straw_f7_1,decorations/scastle_straw_f7.png
+SCASTLE_STRAW_F7,decoration,Пятый этаж,scastle_straw_f7_2,decorations/scastle_straw_f7.png
+SCASTLE_BRANCH1,decoration,Стена,scastle_branch1_2,decorations/scastle_branch1.png
+SCASTLE_BRANCH2,decoration,Окно,scastle_branch2_2,decorations/scastle_branch2.png
+SCASTLE_BRANCH2,decoration,Окно,scastle_branch3_2,decorations/scastle_branch2.png
+SCASTLE_BRANCH4,decoration,Дверь,scastle_branch4_2,decorations/scastle_branch4.png
+SCASTLE_BRANCH4,decoration,Дверь,scastle_branch5_2,decorations/scastle_branch4.png
+SCASTLE_BRANCH6,decoration,Дверь и окно,scastle_branch6_2,decorations/scastle_branch6.png
+SCASTLE_BRANCH6,decoration,Дверь и окно,scastle_branch7_2,decorations/scastle_branch6.png
+SCASTLE_BRANCH_R,decoration,Крыша,scastle_branch_r1_2,decorations/scastle_branch_r.png
+SCASTLE_BRANCH_R,decoration,Крыша,scastle_branch_r2_2,decorations/scastle_branch_r.png
+SCASTLE_BRANCH_R,decoration,Крыша,scastle_branch_r3_2,decorations/scastle_branch_r.png
+SCASTLE_BRANCH_R,decoration,Крыша,scastle_branch_r4_2,decorations/scastle_branch_r.png
+SCASTLE_BRANCH_F1,decoration,Окно с крышей,scastle_branch_f1_1,decorations/scastle_branch_f1.png
+SCASTLE_BRANCH_F1,decoration,Окно с крышей,scastle_branch_f1_2,decorations/scastle_branch_f1.png
+SCASTLE_BRANCH_F2,decoration,Дверь с крышей,scastle_branch_f2_1,decorations/scastle_branch_f2.png
+SCASTLE_BRANCH_F2,decoration,Дверь с крышей,scastle_branch_f2_2,decorations/scastle_branch_f2.png
+SCASTLE_BRANCH_F3,decoration,Первый этаж,scastle_branch_f3_1,decorations/scastle_branch_f3.png
+SCASTLE_BRANCH_F3,decoration,Первый этаж,scastle_branch_f3_2,decorations/scastle_branch_f3.png
+SCASTLE_BRANCH_F4,decoration,Второй этаж,scastle_branch_f4_1,decorations/scastle_branch_f4.png
+SCASTLE_BRANCH_F4,decoration,Второй этаж,scastle_branch_f4_2,decorations/scastle_branch_f4.png
+SCASTLE_BRANCH_F5,decoration,Третий этаж,scastle_branch_f5_1,decorations/scastle_branch_f5.png
+SCASTLE_BRANCH_F5,decoration,Третий этаж,scastle_branch_f5_2,decorations/scastle_branch_f5.png
+SCASTLE_BRANCH_F6,decoration,Четвёртый этаж,scastle_branch_f6_1,decorations/scastle_branch_f6.png
+SCASTLE_BRANCH_F6,decoration,Четвёртый этаж,scastle_branch_f6_2,decorations/scastle_branch_f6.png
+SCASTLE_BRANCH_F7,decoration,Пятый этаж,scastle_branch_f7_1,decorations/scastle_branch_f7.png
+SCASTLE_BRANCH_F7,decoration,Пятый этаж,scastle_branch_f7_2,decorations/scastle_branch_f7.png
+SCASTLE_STONE1,decoration,Стена,scastle_stone1_2,decorations/scastle_stone1.png
+SCASTLE_STONE2,decoration,Окно,scastle_stone2_2,decorations/scastle_stone2.png
+SCASTLE_STONE2,decoration,Окно,scastle_stone3_2,decorations/scastle_stone2.png
+SCASTLE_STONE4,decoration,Дверь,scastle_stone4_2,decorations/scastle_stone4.png
+SCASTLE_STONE4,decoration,Дверь,scastle_stone5_2,decorations/scastle_stone4.png
+SCASTLE_STONE6,decoration,Дверь и окно,scastle_stone6_2,decorations/scastle_stone6.png
+SCASTLE_STONE6,decoration,Дверь и окно,scastle_stone7_2,decorations/scastle_stone6.png
+SCASTLE_CUBE,decoration,Стена,scastle_cube,decorations/scastle_cube.png
+SCASTLE_DOOR,decoration,Двери,scastle_door_l,decorations/scastle_door_l.png
+SCASTLE_DOOR,decoration,Двери,scastle_door_r,decorations/scastle_door_l.png
+SCASTLE_DOOR_L,decoration,Двери 1,scastle_door_l,decorations/scastle_door_l.png
+SCASTLE_DOOR_R,decoration,Двери 2,scastle_door_r,decorations/scastle_door_r.png
+SCASTLE_ROOF_CL,decoration,Крыша без окна,scastle_roof_cl,decorations/scastle_roof01clear.png
+SCASTLE_ROOF_CL,decoration,Крыша без окна,scastle_roof_cl_3,decorations/scastle_roof01clear.png
+SCASTLE_ROOF_CL,decoration,Крыша без окна,scastle_roof_cl_5,decorations/scastle_roof01clear.png
+SCASTLE_ROOF_CL,decoration,Крыша без окна,scastle_roof_cl_7,decorations/scastle_roof01clear.png
+SCASTLE_ROOF,decoration,Крыша,scastle_roof_b,decorations/scastle_roof_b.png
+SCASTLE_ROOF,decoration,Крыша,scastle_roof_fr_3,decorations/scastle_roof_b.png
+SCASTLE_ROOF,decoration,Крыша,scastle_roof_fr_5,decorations/scastle_roof_b.png
+SCASTLE_ROOF,decoration,Крыша,scastle_roof_fr_7,decorations/scastle_roof_b.png
+SCASTLE_ROOF_B,decoration,Крыша 1,scastle_roof_b,decorations/scastle_roof_b.png
+SCASTLE_ROOF_FR,decoration,Крыша с трубой,scastle_roof_fr,decorations/scastle_roof_fr.png
+SCASTLE_UMB,decoration,Зонтик,scastle_umb,decorations/scastle_umb.png
+SCASTLE_UMB_C,decoration,Зонтик 2,scastle_umb_c,decorations/scastle_umb_c.png
+SCASTLE_WIND,decoration,Окно,scastle_wind_l,decorations/scastle_wind_r.png
+SCASTLE_WIND,decoration,Окно,scastle_wind_r,decorations/scastle_wind_r.png
+SCASTLE_WIND_L,decoration,Окно 1,scastle_wind_l,decorations/scastle_wind_l.png
+SCASTLE_WIND_R,decoration,Окно 2,scastle_wind_r,decorations/scastle_wind_r.png
+SCASTLE_POOL_DUCK,decoration,Уточка,scastle_pool_duck,decorations/scastle_pool_duck.png
+SCASTLE_POOL,decoration,Водичка,scastle_pool,decorations/scastle_pool.png
+SCASTLE_STAIRS,decoration,Лестница,scastle_stairs2,decorations/scastle_stairs02.png
+SCASTLE_STAIRS,decoration,Лестница,scastle_stairs1,decorations/scastle_stairs02.png
+SCASTLE_STAIRS,decoration,Лестница,scastle_stairs3,decorations/scastle_stairs02.png
+SCASTLE_STAIRS,decoration,Лестница,scastle_stairs4,decorations/scastle_stairs02.png
+SCASTLE_STAIRS03,decoration,Лестница 1,scastle_stairs3,decorations/scastle_stairs03.png
+SCASTLE_STAIRS04,decoration,Лестница 2,scastle_stairs4,decorations/scastle_stairs04.png
+SCASTLE_DIAMOND1,decoration,Этаж №1,scastle_diamond1,decorations/scastle_diamond1.png
+SCASTLE_DIAMOND2,decoration,Этаж №2,scastle_diamond2,decorations/scastle_diamond2.png
+SCASTLE_DIAMOND3,decoration,Этаж №3,scastle_diamond3,decorations/scastle_diamond3.png
+SCASTLE_DIAMOND4,decoration,Этаж №4,scastle_diamond4,decorations/scastle_diamond4.png
+SCASTLE_DIAMOND5,decoration,Этаж №5,scastle_diamond5,decorations/scastle_diamond5.png
+SCASTLE_DIAMOND7,decoration,Этаж №7,scastle_diamond7,decorations/scastle_diamond7.png
+SCASTLE_COL_A2,decoration,Большая колонна,scastle_col_a2,decorations/scastle_col_big.png
+SCASTLE_COL_B2,decoration,Колонна,scastle_col_b2,decorations/scastle_col_med.png
+SCASTLE_COL_C1,decoration,Колонны,scastle_col_c1,decorations/scastle_col_sm.png
+SCASTLE_COL_D2,decoration,Колонна с окном,scastle_col_d2,decorations/scastle_col_d1.png
+SCASTLE_ROOF_W,decoration,Крыша,scastle_roof_w1,decorations/scastle_roof_w.png
+SCASTLE_ROOF_W,decoration,Крыша,scastle_roof_w3,decorations/scastle_roof_w.png
+SCASTLE_ROOF_CL_BLUE,decoration,Крыша без окна,scastle_roof_cl_blue,decorations/scastle_roof_cl_blue.png
+SCASTLE_ROOF_CL_BLUE,decoration,Крыша без окна,scastle_roof_cl_blue_3,decorations/scastle_roof_cl_blue.png
+SCASTLE_ROOF_CL_BLUE,decoration,Крыша без окна,scastle_roof_cl_blue_5,decorations/scastle_roof_cl_blue.png
+SCASTLE_ROOF_CL_BLUE,decoration,Крыша без окна,scastle_roof_cl_blue_7,decorations/scastle_roof_cl_blue.png
+SCASTLE_ROOF_B_BLUE,decoration,Крыша,scastle_roof_b_blue,decorations/scastle_roof_b_blue.png
+SCASTLE_ROOF_B_BLUE,decoration,Крыша,scastle_roof_fr_blue_3,decorations/scastle_roof_b_blue.png
+SCASTLE_ROOF_B_BLUE,decoration,Крыша,scastle_roof_fr_blue_5,decorations/scastle_roof_b_blue.png
+SCASTLE_ROOF_B_BLUE,decoration,Крыша,scastle_roof_fr_blue_7,decorations/scastle_roof_b_blue.png
+SCASTLE_ROOF_FR_BLUE,decoration,Крыша с трубой,scastle_roof_fr_blue,decorations/scastle_roof_fr_blue.png
+SCASTLE_PATH1,decoration,Песочная дорожка,scastle_path1,decorations/scastle_path1.png
+SCASTLE_PATH1,decoration,Песочная дорожка,scastle_path2,decorations/scastle_path1.png
+SCASTLE_PATH3,decoration,Песочная дорожка,scastle_path3,decorations/scastle_path3.png
+SCASTLE_PATH3,decoration,Песочная дорожка,scastle_path4,decorations/scastle_path3.png
+SCASTLE_PATH3,decoration,Песочная дорожка,scastle_path5,decorations/scastle_path3.png
+SCASTLE_PATH3,decoration,Песочная дорожка,scastle_path6,decorations/scastle_path3.png
+SCASTLE_ROAD1,decoration,Мостовая,scastle_road1,decorations/scastle_road1.png
+SCASTLE_ROAD1,decoration,Мостовая,scastle_road2,decorations/scastle_road1.png
+SCASTLE_ROAD3,decoration,Мостовая,scastle_road3,decorations/scastle_road3.png
+SCASTLE_ROAD3,decoration,Мостовая,scastle_road4,decorations/scastle_road3.png
+SCASTLE_ROAD3,decoration,Мостовая,scastle_road5,decorations/scastle_road3.png
+SCASTLE_ROAD3,decoration,Мостовая,scastle_road6,decorations/scastle_road3.png
+SCASTLE_STAIRS5,decoration,Фигура,scastle_stairs5_1,decorations/scastle_stairs5.png
+SCASTLE_STAIRS5,decoration,Фигура,scastle_stairs5_2,decorations/scastle_stairs5.png
+SCASTLE_STAIRS5,decoration,Фигура,scastle_stairs5_3,decorations/scastle_stairs5.png
+SCASTLE_STAIRS5,decoration,Фигура,scastle_stairs5_4,decorations/scastle_stairs5.png
+SCASTLE_STAIRS6,decoration,Фигура,scastle_stairs6_1,decorations/scastle_stairs6.png
+SCASTLE_STAIRS6,decoration,Фигура,scastle_stairs6_2,decorations/scastle_stairs6.png
+SCASTLE_STAIRS6,decoration,Фигура,scastle_stairs6_3,decorations/scastle_stairs6.png
+SCASTLE_STAIRS6,decoration,Фигура,scastle_stairs6_4,decorations/scastle_stairs6.png
+SCASTLE_COL_1,decoration,Фигура,scastle_col_1,decorations/scastle_col_1.png
+SCASTLE_COL_2,decoration,Фигура,scastle_col_2,decorations/scastle_col_2.png
+SCASTLE_COL_3,decoration,Фигура,scastle_col_3,decorations/scastle_col_3.png
+SCASTLE_COL_4,decoration,Фигура,scastle_col_4,decorations/scastle_col_4.png
+SCASTLE_COL_5,decoration,Фигура,scastle_col_5,decorations/scastle_col_5.png
+SCASTLE_WIND_ROOF_W1,decoration,Фигура,scastle_wind_roof_w1,decorations/scastle_wind_roof_w1.png
+SCASTLE_WIND_ROOF_W1,decoration,Фигура,scastle_wind_roof_w2,decorations/scastle_wind_roof_w1.png
+SCASTLE_WIND_ROOF_W3,decoration,Фигура,scastle_wind_roof_w3,decorations/scastle_wind_roof_w3.png
+SCASTLE_WIND_ROOF_W3,decoration,Фигура,scastle_wind_roof_w4,decorations/scastle_wind_roof_w3.png
+SCASTLE_DOOR_WIND_W1,decoration,Фигура,scastle_door_wind_w1,decorations/scastle_door_wind_w1.png
+SCASTLE_DOOR_WIND_W1,decoration,Фигура,scastle_door_wind_w2,decorations/scastle_door_wind_w1.png
+SCASTLE_WIND_ROOF1,decoration,Фигура №1,scastle_wind_roof1,decorations/scastle_wind_roof1.png
+SCASTLE_WIND_ROOF2,decoration,Фигура №1,scastle_wind_roof2,decorations/scastle_wind_roof2.png
+SCASTLE_WIND_TOP,decoration,Фигура #2,scastle_wind_top1,decorations/scastle_wind_top1.png
+SCASTLE_WIND_TOP,decoration,Фигура #2,scastle_wind_top2,decorations/scastle_wind_top1.png
+SCASTLE_WIND_TOP1,decoration,Фигура №2,scastle_wind_top1,decorations/scastle_wind_top1.png
+SCASTLE_WIND_TOP2,decoration,Фигура №2,scastle_wind_top2,decorations/scastle_wind_top2.png
+SCASTLE_DOOR_ROOF1,decoration,Фигура #3,scastle_door_roof1,decorations/scastle_door_roof1.png
+SCASTLE_DOOR_ROOF2,decoration,Фигура #3,scastle_door_roof2,decorations/scastle_door_roof2.png
+SCASTLE_DOOR_TOP,decoration,Фигура #4,scastle_door_top1,decorations/scastle_door_top2.png
+SCASTLE_DOOR_TOP,decoration,Фигура #4,scastle_door_top2,decorations/scastle_door_top2.png
+SCASTLE_DOOR_TOP1,decoration,Фигура №4,scastle_door_top1,decorations/scastle_door_top1.png
+SCASTLE_DOOR_TOP2,decoration,Фигура №4,scastle_door_top2,decorations/scastle_door_top2.png
+SCASTLE_DOOR_TOWER,decoration,Фигура #5,scastle_door_tower1,decorations/scastle_door_tower1.png
+SCASTLE_DOOR_TOWER,decoration,Фигура #5,scastle_door_tower2,decorations/scastle_door_tower1.png
+SCASTLE_DOOR_TOWER1,decoration,Фигура №5,scastle_door_tower1,decorations/scastle_door_tower1.png
+SCASTLE_DOOR_TOWER2,decoration,Фигура №5,scastle_door_tower2,decorations/scastle_door_tower2.png
+SCASTLE_DOOR_WIND_TOP,decoration,Фигура #6,scastle_door_wind_top1,decorations/scastle_door_wind_top1.png
+SCASTLE_DOOR_WIND_TOP,decoration,Фигура #6,scastle_door_wind_top2,decorations/scastle_door_wind_top1.png
+SCASTLE_DOOR_WIND_TOP1,decoration,Фигура №6,scastle_door_wind_top1,decorations/scastle_door_wind_top1.png
+SCASTLE_DOOR_WIND_TOP2,decoration,Фигура №6,scastle_door_wind_top2,decorations/scastle_door_wind_top2.png
+SCASTLE_DOOR_WIND_TOWER,decoration,Фигура #7,scastle_door_wind_tower1,decorations/scastle_door_wind_tower1.png
+SCASTLE_DOOR_WIND_TOWER,decoration,Фигура #7,scastle_door_wind_tower2,decorations/scastle_door_wind_tower1.png
+SCASTLE_DOOR_WIND_TOWER1,decoration,Фигура №7,scastle_door_wind_tower1,decorations/scastle_door_wind_tower1.png
+SCASTLE_DOOR_WIND_TOWER2,decoration,Фигура №7,scastle_door_wind_tower2,decorations/scastle_door_wind_tower2.png
+SCASTLE_WIND_TOWER,decoration,Фигура #8,scastle_wind_tower1,decorations/scastle_wind_tower2.png
+SCASTLE_WIND_TOWER,decoration,Фигура #8,scastle_wind_tower2,decorations/scastle_wind_tower2.png
+SCASTLE_WIND_TOWER1,decoration,Фигура №8,scastle_wind_tower1,decorations/scastle_wind_tower1.png
+SCASTLE_WIND_TOWER2,decoration,Фигура №8,scastle_wind_tower2,decorations/scastle_wind_tower2.png
+SCASTLE_WIND_WIND_ROOF1,decoration,Фигура #9,scastle_wind_wind_roof1,decorations/scastle_wind_wind_roof1.png
+SCASTLE_WIND_WIND_ROOF2,decoration,Фигура #9,scastle_wind_wind_roof2,decorations/scastle_wind_wind_roof2.png
+SCASTLE_WIND2_TOWER1,decoration,Фигура #10,scastle_wind2_tower1,decorations/scastle_wind2_tower1.png
+SCASTLE_WIND2_TOWER1,decoration,Фигура #10,scastle_wind2_tower2,decorations/scastle_wind2_tower1.png
+SCASTLE_WIND2_TOP1,decoration,Фигура #11,scastle_wind2_top1,decorations/scastle_wind2_top1.png
+SCASTLE_WIND2_TOP1,decoration,Фигура #11,scastle_wind2_top2,decorations/scastle_wind2_top1.png
+SCASTLE_CUBE_TOP,decoration,Фигура #12,scastle_cube_top1,decorations/scastle_cube_top1.png
+SCASTLE_CUBE_TOP,decoration,Фигура #12,scastle_cube_top2,decorations/scastle_cube_top1.png
+SCASTLE_CUBE_TOP1,decoration,Фигура №12,scastle_cube_top1,decorations/scastle_cube_top1.png
+SCASTLE_CUBE_TOP2,decoration,Фигура №12,scastle_cube_top2,decorations/scastle_cube_top2.png
+SCASTLE_WIND2_ROOF_CL,decoration,Фигура #13,scastle_wind_wind_roof3,decorations/scastle_wind2_roof_cl.png
+SCASTLE_WIND2_ROOF_CL,decoration,Фигура #13,scastle_wind_wind_roof4,decorations/scastle_wind2_roof_cl.png
+SCASTLE_WIND2_ROOF_CL,decoration,Фигура #13,scastle_wind_wind_roof5,decorations/scastle_wind2_roof_cl.png
+SCASTLE_WIND_ROOF_CL,decoration,Фигура #14,scastle_wind_roof4,decorations/scastle_wind_roof_cl.png
+SCASTLE_WIND_ROOF_CL,decoration,Фигура #14,scastle_wind_roof5,decorations/scastle_wind_roof_cl.png
+SCASTLE_WIND_ROOF_CL,decoration,Фигура #14,scastle_wind_roof6,decorations/scastle_wind_roof_cl.png
+D_BONE_HANDS,decoration,Руки,d_bone_hands,decorations/m_bone_hands.png
+D_BONE_LEGS,decoration,Ноги,d_bone_legs,decorations/m_bone_legs.png
+D_BONE_HEADS,decoration,Головы,d_bone_heads,decorations/m_bone_heads.png
+D_BONE_RIBS,decoration,Кости,d_bone_ribs,decorations/m_bone_ribs.png
+D_PISA,decoration,Башня,b_pisa_02,buildings/m_pisa.png
+D_LEADER,decoration,Вождь,b_leader_02,buildings/m_leader.png
+D_NYTREE,decoration,Ёлка,b_nytree_02,buildings/m_nytree.png
+D_VALTOWER,decoration,Лестница в небо,b_valtower_02,buildings/m_valtower.png
+D_WHITEHOUSE,decoration,Белый дом,b_whitehouse_02,buildings/m_whitehouse.png
+D_GLOBE,decoration,Глобус,b_globe_02,buildings/m_globe.png
+D_SOLDIER,decoration,Адмирал,b_soldier_02,buildings/m_soldier.png
+D_TVSET,decoration,Зомбоящик,b_tvset_02,buildings/m_tvset.png
+D_AES,decoration,АЭС,b_aes_02,buildings/m_aes.png
+D_CASINO,decoration,Казино,b_casino2_02,buildings/m_casino2.png
+D_COLIZEUM,decoration,Колизей,b_colizeum_02,buildings/m_colizeum.png
+D_SCHOOL,decoration,Школа,b_school_02,buildings/m_school.png
+D_GUILDHALL,decoration,Дом знаний,b_guildhall_02,buildings/m_guildhall.png
+D_UNIVERCITY,decoration,Университет,b_univercity_02,buildings/m_univercity.png
+D_UNIVERCITY2,decoration,Университет,b_univercity_03,buildings/m_univercity.png
+D_OBSERVATORY,decoration,Планетарий,b_observatory_02,buildings/m_observatory.png
+D_BESEDKA_F,decoration,Беседка,d_besedka,decorations/m_besedka.png
+D_SNOWBUSH1F,decoration,Снежный куст,d_snowbush1,decorations/m_snowbush1.png
+D_PART_PLUMBING_PUMP1_W,decoration,Насос,d_pipes_pump1w,decorations/m_pipes_pump1_w.png
+D_PART_PLUMBING_PUMP2_W,decoration,Насос,d_pipes_pump2w,decorations/m_pipes_pump2_w.png
+D_PLUMBING_TABLET_W,decoration,Скрижаль,b_pipes_tablet_03,decorations/m_pipes_tablet.png
+D_PART_PUZZLE_FIRE,decoration,Идол Огня,d_part_puzzle_fire,decorations/m_part_puzzle_fire.png
+D_PART_PUZZLE_WATER,decoration,Идол Воды,d_part_puzzle_water,decorations/m_part_puzzle_water.png
+D_PART_PUZZLE_EARTH,decoration,Идол Земли,d_part_puzzle_earth,decorations/m_part_puzzle_earth.png
+D_PART_PUZZLE_AIR,decoration,Идол Воздуха,d_part_puzzle_air,decorations/m_part_puzzle_air.png
+D_SEATEMPLE,decoration,Храм,d_seatemple,buildings/m_seatemple.png
+D_PATH_SNOW01,decoration,Дорожка #1,d_path_snow01l,decorations/m_path_snow01.png
+D_PATH_SNOW02,decoration,Дорожка #2,d_path_snow02l,decorations/m_path_snow02.png
+D_PATH_SNOW03,decoration,Дорожка #3,d_path_snow03l,decorations/m_path_snow03.png
+D_PATH_SNOW04,decoration,Дорожка #4,d_path_snow04l,decorations/m_path_snow04.png
+D_PATH_SNOW05,decoration,Дорожка #5,d_path_snow05l,decorations/m_path_snow05.png
+D_PATH_SNOW06,decoration,Дорожка #6,d_path_snow06l,decorations/m_path_snow06.png
+PIRATE_CAPTURE_SLOT,pirateCaptureObject,Пиратская рулетка,b_slot_dublon_01,buildings/m_slot_b.png
+CAPTURE_HEART_1,captureObject,Плюшевое сердце,d_pinkheart1,decorations/m_pinkheart1.png
+CAPTURE_HEART_2,captureObject,Плюшевое сердце,d_pinkheart2,decorations/m_pinkheart2.png
+CAPTURE_STONEHEART_C,captureObject,Плюшевое сердце,d_stoneheart1,decorations/m_stoneheart1.png
+CAPTURE_STONEHEART_D,captureObject,Плюшевое сердце,d_stoneheart2,decorations/m_stoneheart2.png
+CAPTURE_UN_HEADSTONE_01,pickupBox,Надгробие,d_headstone_01,decorations/m_headstone01.png
+CAPTURE_UN_HEADSTONE_02,pickupBox,Надгробие,d_headstone_02,decorations/m_headstone02.png
+CAPTURE_UN_HEADSTONE_03,pickupBox,Надгробие,d_headstone_03,decorations/m_headstone03.png
+CAPTURE_ICEMAN,pickupBox,Йети-зомби,d_iceman,decorations/m_iceman.png
+FURRY_RAVEL_SKY,pickupBox,Голубой клубок,d_furryravel_sky,decorations/m_furryravel_sky.png
+CAPTURE_CANDY_1,pickupBox,Конфета,d_candy02,decorations/m_candy02.png
+CAPTURE_CANDY_2,pickupBox,Трюфель,d_candy03,decorations/m_candy03.png
+CAPTURE_LOLLIPOP_1,pickupBox,Большой леденец,b_candy2_03,buildings/m_candy2.png
+CAPTURE_LOLLIPOP_2,pickupBox,Леденец,b_candy1_03,buildings/m_candy1.png
+PIRATE_CAPTURE_RIBS,pirateCaptureObject,Кости,d_bone_ribs,decorations/m_bone_ribs.png
+PIRATE_CAPTURE_HEADS,pirateCaptureObject,Головы,d_bone_heads,decorations/m_bone_heads.png
+PIRATE_CAPTURE_LEGS,pirateCaptureObject,Ноги,d_bone_legs,decorations/m_bone_legs.png
+PIRATE_CAPTURE_HANDS,pirateCaptureObject,Руки,d_bone_hands,decorations/m_bone_hands.png
+PIRATE_CAPTURE_STAR01,pirateCaptureObject,Звёздочка,d_snowstar01,decorations/m_snowstar01.png
+PIRATE_CAPTURE_STAR02,pirateCaptureObject,Звёздочка,d_snowstar02,decorations/m_snowstar02.png
+PIRATE_CAPTURE_STAR03,pirateCaptureObject,Звёздочка,d_snowstar03,decorations/m_snowstar03.png
+PIRATE_CAPTURE_STAR04,pirateCaptureObject,Звёздочка,d_snowstar04,decorations/m_snowstar04.png
+PIRATE_CAPTURE_PODKOVA01,pirateCaptureObject,Подкова,d_podkova01,decorations/m_podkova01.png
+PIRATE_CAPTURE_PODKOVA02,pirateCaptureObject,Подкова,d_podkova02,decorations/m_podkova02.png
+PIRATE_CAPTURE_PODKOVA03,pirateCaptureObject,Подкова,d_podkova03,decorations/m_podkova03.png
+PIRATE_CAPTURE_PODKOVA04,pirateCaptureObject,Подкова,d_podkova04,decorations/m_podkova04.png
+D_HEADSTONE1,decoration,Могила Y,d_headstone_01,decorations/m_headstone01.png
+D_HEADSTONE2,decoration,Могила Х,d_headstone_02,decorations/m_headstone02.png
+D_HEADSTONE3,decoration,Могила Z,d_headstone_03,decorations/m_headstone03.png
+UN_CRYPTA,decoration,Склеп,d_crypta,decorations/m_un_bones.png
+UN_GOT_CRYPT_01,decoration,Домик стражника,un_got_crypt_01,decorations/m_un_got_crypt_01.png
+D_TENTAC_1,woodTree,Подземный ресурс,d_tentac_1,decorations/m_tentac_1.png
+D_TENTAC_2,woodTree,Подземный ресурс,d_tentac_2,decorations/m_tentac_2.png
+D_TENTAC_3,woodTree,Подземный ресурс,d_tentac_3,decorations/m_tentac_3.png
+D_TENTAC_4,woodTree,Подземный ресурс,d_tentac_4,decorations/m_tentac_4.png
+D_TENTAC_5,woodTree,Подземный ресурс,d_tentac_5,decorations/m_tentac_5.png
+D_TENTAC_6,woodTree,Подземный ресурс,d_tentac_6,decorations/m_tentac_6.png
+D_TENTAC_7,woodTree,Подземный ресурс,d_tentac_7,decorations/m_tentac_7.png
+D_TENTAC_8,woodTree,Подземный ресурс,d_tentac_8,decorations/m_tentac_8.png
+D_STONEDUNG1,woodTree,Подземный ресурс,d_stonedung1,decorations/m_stonedung1.png
+D_STONEDUNG2,woodTree,Подземный ресурс,d_stonedung2,decorations/m_stonedung2.png
+D_DINAMIC_LIGHT3,woodTree,Подземный ресурс,d_dinamic_light3,decorations/m_dinamic_light3.png
+D_DINAMIC_LIGHT4,woodTree,Подземный ресурс,d_dinamic_light4,decorations/m_dinamic_light4.png
+D_KAKTUSDVOINOY,woodTree,Подземный ресурс,d_kaktusdvoinoy,decorations/m_kaktusdvoinoy.png
+D_KAKTUSCENTER,woodTree,Подземный ресурс,d_kaktuscenter,decorations/m_kaktuscenter.png
+D_KAKTUSRIGHT,woodTree,Подземный ресурс,d_kaktusright,decorations/m_kaktusright.png
+D_KAKTUSLEFT,woodTree,Подземный ресурс,d_kaktusleft,decorations/m_kaktusleft.png
+D_KAKTUSSMALL,woodTree,Подземный ресурс,d_kaktussmall,decorations/m_kaktussmall.png
+D_STALAGMIT_1,woodTree,Подземный ресурс,d_stalagmit_1,decorations/m_stalagmit_2.png
+D_STALAGMIT_2,woodTree,Подземный ресурс,d_stalagmit_2,decorations/m_stalagmit_2.png
+D_STALAGMIT_3,woodTree,Подземный ресурс,d_stalagmit_3,decorations/m_stalagmit_3.png
+D_STALAGMIT_4,woodTree,Подземный ресурс,d_stalagmit_4,decorations/m_stalagmit_4.png
+D_STONEDUNG1A,woodTree,Подземный ресурс,d_stonedung1,decorations/m_stonedung1.png
+D_STONEDUNG2A,woodTree,Подземный ресурс,d_stonedung2,decorations/m_stonedung2.png
+B_ONLINE_SANI,onlinePirateShip,Сани,b_sani_01,buildings/m_sani.png
+B_UN_CRYPT,building,Склеп Желаний,un_got_crypt_01,decorations/m_un_got_crypt_01.png
+B_MAST,building,Мачта Желаний,b_mast,buildings/m_mast.png
+B_MAST_2,building,Мачта Желаний,b_mast,buildings/m_mast.png
+B_SEAMAST,building,Мачта Желаний,b_seamast,buildings/m_seamast.png
+B_SEAMAST_2,building,Мачта Желаний,b_seamast,buildings/m_seamast.png
+B_PIRATE_SLOT,building,Пиратская рулетка,b_slot_dublon_02,buildings/m_slot_b.png
+B_AIM,building,Мишень,b_aim,buildings/m_aim.png
+B_UNIVERCITY,building,Университет,b_univercity_01,buildings/m_univercity.png
+B_SLOT_B,building,Зомби-фортуна,b_slot_b,buildings/m_slot_b.png
+B_SLOT_MANDARIN,building,Мандариновый автомат,b_slot_mandarin,buildings/m_slot_mandarin.png
+B_FAVOURITES,favoritesBuilding,Оперный театр,b_sidney_01,buildings/m_sidney.png
+B_FAVOURITES_REAL,favoritesBuilding,Оперный театр,b_sidney_01,buildings/m_sidney.png
+G_ICE_BLOCK,friendTransformObject,Ледяная ловушка,d_icebeast02,decorations/m_icebeast02.png
+B_KITCHEN_INDESIT,building,Экс-Кухня,b_hidden_03,buildings/m_hidden_01.png
+B_PAINTBALL_TARGET1,friendGamesBuilding,Маленькая мишень,b_paintball_target1,buildings/m_paintball_target1.png
+B_PAINTBALL_TARGET2,friendGamesBuilding,Средняя мишень,b_paintball_target2,buildings/m_paintball_target2.png
+B_PAINTBALL_TARGET3,friendGamesBuilding,Большая мишень,b_paintball_target3,buildings/m_paintball_target3.png
+B_NYTREE,building,Ёлка,b_nytree_01,buildings/m_nytree.png
+B_PISA,building,Башня,b_pisa_01,buildings/m_pisa.png
+B_MAYA,building,Пирамида Майя,b_maya,buildings/m_maya.png
+B_TVSET,building,Зомбоящик,b_tvset_01,buildings/m_tvset.png
+B_LEADER,building,Вождь,b_leader_01,buildings/m_leader.png
+B_WHITEHOUSE,building,Белый дом,b_whitehouse_01,buildings/m_whitehouse.png
+B_STADIUM,building,Стадион,b_stadium_01,buildings/m_stadium.png
+B_FLAG_VIZOR_B,building,Vizor Interactive,b_flag_vizor_black,buildings/m_flag_vizor_b.png
+B_FLAG_VIZOR_W,building,Vizor Interactive,b_flag_vizor_white,buildings/m_flag_vizor_w.png
+B_STONEHANGE,building,Стоунхендж,b_stonehange,buildings/m_stonehange.png
+B_OSTANKINO,building,Останкино за монеты,b_ostankino,buildings/m_ostankino.png
+B_OSTANKINO_CASH,building,Останкино,b_ostankino,buildings/m_ostankino.png
+B_AES,building,АЭС,b_aes_01,buildings/m_aes.png
+B_CASINO,building,Казино,b_casino2_01,buildings/m_casino2.png
+B_SKLAD_COINS,building,Ангар за монеты,b_sklad,buildings/m_sklad.png
+B_SKLAD_CASH,building,Ангар за зомбаксы,b_sklad,buildings/m_sklad.png
+B_UN_SKLAD_CASH,building,Подземный ангар за зомбаксы,b_sklad_5,buildings/m_sklad_6.png
+B_COLIZEUM,building,Колизей,b_colizeum_01,buildings/m_colizeum.png
+B_PHONE,building,Мобильный телефон,b_phone,buildings/m_phone.png
+B_CARPET,building,Ковёр-самолёт,b_carpet,buildings/m_carpet.png
+B_DISCOVERY,building,Шаттл,b_discovery,buildings/m_discovery.png
+B_VALTOWER,building,Лестница в небо,b_valtower_01,buildings/m_valtower.png
+B_23FEB,building,Зомби-вертикаль,b_23feb,buildings/m_23feb.png
+B_SLEEPZOMB,building,Алтарь,b_sleepzomb,buildings/m_sleepzomb.png
+B_SCHOOL,building,Школа,b_school_01,buildings/m_school.png
+B_TRAMP_01,building,Домой,b_trampoline,buildings/m_trampoline.png
+B_TRAMP_02,building,Назад в Подножье,b_trampoline,buildings/m_trampoline.png
+B_TRAMP_03,building,Назад в Пещеры Зу,b_trampoline,buildings/m_trampoline.png
+B_TRAMP_04,building,Назад в Мексиканский каньон,b_trampoline,buildings/m_trampoline.png
+B_TRAMP_05,building,Назад в Копи царя зомби,b_trampoline,buildings/m_trampoline.png
+B_TRAMP_06,building,Назад в Нижнее днище,b_trampoline,buildings/m_trampoline.png
+B_TRAMP_07,building,Назад в Бездну,b_trampoline,buildings/m_trampoline.png
+B_BAVARIA,building,Альпийский дом,b_bavaria,buildings/m_bavaria.png
+B_RAKETA_BLU,building,Голубая ракета,b_raketa_blu,buildings/m_raketa_blu.png
+B_GLOBE,building,Глобус,b_globe_01,buildings/m_globe.png
+B_GUILDHALL,building,Дом знаний,b_guildhall_01,buildings/m_guildhall.png
+B_SOLDIER,building,Адмирал,b_soldier_01,buildings/m_soldier.png
+B_LIT,building,Экс-фабрика,b_hidden_03,buildings/m_hidden_01.png
+B_VAN_ICE_CREAM,building,Фургон,b_van_ice_cream,buildings/m_van_ice_cream.png
+B_VAN_ICE_CREAM_CASH,building,Фургон за зомбаксы,b_van_ice_cream,buildings/m_van_ice_cream.png
+B_CUPOLA_CASH,building,Купол,b_cupola,buildings/m_cupola.png
+B_CUPOLA,building,Купол,b_cupola,buildings/m_cupola.png
+B_SANDBOX,building,Песочница,b_sandbox,buildings/m_sandbox.png
+SCASTLE_BLACKBOX,building,Шкатулка,scastle_blackbox,decorations/scastle_blackbox.png
+SCASTLE_DIAMOND6,building,Этаж №6,scastle_diamond6,decorations/scastle_diamond6.png
+SCASTLE_HOUSE1,building,Песочный дом,scastle_house1,decorations/scastle_house1.png
+B_OBSERVATORY,building,Планетарий,b_observatory_01,buildings/m_observatory.png
+B_SHELTER,building,Убежище,b_shelter,buildings/m_shelter.png
+B_WIZARD_CARPET,building,Изумрудный ковёр,b_carpet2,buildings/m_carpet2.png
+B_GNOME_HOUSE_R,building,Терем,b_gnome_house_r,decorations/m_gnom_house_r.png
+B_GNOME_SUMMER_R,building,Терем,b_gnome_house_r,buildings/m_gnom_summer_r.png
+B_ZAPOROZHETS,building,Новое Корыто,b_zaporozhets,buildings/m_zaporozhets.png
+B_RUSALKA,building,Зомби Русалка,b_rusalka,buildings/m_rusalka
+B_SKLAD_2,building,Супер ангар,b_sklad_2,buildings/m_sklad_2.png
+B_CAULDRON,building,Котелок,b_cauldron01,buildings/m_cauldron.png
+B_CANDY1,building,Леденец,b_candy1_01,buildings/m_candy1.png
+B_CANDY2,building,Большой леденец,b_candy2_01,buildings/m_candy2.png
+B_SCYTHE1,building,Коса Смерти,b_scythe1_01,buildings/m_scythe1.png
+B_SCYTHE2,building,Коса,b_scythe2_01,buildings/m_scythe2.png
+B_RAVEL_RED,building,Красный клубок,b_ravel_red01,buildings/m_ravel_red.png
+B_RAVEL_BLUE,building,Синий клубок,b_ravel_blue01,buildings/m_ravel_blue.png
+B_PUMPKIN3,building,Тыква,b_pumpkin3,buildings/m_pumpkin3.png
+B_THIRD_ANNIVERSARY,building,Празничная,b_third_anniversary,buildings/m_third_anniversary_04.png
+B_THIRD_ANNIVERSARY_01,building,Празничная,b_third_anniversary_01,buildings/m_third_anniversary_01.png
+B_HYPER_SHERE,building,Гиперсфера за зомбаксы,b_hyper_shere_01,buildings/m_hyper_shere.png
+B_HYPER_SHERE_REAL,building,Гиперсфера,b_hyper_shere_01,buildings/m_hyper_shere.png
+B_CLOCKTOWER,building,Часовая башня,b_clocktower_01,buildings/m_clocktower.png
+B_PLUMBING_PUMP_1,building,Насос,b_pipes_pump1_0,buildings/m_pipes_pump1_1.png
+B_PLUMBING_PUMP_2,building,Насос,b_pipes_pump1_0,buildings/m_pipes_pump2_1.png
+B_PLUMBING_TABLET,building,Скрижаль,b_pipes_tablet_01,buildings/m_pipes_tablet.png
+B_PART_PUZZLE_FIRE,building,Идол Огня,b_part_puzzle_fire,decorations/m_part_puzzle_fire.png
+B_PART_PUZZLE_WATER,building,Идол Воды,b_part_puzzle_water,decorations/m_part_puzzle_water.png
+B_PART_PUZZLE_EARTH,building,Идол Земли,b_part_puzzle_earth,decorations/m_part_puzzle_earth.png
+B_PART_PUZZLE_AIR,building,Идол Воздуха,b_part_puzzle_air,decorations/m_part_puzzle_air.png
+B_AIRSHIP,building,Загадочный объект,b_construction1,buildings/m_airship.png
+B_SKI_JUMP,building,Лыжный трамплин,b_ski_jump_01,buildings/m_ski_jump.png
+B_FLYING_SAUCER,building,Загадочный объект,b_construction1,buildings/m_ufo.png
+B_SPACEPORT,building,Загадочный объект,b_construction1,buildings/m_rocket.png
+B_STATION_3,building,Загадочный объект,b_construction2,buildings/m_rocket.png
+B_MANHOLE,building,Чудо-котелок,b_cauldron01,buildings/m_cauldron.png
+B_STATION_2,building,Харчевня,b_tavern_01,buildings/m_tavern.png
+B_PANTRY_EXIT,building,Очаг,b_cauldron01,buildings/m_cauldron.png
+B_BIATHLON_FINISH,building,Финиш,b_finishline,buildings/m_finishline.png
+B_HELICOPTER,building,Вертолёт,b_helicopter01,buildings/m_helicopter.png
+B_BOAT,building,Парусник,b_boat01,buildings/m_boat.png
+B_NESCAFEBOAT,building,Парусник,b_nescafeboat_01,buildings/m_nescafeboat.png
+B_COFEE_EXIT_1,building,Домой,b_nescafeboat_02,buildings/m_isle_home.png
+B_COFEE_EXIT_2,building,Домой,b_nescafeboat_02,buildings/m_isle_home.png
+B_BIKE,building,Велосипед,b_bike01,buildings/m_bike.png
+B_THEMIS_1,building,Фемида,b_themis,buildings/m_themis.png
+B_THEMIS_2,building,Фемида,b_themis,buildings/m_themis.png
+B_THEMIS_DAY,building,Фемида,b_themis_day_01,buildings/m_themis_day.png
+B_CAGE_1,building,Клетка,b_prisoncell,buildings/m_prisoncell.png
+B_CAGE_2,building,Клетка,b_prisoncell,buildings/m_prisoncell.png
+B_ICE_ARENA,building,Ледовая арена,b_arena_01,buildings/m_arena.png
+B_HOCKEY_FINISH,building,Выход из арены,b_finishline,buildings/m_finishline.png
+B_DOVE,building,Загадочная Клетка,b_dove_01,buildings/m_dove.png
+B_BOAT_FOOTBALL,building,Парусник в Бразилию,b_boat03,buildings/m_boat04.png
+B_HANG_GLIDER,building,Дельтаплан,b_hang_glider_01,buildings/m_hang_glider.png
+B_HANG_GLIDER_EXIT,building,Дельтаплан,b_hang_glider_02,buildings/m_hang_glider.png
+B_HANG_GLIDER_EXIT2,building,Дельтаплан,b_hang_glider_02,buildings/m_hang_glider.png
+B_SATELLITE,building,Спутник,b_satellite_01,buildings/m_satellite.png
+B_BATHYSCAPHE,building,Батискаф,b_bathyscaphe_01,buildings/m_bathyscaphe.png
+B_BATHYSCAPHE_EXIT,building,Батискаф,b_bathyscaphe_anim,buildings/m_bathyscaphe_anim.png
+B_BATHYSCAPHE_EXIT2,building,Батискаф,b_bathyscaphe_anim,buildings/m_bathyscaphe_anim.png
+B_BATHYSCAPHE2,building,«Экспедитор-2»,b_bathyscaphe2_01,buildings/m_bathyscaphe2.png
+B_BATHYSCAPHE2_EXIT,building,«Экспедитор-2»,b_bathyscaphe2_anim,buildings/m_bathyscaphe2_anim.png
+B_BATHYSCAPHE2_EXIT2,building,«Экспедитор-2»,b_bathyscaphe2_anim,buildings/m_bathyscaphe2_anim.png
+B_NEMOSPHERE,building,Немосфера,b_nemosphere_01,buildings/m_nemosphere.png
+B_NEMOSPHERE_EXIT,building,Немосфера,b_nemosphere_anim,buildings/m_nemosphere.png
+B_NEMOSPHERE_EXIT2,building,Немосфера,b_nemosphere_anim,buildings/m_nemosphere.png
+B_GATE_ATLANTIS_EXIT,building,Расщелина,b_gate_atlantis_exit,buildings/m_gate_atlantis_exit.png
+B_GATE_ATLANTIS_EXIT2,building,Расщелина,b_gate_atlantis_exit,buildings/m_gate_atlantis_exit.png
+TO_SCOREBOARD,timedObject,Табло,d_scoreboard01,decorations/m_scoreboard.png
+TO_SCOREBOARD_2,timedObject,Табло,d_scoreboard01,decorations/m_scoreboard.png
+TO_SCOREBOARD_3,timedObject,Табло,d_scoreboard03,decorations/m_scoreboard03.png
+TO_NESCAFEBOARD,timedObject,Бигборд,d_nescafeboard,decorations/m_nescafeboard.png
+TO_PAPERBOARD,timedObject,Табло,d_scoreboard01,decorations/m_scoreboard.png
+TO_SNOWBOARD,timedObject,Табло,d_scoreboard04,decorations/m_scoreboard04.png
+B_BATUT,building,Надувной батут,b_batut_01,buildings/m_batut.png
+B_TELEPORTBOX,building,Телефонная будка,b_teleportbox_1,buildings/m_teleportbox.png
+B_TELEPORTBOX_RAINBOW,building,Телефонная будка,b_teleportbox_1,buildings/m_teleportbox.png
+B_TELEPORTBOX_RAINBOW_EXIT,building,Телефонная будка,b_teleportbox_2,buildings/m_teleportbox.png
+B_TELEPORTBOX_RAINBOW_EXIT2,building,Телефонная будка,b_teleportbox_2,buildings/m_teleportbox.png
+B_TELEPORTBOX_STARPASS,building,Телефонная будка,b_teleportbox_2,buildings/m_teleportbox.png
+B_LUNAR,building,Луноход,b_lunarrover_01,buildings/m_lunarrover.png
+B_LUNAR_EXIT,building,Луноход,b_lunarrover_02,buildings/m_lunarrover.png
+B_LUNAR_EXIT2,building,Луноход,b_lunarrover_02,buildings/m_lunarrover.png
+B_AREA_DELORIAN,building,Постройка пришельцев,b_construction1,buildings/m_rocket.png
+B_AREA_CREOCAMERA,building,Постройка пришельцев,b_construction1,buildings/m_rocket.png
+B_AREA_SKATBOAT,building,Постройка пришельцев,b_construction1,buildings/m_rocket.png
+B_AREA_SHATTLE,building,Постройка пришельцев,b_construction1,buildings/m_rocket.png
+ELKA_SMALL_GIFT,halloweenPrize,,b_elka_small_gift,
+CHERRY_CAKE_GIFT,halloweenPrize,,b_cherry_cake_gift,
+ELKA_SNOW_GIFT,halloweenPrize,,b_elka_small_gift,
+OLYMPIAD_PRIZE,halloweenPrize,,b_big_ben_gifts,
+B_ICEPALACE_CASH,halloweenTower,Ледяной дворец,b_icepalace1,buildings/m_icepalace1.png
+B_MARCH,halloweenTower,Икебана,b_march,buildings/m_march.png
+B_BULB_TOWER,halloweenTower,Лампа света,b_bulb,buildings/m_bulb1x.png
+B_CAROUSEL,halloweenTower,Весёлая карусель,b_carousel,buildings/m_carousel.png
+B_HOCKEY_AIRPLANE,thanksgivingTable,Самолёт,b_hockey_airplane,buildings/m_hockey_airplane.png
+B_BULB_TABLE2_1,thanksgivingTable,Светильник 100W,b_bulb2_1,buildings/m_bulb2_1.png
+B_BULB_TABLE2_2,thanksgivingTable,Светильник 100W,b_bulb2_2,buildings/m_bulb2_1a.png
+B_BULB_TABLE4_1,thanksgivingTable,Квадро-светильник,b_bulb4_1,buildings/m_bulb4_1.png
+B_BULB_TABLE4_2,thanksgivingTable,Светильник 200W,b_bulb4_2,buildings/m_bulb4_2.png
+B_BULB_TABLE6,thanksgivingTable,Супер-светильник,b_bulb6,buildings/m_bulb6x.png
+B_SEATEMPLE,building,Храм,b_seatemple,buildings/m_seatemple.png
+B_SEASTATUE,building,Деталь механизма,b_seastatue,buildings/m_seastatue2.png
+B_POSEIDON,building,Статуя Зомбидона,b_poseidon_01,buildings/m_poseidon.png
+B_POSEIDON_2,building,Статуя Зомбидона,b_poseidon_01,buildings/m_poseidon.png
+B_CHARIOT,building,Колесница,b_chariot,buildings/m_chariot.png
+PATH_CHANNEL_START,pathStart,Башня,d_path_channel_start,decorations/m_path_channel_start.png
+PATH_PLUMBING_START,pathStart,Скрижаль,b_pipes_tablet_02,buildings/m_pipes_tablet.png
+PART_PLUMBING_PUMP_1,pathPart,Насос,b_pipes_pump1_1,buildings/m_pipes_pump1_1.png
+PART_PLUMBING_PUMP_2,pathPart,Насос,b_pipes_pump2_1,buildings/m_pipes_pump2_1.png
+PATH_PUZZLE_START,pathStart,Четыре Стихии,d_path_puzzle_start,decorations/m_path_puzzle_start.png
+PART_PUZZLE_FIRE,pathPart,Идол Огня,d_part_puzzle_fire,decorations/m_part_puzzle_fire.png
+PART_PUZZLE_WATER,pathPart,Идол Воды,d_part_puzzle_water,decorations/m_part_puzzle_water.png
+PART_PUZZLE_EARTH,pathPart,Идол Земли,d_part_puzzle_earth,decorations/m_part_puzzle_earth.png
+PART_PUZZLE_AIR,pathPart,Идол Воздуха,d_part_puzzle_air,decorations/m_part_puzzle_air.png
+PART_SNOW01,pathPart,Дорожка #1,d_path_snow01,decorations/m_path_snow01.png
+PART_SNOW02,pathPart,Дорожка #2,d_path_snow02,decorations/m_path_snow02.png
+PART_SNOW03,pathPart,Дорожка #3,d_path_snow03,decorations/m_path_snow03.png
+PART_SNOW04,pathPart,Дорожка #4,d_path_snow04,decorations/m_path_snow04.png
+PART_SNOW05,pathPart,Дорожка #5,d_path_snow05,decorations/m_path_snow05.png
+PART_SNOW06,pathPart,Дорожка #6,d_path_snow06,decorations/m_path_snow06.png
+PART_SNOW_FINISH,pathPart,Дорожка #5,d_path_snow05,decorations/m_path_snow05.png
+MISSION_ENEMY,missionEnemyObject,Странный Сильвер,g_pirate_enemy,crops/m_pirate_enemy.png
+P_04,seed,Баклажан,c_eggplant,crops/m_eggplant.png
+P_36,seed,Тростник,c_reed,crops/m_reed.png
+P_37,seed,Клубника,c_strawberry,crops/m_strawberry.png
+P_38,seed,Картошка,c_free,crops/m_free.png
+P_41,seed,Виноград,c_grape,crops/m_grape.png
+ZOLIAN1,seed,Золиан,c_zolian1,crops/m_strawberry.png
+ZOLIAN2,seed,Золиан,c_zolian2,crops/m_strawberry.png
+COFFEE_TREE,seed,Кофейное дерево,g_coffee_tree,crops/m_coffee_tree.png
+P_44,seed,Яблочный мак,c_applepoppy,crops/m_applepoppy.png
+P_57,seed,Малина,c_raspberries,crops/m_raspberries.png
+P_58,seed,Арбуз,c_watermelon,crops/m_watermelon.png
+P_59,seed,Рамбутан,c_rambutan,crops/m_rambutan.png
+P_60,seed,Клеверфон,c_smartphone,crops/m_smartphone.png
+P_61,seed,Плансолнух,c_tablet,crops/m_tablet.png
+P_63,seed,Сахарика,c_sugar,crops/m_sugarberry.png
+P_64,seed,Огурец,c_al_cucumber,crops/m_cucumber.png
+FT_CHERRY_WHITE,fruitTree,Вишня,fruit_cherry_white,crops/m_cherry.png
+CL_BANTIK_DEF,clothes,Бантик,fp_bantik,dress/bantik.png
+CL_BUDENOVKA_DEF,clothes,Будёновка,fp_budenovka,dress/budenovka.png
+CL_CAP01_DEF,clothes,Бейсболка,fp_cap01,dress/cap01.png
+CL_FORAG_CAP_DEF,clothes,Пилотка,fp_forag_cap,dress/forag_cap.png
+CL_GIRLDRESS01_DEF,clothes,Платье,fp_girldress01,dress/girldress01.png
+CL_HAIR01_DEF,clothes,Причёска Волна,fp_hair01,dress/hair01.png
+CL_HAIR02_DEF,clothes,Причёска Хиппи,fp_hair02,dress/hair02.png
+CL_HAIR03_DEF,clothes,Хвостики,fp_hair03,dress/hair03.png
+CL_HAIR03_BLONDE_DEF,clothes,Хвостики Блонди,fp_hair03_blonde,dress/hair03_blonde.png
+CL_MATROSKA_DEF,clothes,Тельняшка,fp_matroska,dress/matroska.png
+CL_NEWYEAR_HAT_DEF,clothes,Колпак Санты,fp_newyear_hat,dress/newyear_hat.png
+CL_PIRATEHAT_DEF,clothes,Треуголка,fp_piratehat,dress/piratehat.png
+CL_ROADCONE_DEF,clothes,Шляпа,fp_roadcone,dress/roadcone.png
+CL_SHIRT01_DEF,clothes,Майка рваная,fp_shirt01,dress/shirt01.png
+CL_VEDRO_DEF,clothes,Головняк,fp_vedro,dress/vedro.png
+CL_CAP01_1,clothes,Жёлтая бейсболка,fp_cap01,dress/cap01_1.png
+CL_CAP01_2,clothes,Розовая бейсболка,fp_cap01,dress/cap01_2.png
+CL_CAP01_3,clothes,Зелёная бейсболка,fp_cap01,dress/cap01_3.png
+CL_CAP01_4,clothes,Синяя бейсболка,fp_cap01,dress/cap01_4.png
+CL_CAP01_5,clothes,Оранжевая бейсболка,fp_cap01,dress/cap01_5.png
+CL_BUDENOVKA_1,clothes,Будёновка хаки,fp_budenovka,dress/budenovka01.png
+CL_BANTIK_1,clothes,Бантик,fp_bantik,dress/bantik.png
+CL_BALERINA_1,clothes,Гламурная Пачка,fp_balerina,dress/balerina01.png
+CL_BALERINA_2,clothes,Одуванчик,fp_balerina,dress/balerina02.png
+CL_BALERINA_3,clothes,Голубая Пачка,fp_balerina,dress/balerina03.png
+CL_BALERINA_4,clothes,Аленький цветочек,fp_balerina,dress/balerina04.png
+CL_ANGEL_WINGS_1,clothes,Небесный Ангел,fp_angel_wings,dress/angel_wings01.png
+CL_ANGEL_WINGS_2,clothes,Розовый Ангел,fp_angel_wings,dress/angel_wings02.png
+CL_ANGEL_WINGS_3,clothes,Солнечный Ангел,fp_angel_wings,dress/angel_wings03.png
+CL_ROADCONE_1,clothes,Шляпа,fp_roadcone,dress/roadcone01.png
+CL_ROADCONE_2,clothes,Шляпа,fp_roadcone,dress/roadcone02.png
+CL_ROADCONE_3,clothes,Шляпа,fp_roadcone,dress/roadcone03.png
+CL_ROADCONE_4,clothes,Шляпа,fp_roadcone,dress/roadcone04.png
+CL_ROADCONE_5,clothes,Шляпа,fp_roadcone,dress/roadcone05.png
+CL_SHIRT01_BLUE,clothes,Небесная маечка,fp_shirt01,dress/shirt01_blue.png
+CL_SHIRT01_2,clothes,Пурпурная маечка,fp_shirt01,dress/shirt01_02.png
+CL_SHIRT01_3,clothes,Фиолетовая маечка,fp_shirt01,dress/shirt01_03.png
+CL_SHIRT01_4,clothes,Маечка хаки,fp_shirt01,dress/shirt01_04.png
+CL_MATROSKA_PINK,clothes,Полосатая майка,fp_matroska,dress/matroska_pink.png
+CL_GIRLDRESS01_YELLOW,clothes,Солнечное платье,fp_girldress01,dress/girldress01_yellow.png
+CL_GIRLDRESS01_2,clothes,Васильковое платье,fp_girldress01,dress/girldress01_02.png
+CL_GIRLDRESS01_3,clothes,Малиновое платье,fp_girldress01,dress/girldress01_03.png
+CL_GIRLDRESS01_4,clothes,Платье Фуксия,fp_girldress01,dress/girldress01_04.png
+CL_HAIR01_A,clothes,Красная причёска,fp_hair01,dress/hair01a.png
+CL_HAIR01_B,clothes,Зелёная причёска,fp_hair01,dress/hair01b.png
+CL_HAIR02_A,clothes,Фиолетовый Хиппи,fp_hair02,dress/hair02a.png
+CL_HAIR02_B,clothes,Розовый Хиппи,fp_hair02,dress/hair02b.png
+CL_HAIR03_BLONDE_BLUE,clothes,Голубые Хвостики,fp_hair03_blonde,dress/hair03_blonde_blue.png
+CL_PIRATEHAT_BLUE,clothes,Синяя треуголка,fp_piratehat,dress/piratehat_blue.png
+CL_PIRATEHAT_1,clothes,Треуголка бордо,fp_piratehat,dress/piratehat01.png
+CL_PIRATEHAT_2,clothes,Зеленая треуголка,fp_piratehat,dress/piratehat02.png
+CL_VEDRO_YELLOW,clothes,Головняк,fp_vedro,dress/vedro_yellow.png
+CL_BALERINA_DEF,clothes,Балетная пачка,fp_balerina,dress/balerina.png
+CL_INDIAN_HAT_DEF,clothes,Вождь,fp_indian_hat,dress/indian_hat.png
+CL_INDIAN_HAT_1,clothes,Вождь,fp_indian_hat,dress/indian_hat.png
+CL_INDIAN_HAT_2,clothes,Вождь,fp_indian_hat,dress/indian_hat.png
+CL_INDIAN_HAT_3,clothes,Вождь,fp_indian_hat,dress/indian_hat.png
+CL_BATMAN_DEF,clothes,Бэтман,fp_batman,dress/batman.png
+CL_BATMAN_F1,clothes,Бэтман,fp_batman,dress/batman.png
+CL_BATMAN_HAT_DEF,clothes,Маска Бэтмана,fp_batman_hat,dress/batman_hat.png
+CL_MUMMY_DEF,clothes,Мумия,fp_mummy,dress/mummy.png
+CL_MUMMY_HAT_DEF,clothes,Голова Мумии,fp_mummy_hat,dress/mummy_hat.png
+CL_MUMMY_1,clothes,Морская Мумия,fp_mummy,dress/mummy01.png
+CL_MUMMY_HAT_1,clothes,Голова Мумии,fp_mummy_hat,dress/mummy_hat01.png
+CL_MUMMY_2,clothes,Красная Мумия,fp_mummy,dress/mummy02.png
+CL_MUMMY_HAT_2,clothes,Голова Мумии,fp_mummy_hat,dress/mummy_hat02.png
+CL_MUMMY_3,clothes,Желтая Мумия,fp_mummy,dress/mummy03.png
+CL_MUMMY_HAT_3,clothes,Голова Мумии,fp_mummy_hat,dress/mummy_hat03.png
+CL_SPIDERMAN_DEF,clothes,Спайдермэн,fp_spiderman,dress/spiderman.png
+CL_SPIDERMAN_HAT_DEF,clothes,Маска Спайдермэна,fp_spiderman_hat,dress/spiderman_hat.png
+CL_ANGEL_WINGS_DEF,clothes,Ангел,fp_angel_wings,dress/angel_wings.png
+CL_NIMBUS_DEF,clothes,Нимб,fp_nimbus,dress/nimbus.png
+CL_CRAWN_DEF,clothes,Царь,fp_crawn,dress/crawn.png
+CL_PUNK_PINK,clothes,Панк,fp_punk,dress/punk.png
+CL_NINJA,clothes,Ниндзя,fp_ninja,dress/ninja.png
+CL_NINJA_HEAD,clothes,Голова ниндзя,fp_ninja_head,dress/ninja_head.png
+CL_NINJA_1,clothes,Ниндзя в малиновом,fp_ninja,dress/ninja01.png
+CL_NINJA_HEAD_1,clothes,Голова ниндзя,fp_ninja_head,dress/ninja_head01.png
+CL_NINJA_2,clothes,Ниндзя в синем,fp_ninja,dress/ninja02.png
+CL_NINJA_HEAD_2,clothes,Голова ниндзя,fp_ninja_head,dress/ninja_head02.png
+CL_NINJA_3,clothes,Ниндзя в малиновом,fp_ninja,dress/ninja01.png
+CL_NINJA_HEAD_3,clothes,Голова ниндзя,fp_ninja_head,dress/ninja_head01.png
+CL_GIRL_HAT,clothes,Шляпка,fp_girl_hat,dress/girl_hat.png
+CL_GIRL_HAT_1,clothes,Шляпка жёлтая,fp_girl_hat,dress/girl_hat01.png
+CL_GIRL_HAT_2,clothes,Шляпка голубая,fp_girl_hat,dress/girl_hat02.png
+CL_GIRL_HAT_3,clothes,Шляпка розовая,fp_girl_hat,dress/girl_hat03.png
+CL_WO_HEAD,clothes,Мохнатая голова,fp_wo_head,dress/wo_head.png
+CL_WO_COSTUME,clothes,Мохнатый костюм,fp_wo_costume,dress/wo_costume.png
+CL_WO_HEAD_BLUE,clothes,Мохнатая голова,fp_wo_head,dress/wo_head.png
+CL_WO_COSTUME_BLUE,clothes,Мохнатый костюм,fp_wo_costume,dress/wo_costume.png
+CL_BRAIN_HEAD,clothes,Мозги,fp_brain_head,dress/brain_head.png
+CL_HORN01,clothes,Дьявольские рожки,fp_horn01,dress/horn01.png
+CL_POLICE_HAT,clothes,Полицейская шапка,fp_police_hat,dress/police_hat.png
+CL_BELL_WITCH,clothes,Колпак ведьмы,fp_bell_witch,dress/bell_witch.png
+CL_BELL_WITCH_1,clothes,Колпак синий,fp_bell_witch,dress/bell_witch01.png
+CL_BELL_WITCH_2,clothes,Колпак болотный,fp_bell_witch,dress/bell_witch02.png
+CL_BELL_WITCH_3,clothes,Ведьма в пурпурном,fp_bell_witch,dress/bell_witch03.png
+CL_DRESS_WITCH,clothes,Платье ведьмы,fp_dress_witch,dress/dress_witch.png
+CL_DRESS_WITCH_1,clothes,Платье ведьмы синее,fp_dress_witch,dress/dress_witch01.png
+CL_DRESS_WITCH_2,clothes,Платье ведьмы зелёное,fp_dress_witch,dress/dress_witch02.png
+CL_DRESS_WITCH_3,clothes,Платье ведьмы розовее,fp_dress_witch,dress/dress_witch03.png
+CL_DRESS_WITCH_4,clothes,Платье ведьмы розовое,fp_dress_witch,dress/dress_witch04.png
+CL_DRESS_WITCH_5,clothes,Платье ведьмы небесное,fp_dress_witch,dress/dress_witch05.png
+CL_DRACULA,clothes,Маска Дракулы,fp_dracula,dress/dracula.png
+CL_ASTRONAUT_HEAD,clothes,Костюм Астронавта,fp_astronaut_head,dress/astronaut_head.png
+CL_ASTRONAUT,clothes,Костюм Астронавта,fp_astronaut,dress/astronaut_body.png
+CL_ASTRONAUT_HEAD1,clothes,Костюм Астронавта,fp_astronaut_head,dress/astronaut_head.png
+CL_ASTRONAUT1,clothes,Костюм Астронавта,fp_astronaut,dress/astronaut_body.png
+CL_ASTRONAUT_HEAD2,clothes,Костюм Астронавта,fp_astronaut_head,dress/astronaut_head.png
+CL_ASTRONAUT2,clothes,Костюм Астронавта,fp_astronaut,dress/astronaut_body.png
+CL_ASTRONAUT_HEAD3,clothes,Костюм Астронавта,fp_astronaut_head,dress/astronaut_head.png
+CL_ASTRONAUT3,clothes,Костюм Астронавта,fp_astronaut,dress/astronaut_body.png
+CL_ASTRONAUT_HEAD4,clothes,Костюм Астронавта,fp_astronaut_head,dress/astronaut_head.png
+CL_ASTRONAUT4,clothes,Костюм Астронавта,fp_astronaut,dress/astronaut_body.png
+CL_OCTOPUS_HEAD,clothes,Осьминог красный,fp_octopus_head,dress/octopus.png
+CL_OCTOPUS_HEAD1,clothes,Осьминог синий,fp_octopus_head,dress/octopus.png
+CL_CARTON_HEAD,clothes,Картонная коробка,fp_carton_head,dress/carton.png
+CL_CARTON_HEAD_1,clothes,Зелёная коробка,fp_carton_head,dress/carton01.png
+CL_CARTON_HEAD_2,clothes,Оранжевая коробка,fp_carton_head,dress/carton02.png
+CL_CARTON_HEAD_3,clothes,Вишнёвая коробка,fp_carton_head,dress/carton03.png
+CL_MASK,clothes,Противогаз,fp_mask,dress/mask.png
+CL_TAILS,clothes,Фрак,fp_tails,dress/tails.png
+CL_MARRIAGE_HEAD,clothes,Фата,fp_marriage_head,dress/marriage_head.png
+CL_MARRIAGE,clothes,Свадебное платье,fp_marriage,dress/marriage.png
+CL_JAPAN_HEAD,clothes,Повязка,fp_japanhead,dress/japan_head.png
+CL_SAMURAI_HELM_HEAD,clothes,Шлем самурая,fp_samurai_helm,dress/samurai_helm.png
+CL_SAMURAI_ARMOR,clothes,Костюм самурая,fp_samurai_armor,dress/samurai_armor.png
+CL_EXTRATERRESTRIAL,clothes,Пришелец,fp_extraterrestrial,dress/extraterrestrial.png
+CL_EXTRATERRESTRIAL_BODY,clothes,Пришелец,farm_player,dress/extraterrestrial.png
+CL_HAIRPOLAND,clothes,Прическа фаната,fp_hair_poland,dress/hair_poland.png
+CL_HAIRUKRAINE,clothes,Прическа фаната,fp_hair_ukraine,dress/hair_ukraine.png
+CL_WIZARD_HEAD,clothes,Колпак,fp_wizard_head,dress/wizard_head.png
+CL_NEWYEAR_HAT_BLUE,clothes,Голубой колпак,fp_newyear_hat_blue,dress/newyear_hat.png
+CL_NEWYEAR_HAT_ORANGE,clothes,Оранжевый колпак,fp_newyear_hat_orange,dress/newyear_hat.png
+CL_NEWYEAR_HAT_GREEN,clothes,Зеленый колпак,fp_newyear_hat_green,dress/newyear_hat.png
+CL_PRISONER,clothes,Роба,fp_prisoner,dress/wizard_body.png
+CL_PPRISONER_HEAD,clothes,Шапка,fp_prisoner_head,dress/wizard_body.png
+CL_HOCKEY,clothes,Хоккеист,fp_hockey,dress/hockey.png
+CL_HOCKEY_HELMET,clothes,Шлем,fp_hockey_helmet,dress/hockey_helmet.png
+CL_CAP_BIRTHDAY,clothes,Праздничный колпак,fp_cap_birthday,dress/cap_birthday.png
+CL_DIVER,clothes,Костюм дайвера,fp_diver,dress/diver.png
+CL_DIVER_HEAD,clothes,Маска дайвера,fp_diver_head,dress/diver_head.png
+CL_MERMAID,clothes,Хвост русалки,fp_mermaid,dress/mermaid.png
+CL_MERMAID_HEAD,clothes,Прическа русалки,fp_mermaid_head,dress/mermaid_head.png
+CL_MERMAID_HEAD2,clothes,Прическа русалки,fp_mermaid_head,dress/mermaid_head.png
+CL_MERMAID_HEAD3,clothes,Прическа русалки,fp_mermaid_head,dress/mermaid_head.png
+CL_MERMAID_HEAD4,clothes,Прическа русалки,fp_mermaid_head,dress/mermaid_head.png
+CL_MERMAID_HEAD5,clothes,Прическа русалки,fp_mermaid_head,dress/mermaid_head.png
+PIRATE_BOX_DEAD,pickupBox,Мёртвый пират,b_pirate_box_dead,
+PIRATE_BOX_FULL,pickupBox,Сундук с сокровищами,b_pirate_box_full,
+PIRATE_BOX_FULL_2,pickupBox,Сундук с сокровищами,b_pirate_box_full2,
+PIRATE_ENEMY_1,pirateEnemy,Сильвер,g_pirate_enemy,crops/m_pirate_enemy.png
+PIRATE_ENEMY_2,pirateEnemy,Сильвер,g_pirate_enemy,crops/m_pirate_enemy.png
+PIRATE_ENEMY_3,pirateEnemy,Сильвер,g_pirate_enemy,crops/m_pirate_enemy.png

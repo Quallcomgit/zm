@@ -1,0 +1,19 @@
+{
+  "items_checked": 2782,
+  "composition_names_checked": 2370,
+  "candidate_rows_written": 9464,
+  "top_candidates_per_item": 8,
+  "minimum_score": 18.0,
+  "counts_by_best_candidate": {
+    "weak_name_lead": 1079,
+    "no_literal_name_lead": 1153,
+    "moderate_name_lead": 221,
+    "strong_name_lead": 329
+  },
+  "important": [
+    "В этой версии нет автоматического расширения широкими синонимами.",
+    "Даже сильное совпадение по имени не доказывает визуальную идентичность.",
+    "Отсутствие кандидата по имени не доказывает отсутствие графики в APK.",
+    "BIN-файлы и исходные ресурсы не изменяются."
+  ]
+}
