@@ -1,0 +1,151 @@
+{
+  "confirmed_count": 19,
+  "matches": [
+    {
+      "original_id": "B_SKLEP",
+      "original_name": "Склеп",
+      "castaways_resource": "comp:b_sklep",
+      "status": "ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ"
+    },
+    {
+      "original_id": "B_LIGHTHOUSE",
+      "original_name": "Маяк",
+      "castaways_resource": "comp:b_lighthouse",
+      "status": "ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ"
+    },
+    {
+      "original_id": "B_CASTLE",
+      "original_name": "Замок",
+      "castaways_resource": "comp:b_castle",
+      "status": "ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ"
+    },
+    {
+      "original_id": "B_MILL",
+      "original_name": "Мельница",
+      "castaways_resource": "comp:b_mill",
+      "status": "ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ"
+    },
+    {
+      "original_id": "B_SNOWMAN",
+      "original_name": "Снеговик",
+      "castaways_resource": "comp:b_snowman",
+      "status": "ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ"
+    },
+    {
+      "original_id": "B_BUSINESS",
+      "original_name": "Бизнес-Центр",
+      "castaways_resource": "comp:b_business",
+      "status": "ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ"
+    },
+    {
+      "original_id": "B_VILLA",
+      "original_name": "Особняк",
+      "castaways_resource": "comp:b_villa",
+      "status": "ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ"
+    },
+    {
+      "original_id": "B_OIL",
+      "original_name": "Нефтяная вышка",
+      "castaways_resource": "comp:b_oil",
+      "status": "ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ"
+    },
+    {
+      "original_id": "B_BABEL",
+      "original_name": "Вавилон",
+      "castaways_resource": "comp:b_babel",
+      "status": "ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ"
+    },
+    {
+      "original_id": "B_EIFFEL",
+      "original_name": "Эйфелевая",
+      "castaways_resource": "comp:b_eiffel",
+      "status": "ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ"
+    },
+    {
+      "original_id": "B_SPHINCS",
+      "original_name": "Сфинкс",
+      "castaways_resource": "comp:b_sphincs",
+      "status": "ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ"
+    },
+    {
+      "original_id": "B_WHEEL",
+      "original_name": "Карусель",
+      "castaways_resource": "comp:b_wheel",
+      "status": "ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ"
+    },
+    {
+      "original_id": "B_LOUVRE",
+      "original_name": "Лувр",
+      "castaways_resource": "comp:b_louvre",
+      "status": "ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ"
+    },
+    {
+      "original_id": "B_TOWER",
+      "original_name": "Китайская башня",
+      "castaways_resource": "comp:b_tower",
+      "status": "ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ"
+    },
+    {
+      "original_id": "B_CATAPULT",
+      "original_name": "Катапульта",
+      "castaways_resource": "comp:b_catapult",
+      "status": "ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ"
+    },
+    {
+      "original_id": "B_SHIP",
+      "original_name": "Летучий корабль",
+      "castaways_resource": "comp:b_ship",
+      "status": "ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ"
+    },
+    {
+      "original_id": "B_LIBRARY",
+      "original_name": "Библиотека",
+      "castaways_resource": "comp:b_library",
+      "status": "ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ"
+    },
+    {
+      "original_id": "B_WHITEHOUSE",
+      "original_name": "Белый дом",
+      "castaways_resource": "comp:b_residence + anim:b_residence_*",
+      "status": "ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ"
+    },
+    {
+      "original_id": "B_JAPAN",
+      "original_name": "Японский храм",
+      "castaways_resource": "items/m_temple; anim:b_japan_*",
+      "status": "ПОДТВЕРЖДЕНА ИДЕНТИЧНОСТЬ ОБЪЕКТА"
+    }
+  ],
+  "separate_not_equivalent_objects": [
+    {
+      "id": "B_PYRAMID",
+      "name": "Пирамида",
+      "level": 6
+    },
+    {
+      "id": "B_MAYA",
+      "name": "Пирамида Майя",
+      "level": 80
+    },
+    {
+      "id": "B_TOWER",
+      "name": "Китайская башня",
+      "level": 15
+    },
+    {
+      "id": "B_WALL",
+      "name": "Китайская стена",
+      "level": 15
+    },
+    {
+      "id": "B_JAPAN",
+      "name": "Японский храм",
+      "level": 38
+    },
+    {
+      "id": "B_TEMPLE",
+      "name": "Храм Артемиды",
+      "level": 1
+    }
+  ]
+}

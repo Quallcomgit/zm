@@ -1,0 +1,10 @@
+﻿original_id;original_name;level;original_objAnim;original_shopImage;castaways_resource;status;notes
+B_PYRAMID;Пирамида;6;b_pyramid_01;buildings/m_pyramid.png;;"ОРИГИНАЛЬНАЯ ПОСТРОЙКА ЕСТЬ; В CASTAWAYS НЕ НАЙДЕНА";Обычная Пирамида, уровень 6. Иконка m_pyramid.png присутствует в оригинальном манифесте. Не подменять egypt* или Пирамидой Майя.
+B_MAYA;Пирамида Майя;80;b_maya;buildings/m_maya.png;anim:b_ancestors_pyramid_1 / 01a76a8acaacf55f332f05d2c845c611.png;"ОТДЕЛЬНЫЙ ОБЪЕКТ; КАНДИДАТ";"Пирамида Майя, уровень 80; не эквивалент обычной Пирамиды."
+B_WHITEHOUSE;Белый дом;31;b_whitehouse_01;buildings/m_whitehouse.png;comp:b_residence;ПОДТВЕРЖДЕНО;"Белый дом, уровень 31; визуально подтверждён пользователем."
+B_JAPAN;Японский храм;38;b_japan;buildings/m_japan.png;"items/m_temple; anim:b_japan_*";ПОДТВЕРЖДЕНО / ИКОНКА + СЕРИЯ-КАНДИДАТ;Японский храм, уровень 38. Не смешивать с Храмом Артемиды.
+B_TEMPLE / D_TEMPLE;Храм Артемиды;1;b_temple_01;buildings/m_temple.png;comp:b_temple (требует отдельной сверки);НЕ СОПОСТАВЛЕНО;Храм Артемиды — самостоятельные записи оригинальной игры.
+B_TOWER;Китайская башня;15;b_tower;buildings/m_tower.png;comp:b_tower;ПОДТВЕРЖДЕНО;Китайская башня. B_WALL — отдельная Китайская стена.
+B_WALL / B_WALL_F;Китайская стена;15;b_wall;buildings/m_wall.png;;ОТДЕЛЬНЫЕ ОРИГИНАЛЬНЫЕ ЗАПИСИ;"Китайская стена; не объединять с B_TOWER."
+B_ROCKET;Ракета;33;b_rocket_01;buildings/m_rocket.png;;ИСТОЧНИКОВАЯ ЗАПИСЬ ПРОВЕРЕНА;"Ракета открывается на 33 уровне; имеет улучшения, мини-игру и путешествие на секретный остров."
+B_STONEHANGE;Стоунхендж;40;b_stonehange;buildings/m_stonehange.png;;ИСТОЧНИКОВАЯ ЗАПИСЬ ПРОВЕРЕНА;"Стоунхендж, уровень 40; crafts включают Огонь и Вату."

@@ -1,0 +1,12 @@
+﻿system;records_or_rules;primary_data_source;available_data;still_needs_recovery
+Object catalog;5118;items.json;IDs, 130 types, names, level gates, prices, XP, icon refs, object animation keys;Complete interpretation of every specialized type
+Buildings;415;items.json;"337 with upgrades; 133 with crafts; 118 with mini-games; 114 with travel rules";Precise runtime formulas/visual stage assets where not documented
+Planting and harvest;55;items.json;"All 55 seed entries have harvestTime and storageItem; 30 seconds to 7 days";Exact planting placement/crop state/yield logic from handlers or client
+Fruit trees;7;items.json;7 entries with fruitingTime, fruitingCount and storageItem;Tree growth visual stages and fruit drop animation
+Cooking recipes;64;items.json;"64 recipes; all ingredients and results resolve to catalog IDs; 5 minutes to 8 hours";Cook queue/worker speed-up/collection rules
+Resource extraction;527;items.json;"179 woodTree, 51 stone, 297 chop definitions; material and box references";Exact player action timing, worker modifiers, drop tables
+World maps;81;locations.csv + assets.csv;"44 normal + 37 exploration locations; all 81 map .bin paths listed in original manifest; backgrounds listed";Actual .bin payloads and 94 unique default_objects XML placements
+Missions and quests;637;items.json;637 gameMission records plus other mission types and prize references;Mission progression/state machine and server event conditions
+Inventory and collections;625;items.json;369 storage records and 256 collectionItem records;Capacity rules, stack limits, collection payout timing
+Relations graph;22541;item_relations.csv;"22,466 references resolved; 75 unresolved references form 62 symbolic groups";Resolve dynamic treasure/pirate pickup groups from handlers or server rules
+Original graphics manifest;10939;assets.csv + digests.txt;"Paths, SHA-1, byte sizes for original client assets; 99.5% of unique shopImage paths match";Actual SWF/ResPack binaries needed to extract image/sprite bytes

@@ -1,0 +1,20 @@
+﻿original_id;original_name;original_level;original_objAnim;original_shopImage;castaways_resource;status;basis
+B_SKLEP;Склеп;1;b_sklep_01;buildings/m_sklep.png;comp:b_sklep;ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ;Визуально подтверждено пользователем.
+B_LIGHTHOUSE;Маяк;3;b_lighthouse_01;buildings/m_lighthouse.png;comp:b_lighthouse;ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ;Визуально подтверждено пользователем.
+B_CASTLE;Замок;15;b_castle_01;buildings/m_castle.png;comp:b_castle;ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ;Визуально подтверждено пользователем.
+B_MILL;Мельница;9;b_mill_01;buildings/m_mill.png;comp:b_mill;ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ;Визуально подтверждено пользователем.
+B_SNOWMAN;Снеговик;10;b_snowman_01;buildings/m_snowman.png;comp:b_snowman;ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ;Визуально подтверждено пользователем.
+B_BUSINESS;Бизнес-Центр;28;b_business_01;buildings/m_business.png;comp:b_business;ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ;Визуально подтверждено пользователем.
+B_VILLA;Особняк;29;b_villa_01;buildings/m_villa.png;comp:b_villa;ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ;Визуально подтверждено пользователем.
+B_OIL;Нефтяная вышка;26;b_oil_01;buildings/m_oil.png;comp:b_oil;ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ;Визуально подтверждено пользователем.
+B_BABEL;Вавилон;42;b_babel_01;buildings/m_babel.png;comp:b_babel;ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ;Визуально подтверждено пользователем.
+B_EIFFEL;Эйфелевая;27;b_eiffel_01;buildings/m_eiffel.png;comp:b_eiffel;ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ;Визуально подтверждено пользователем.
+B_SPHINCS;Сфинкс;45;b_sphincs;buildings/m_sphincs.png;comp:b_sphincs;ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ;Визуально подтверждено пользователем.
+B_WHEEL;Карусель;1;b_wheel;buildings/m_wheel.png;comp:b_wheel;ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ;Визуально подтверждено пользователем.
+B_LOUVRE;Лувр;25;b_louvre;buildings/m_louvre.png;comp:b_louvre;ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ;Визуально подтверждено пользователем.
+B_TOWER;Китайская башня;15;b_tower;buildings/m_tower.png;comp:b_tower;ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ;Важно: B_WALL — отдельная Китайская стена.
+B_CATAPULT;Катапульта;1;b_catapult;buildings/m_catapult.png;comp:b_catapult;ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ;Визуально подтверждено пользователем.
+B_SHIP;Летучий корабль;85;b_ship_01;buildings/m_ship.png;comp:b_ship;ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ;Визуально подтверждено пользователем.
+B_LIBRARY;Библиотека;37;b_library;buildings/m_library.png;comp:b_library;ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ;Визуально подтверждено пользователем.
+B_WHITEHOUSE;Белый дом;31;b_whitehouse_01;buildings/m_whitehouse.png;comp:b_residence + anim:b_residence_*;ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ;"Castaways-название «Резиденция»; стадии здания и финальная PNG подтверждены пользователем."
+B_JAPAN;Японский храм;38;b_japan;buildings/m_japan.png;"items/m_temple; anim:b_japan_*";ПОДТВЕРЖДЕНА ИДЕНТИЧНОСТЬ ОБЪЕКТА;"Пользователь определил постройку Castaways с иконкой items/m_temple как Японский храм; серия b_japan логически соответствует B_JAPAN, но кадры отдельно не помечаем как лично просмотренные."

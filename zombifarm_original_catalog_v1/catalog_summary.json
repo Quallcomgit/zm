@@ -1,0 +1,63 @@
+{
+  "source_items_raw": 6264,
+  "source_items_after_exact_dedupe": 5118,
+  "distinct_ids": 5118,
+  "exact_duplicates_removed": 1146,
+  "unique_item_types": 130,
+  "assets_manifest_rows": 10939,
+  "assets_manifest_unique_paths": 10936,
+  "category_counts": {
+    "building": 415,
+    "seed": 55,
+    "recipe": 64,
+    "decoration": 1064,
+    "woodTree": 179,
+    "fruitTree": 7,
+    "stone": 51,
+    "pier": 49,
+    "location": 44,
+    "explorationLocation": 37,
+    "pathPart": 50
+  },
+  "image_reference_summary": {
+    "shopImage": {
+      "unique_refs": 2210,
+      "found": 2200,
+      "not_found": 10
+    },
+    "image": {
+      "unique_refs": 1141,
+      "found": 1140,
+      "not_found": 1
+    },
+    "storageImage": {
+      "unique_refs": 555,
+      "found": 555,
+      "not_found": 0
+    }
+  },
+  "image_reference_audit_unique_rows": 4452,
+  "item_relations_rows": 22541,
+  "item_relations_unresolved_rows": 75,
+  "item_relations_unresolved_groups": 62,
+  "source_priority": "items.json and assets.csv are the primary evidence for original social Zombie Farm. Castaways is auxiliary only.",
+  "limitations": [
+    "assets.csv is an original-game asset manifest (path, SHA-1, size), not the actual SWF/PNG payloads.",
+    "A FOUND manifest path proves that the original client manifest lists the resource, not that this export currently contains its bytes.",
+    "Exact duplicate removal only; no items with distinct content sharing the same ID were found."
+  ],
+  "mechanics_counts": {
+    "buildings_with_upgrades": 337,
+    "buildings_with_crafts": 133,
+    "buildings_with_games": 118,
+    "buildings_with_travels": 114,
+    "seeds_with_harvest_time": 55,
+    "recipes_with_cooking_time": 64,
+    "recipe_cooking_seconds_min": 300,
+    "recipe_cooking_seconds_max": 28800,
+    "default_object_xml_reference_count": 95,
+    "default_object_xml_unique_count": 94,
+    "default_object_xml_in_assets_manifest": 0,
+    "location_maps_in_assets_manifest": 81
+  }
+}
